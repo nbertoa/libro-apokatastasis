@@ -1,0 +1,17 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Temporary / generated
+*.tmp
+*.bak
+~*
+~$*
+
+# Research library stays outside Git
+*.pdf
+*.epub
+*.mobi
