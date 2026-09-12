@@ -25,11 +25,19 @@ jobs:
           set -euo pipefail
           mkdir -p manuscrito skills/escritura-pregunta-respuesta
 
-          cat .parts-text/ch3/*.part > /tmp/cap3-source.md
+          : > /tmp/cap3-source.md
+          for f in .parts-text/ch3/*.part; do
+            cat "$f" >> /tmp/cap3-source.md
+            if [ "$f" != ".parts-text/ch3/004.part" ]; then printf '\n' >> /tmp/cap3-source.md; fi
+          done
           echo "e57820a7334ba69502baeb4a09adf182f6bce3097c89604a8c9972516a9b0fe6  /tmp/cap3-source.md" | sha256sum -c -
           cp /tmp/cap3-source.md manuscrito/03_hasta_donde_llega_la_esperanza_del_antiguo_testamento.md
 
-          cat .parts-text/ch6/*.part > /tmp/cap6-source.md
+          : > /tmp/cap6-source.md
+          for f in .parts-text/ch6/*.part; do
+            cat "$f" >> /tmp/cap6-source.md
+            if [ "$f" != ".parts-text/ch6/004.part" ]; then printf '\n' >> /tmp/cap6-source.md; fi
+          done
           echo "0801ca6c7da520db7a4ffde90329ddaed2f8d7a70edea4d66f2d9c77caf058cc  /tmp/cap6-source.md" | sha256sum -c -
           cp /tmp/cap6-source.md manuscrito/06_que_dicen_los_demas_escritos_del_nuevo_testamento_sobre_el_destino_final.md
 
