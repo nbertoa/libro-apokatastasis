@@ -1,4 +1,4 @@
-# Capítulo 6 — ¿Hasta dónde llega la victoria de Cristo según Pablo?
+# Capítulo 7 — ¿Hasta dónde llega la victoria de Cristo según Pablo?
 
 1. **¿Qué problema dice Pablo que alcanza a toda la humanidad?**
 
@@ -262,4 +262,4 @@ Podemos afirmar varias cosas con bastante seguridad. Pablo anuncia un juicio rea
 
 66. **¿Qué sigue sin estar resuelto?**
 
-Sigue abierta una pregunta decisiva: **¿ese lenguaje tan amplio termina incluyendo personalmente a cada ser humano, o algunos quedan para siempre fuera de la salvación?** La restauración universal reúne de manera poderosa los textos sobre vida, misericordia, derrota de la muerte y reconciliación, pero debe mostrar que los textos de destrucción no son la última palabra. Las otras lecturas toman esos textos de juicio como definitivos, pero deben explicar por qué Pablo habla de la victoria de Cristo con un lenguaje tan amplio. Por ahora, entonces, la restauración universal es una posibilidad fuerte que debe seguir siendo puesta a prueba, no una conclusión que debamos proteger. El siguiente paso es comprobar si Hebreos, Santiago, Pedro, Judas y las cartas de Juan confirman, limitan o contradicen esta esperanza.
+Sigue abierta una pregunta decisiva: **¿ese lenguaje tan amplio termina incluyendo personalmente a cada ser humano, o algunos quedan para siempre fuera de la salvación?** La restauración universal reúne de manera poderosa los textos sobre vida, misericordia, derrota de la muerte y reconciliación, pero debe mostrar que los textos de destrucción no son la última palabra. Las otras lecturas toman esos textos de juicio como definitivos, pero deben explicar por qué Pablo habla de la victoria de Cristo con un lenguaje tan amplio. Por ahora, entonces, la restauración universal es una posibilidad fuerte que debe seguir siendo puesta a prueba, no una conclusión que debamos proteger. La última gran prueba bíblica será Apocalipsis: allí tendremos que preguntar si sus imágenes de juicio, segunda muerte y lago de fuego terminan en una exclusión definitiva o si deben leerse dentro de una nueva creación cuyo alcance todavía tenemos que determinar.
