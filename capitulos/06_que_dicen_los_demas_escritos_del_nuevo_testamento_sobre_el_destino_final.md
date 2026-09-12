@@ -1,4 +1,4 @@
-# Capítulo 7 — Los demás escritos del Nuevo Testamento
+# Capítulo 6 — ¿Qué dicen los demás escritos del Nuevo Testamento sobre el destino final?
 
 ## 1. ¿Qué añaden los demás escritos del Nuevo Testamento a lo que hemos encontrado en Pablo?
 
