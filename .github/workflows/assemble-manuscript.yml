@@ -26,7 +26,7 @@ jobs:
           mkdir -p manuscrito skills/escritura-pregunta-respuesta
           cat .parts/ch3/*.b64 | base64 --decode | gunzip > manuscrito/03_hasta_donde_llega_la_esperanza_del_antiguo_testamento.md
           cat .parts/ch6/*.b64 | base64 --decode | gunzip > manuscrito/06_que_dicen_los_demas_escritos_del_nuevo_testamento_sobre_el_destino_final.md
-          cat .parts/ch7/*.b64 | base64 --decode | gunzip > manuscrito/07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
+          cat .parts/ch7-fixed/*.b64 | base64 --decode | gunzip > manuscrito/07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
           cat .parts/skill/*.b64 | base64 --decode | gunzip > skills/escritura-pregunta-respuesta/SKILL.md
           rm -f manuscrito/06-hasta-donde-llega-la-victoria-de-cristo-segun-pablo.md
           rm -f skills/escritura-pregunta-respuesta/README.md
