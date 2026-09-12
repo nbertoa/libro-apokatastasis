@@ -1,0 +1,181 @@
+# Capítulo 8 — ¿Qué muestra Apocalipsis sobre el destino final?
+
+## 1. ¿Cómo debemos leer Apocalipsis antes de usar sus imágenes para decidir el destino final?
+
+Con cuidado, porque Apocalipsis comunica gran parte de su mensaje mediante visiones y símbolos. El mismo libro explica que algunos elementos vistos representan otras realidades: los candelabros son iglesias, el dragón es Satanás y las aguas son pueblos y naciones (Apocalipsis 1:20; 12:9; 17:15). Eso no vuelve irreales el juicio o la salvación, pero sí impide tratar cada imagen como una descripción literal.
+
+## 2. ¿Cómo podemos saber qué quiere decir una imagen?
+
+Por el propio contexto y por las Escrituras que Apocalipsis retoma. Muchas de sus imágenes vienen del Antiguo Testamento: las bestias recuerdan Daniel 7 y la Nueva Jerusalén retoma imágenes de Isaías y Ezequiel. Por eso, antes de interpretar una imagen, debemos preguntar cómo la usa Apocalipsis y de dónde viene.
+
+## 3. ¿Qué importancia tiene el Antiguo Testamento para entender Apocalipsis?
+
+Muchísima. Apocalipsis rara vez cita al Antiguo Testamento de manera directa, pero reutiliza constantemente sus imágenes, palabras y escenas: el éxodo, Babilonia, las bestias de Daniel, Gog y Magog, la nueva creación, Jerusalén y el río de vida, entre muchas otras. Por eso una imagen puede entenderse mal si ignoramos de dónde viene. Pero Juan tampoco se limita a repetir textos anteriores: los combina y los transforma alrededor de Cristo y del Cordero, de modo que el Antiguo Testamento orienta la lectura sin decidirla automáticamente.
+
+## 4. ¿El orden de las visiones es necesariamente el orden de los acontecimientos?
+
+No. Apocalipsis puede avanzar y, al mismo tiempo, volver sobre acontecimientos ya presentados desde otro ángulo. La séptima trompeta, por ejemplo, anuncia el reino de Dios, el juicio de los muertos y la recompensa de sus siervos (Apocalipsis 11:15-18), pero el capítulo siguiente vuelve al nacimiento y exaltación del Mesías y a su conflicto con el dragón (Apocalipsis 12:1-12). Esto no significa que todo el libro esté fuera de orden ni que ninguna secuencia importe. Significa algo más limitado: **no podemos suponer que una escena ocurre después de otra sólo porque aparece después en el libro.**
+
+## 5. ¿Repite Apocalipsis los mismos acontecimientos desde distintos ángulos?
+
+En algunos lugares, sí parece hacerlo. Los sellos, las trompetas y las copas vuelven varias veces sobre el conflicto, el juicio y la llegada del reino de Dios, aunque cada serie añade nuevos detalles y aumenta la intensidad. Esto suele llamarse «recapitulación»: contar nuevamente una misma realidad desde otra perspectiva. Pero no debemos convertirlo en una regla automática; tendremos que demostrar caso por caso cuándo una visión retoma algo anterior y cuándo realmente hace avanzar la historia.
+
+## 6. ¿Cómo podemos saber si una visión repite algo anterior o hace avanzar la historia?
+
+Tenemos que mirar las conexiones que el propio libro establece. A veces dos escenas comparten las mismas imágenes, describen el mismo desenlace o retoman palabras anteriores, lo que puede indicar que están mostrando una misma realidad desde perspectivas distintas; otras veces el texto presenta una consecuencia clara de lo que acaba de ocurrir. Por eso no basta con decir «esto viene después» ni «esto es una repetición»: **cada relación entre visiones debe demostrarse por el contexto y por las señales que Apocalipsis mismo ofrece.**
+
+## 7. ¿Por qué importa tanto el orden de las visiones para nuestra pregunta?
+
+Porque algunas de las imágenes más severas aparecen antes de otras que parecen mucho más abiertas. Apocalipsis 20 presenta el juicio, la segunda muerte y el lago de fuego; después, Apocalipsis 21–22 habla de una nueva creación, de naciones y reyes, de puertas que nunca se cierran y de un árbol cuyas hojas sirven para sanar a las naciones. Si todo esto describe una secuencia estricta, esas imágenes posteriores pueden cambiar mucho la forma de entender el juicio anterior; si algunas escenas vuelven sobre la misma realidad desde otro ángulo, la conclusión podría ser distinta. **Por eso tendremos que estudiar primero qué ocurre realmente en las grandes escenas de juicio antes de decidir cómo se relacionan con el final del libro.**
+
+## 8. ¿Qué representa Babilonia?
+
+En su contexto inmediato, Babilonia representa sobre todo a Roma y al sistema de poder que ella encarna. Apocalipsis la llama «la gran ciudad» que domina sobre los reyes de la tierra, la relaciona con siete montes y describe su riqueza, su comercio, su idolatría y la sangre de quienes fueron asesinados (Apocalipsis 17:9, 18; 18:3, 11-24). El nombre «Babilonia» retoma a los antiguos imperios que oprimieron al pueblo de Dios y permite presentar a Roma como una nueva expresión de ese mismo poder. Por eso, cuando Apocalipsis anuncia la caída de Babilonia, primero debemos entender que está anunciando **el juicio de un sistema corrupto y opresor**, no todavía el destino final de cada persona que participó en él.
+
+## 9. ¿La destrucción de Babilonia significa que todos los que participaron en ella son destruidos con ella?
+
+No necesariamente. Apocalipsis distingue a Babilonia de las personas relacionadas con ella: Dios llama a su pueblo a «salir» de la ciudad antes de sus plagas, y cuando Babilonia cae, los reyes y mercaderes que se enriquecieron con ella permanecen a distancia lamentando su destrucción (Apocalipsis 18:4, 9-19). La caída de Babilonia es presentada como definitiva, pero el texto no identifica automáticamente la destrucción de ese sistema con la destrucción final de cada persona que estuvo unida a él. **Por eso todavía debemos preguntar qué ocurre con esos reyes y naciones después de la caída de Babilonia.**
+
+## 10. ¿Qué ocurre con los reyes de la tierra después de la caída de Babilonia?
+
+Primero vuelven a aparecer como enemigos: se reúnen para combatir contra Cristo y son derrotados (Apocalipsis 19:19-21). Sin embargo, cuando Apocalipsis describe la Nueva Jerusalén, vuelve a hablar de «los reyes de la tierra» y dice que llevan su gloria dentro de la ciudad (Apocalipsis 21:24-26). La expresión es llamativa porque durante gran parte del libro esos reyes aparecen aliados con Babilonia y la bestia. Pero todavía no podemos afirmar que sean exactamente las mismas personas que fueron juzgadas: **primero tenemos que preguntar por qué Apocalipsis presenta a los reyes como enemigos en una escena y entrando en la ciudad de Dios en otra.**
+
+## 11. ¿Son los reyes que entran en la Nueva Jerusalén los mismos que antes se opusieron a Cristo?
+
+El texto no lo dice de manera explícita. Sin embargo, Apocalipsis usa repetidamente la misma expresión, «los reyes de la tierra», para quienes se unen a Babilonia y combaten contra Cristo, y vuelve a usarla cuando describe a los reyes que llevan su gloria a la Nueva Jerusalén (Apocalipsis 17:2, 18; 18:9; 19:19; 21:24-26). Eso crea un contraste deliberado entre dos lealtades: primero los reyes entregan su poder al mal; al final, los reyes honran a Dios. **La imagen permite pensar en una transformación de los enemigos, pero por sí sola no demuestra que cada rey juzgado anteriormente sea después restaurado.**
+
+## 12. ¿Dice Apocalipsis que todas las naciones llegarán a adorar a Dios?
+
+Sí. En el canto de quienes vencieron a la bestia se afirma que «todas las naciones vendrán y adorarán» ante Dios porque sus actos de justicia han sido manifestados (Apocalipsis 15:3-4). Esto resulta llamativo porque esas mismas naciones aparecen en otras escenas engañadas por Babilonia y enfrentadas al gobierno de Dios. Sin embargo, «todas las naciones» habla de pueblos considerados colectivamente y no demuestra por sí solo que cada individuo será salvado. **Lo que sí establece es que la visión final de las naciones no puede reducirse simplemente a su rebelión y destrucción.**
+
+## 13. ¿Esa adoración de las naciones significa una conversión real?
+
+Parece que sí. Apocalipsis no sólo dice que las naciones se someten al poder de Dios, sino que las presenta viniendo a adorarlo, dándole gloria y, finalmente, caminando a su luz en la Nueva Jerusalén (Apocalipsis 15:4; 21:24-26). Además, antes había llamado a todos los pueblos a temer a Dios, darle gloria y adorarlo en lugar de seguir a la bestia (Apocalipsis 14:6-7). Por eso la imagen encaja mejor con un cambio de lealtad que con una obediencia puramente forzada. **Pero todavía no demuestra que cada persona de todas las naciones sea finalmente salvada.**
+
+## 14. ¿Qué significa que las hojas del árbol sean para la sanación de las naciones?
+
+La imagen viene de Ezequiel 47, donde un río sale del santuario y los árboles que crecen junto a él tienen hojas que sirven para sanar; Apocalipsis retoma esa escena y extiende la sanación a «las naciones» (Ezequiel 47:1-12; Apocalipsis 22:1-2). La idea principal es de vida y restauración: las naciones que antes estaban engañadas y enfrentadas a Dios aparecen ahora recibiendo los beneficios de su nueva creación. Es una imagen mucho más fuerte que la simple supervivencia de algunos pueblos fuera de la ciudad. **Pero el texto todavía no dice que esa sanación ocurra después del lago de fuego ni que sean sanadas personas que ya habían recibido el juicio final.**
+
+## 15. ¿Quiénes son las naciones que reciben esa sanación?
+
+Apocalipsis no lo dice con precisión. Pueden ser los pueblos ya redimidos, descritos ahora disfrutando plenamente de la vida de Dios, pero también resulta llamativo que durante gran parte del libro «las naciones» sean precisamente quienes están engañadas y enfrentadas al Cordero antes de aparecer caminando a su luz y recibiendo sanación (Apocalipsis 13:7; 18:23; 21:24; 22:2). Por eso no podemos afirmar todavía que sean los mismos individuos que fueron juzgados, pero tampoco debemos borrar el cambio que presenta la historia: **las naciones que antes aparecen bajo el engaño del mal terminan representadas dentro del mundo restaurado de Dios.**
+
+## 16. ¿Qué significa que las puertas de la Nueva Jerusalén nunca se cierren?
+
+La imagen viene de Isaías 60, donde las puertas permanecen abiertas para que las naciones y sus reyes entren llevando su gloria a Jerusalén (Isaías 60:11; Apocalipsis 21:24-26). En Apocalipsis también expresa que la ciudad está completamente segura: ya no existe la noche ni hay enemigos de los que protegerse. Pero las puertas abiertas no son sólo decorativas, porque el texto las relaciona precisamente con la entrada de las naciones. **Aun así, que nunca se cierren no demuestra por sí solo que después del juicio los condenados puedan entrar; para saberlo tendremos que preguntar quiénes permanecen fuera de la ciudad y por qué.**
+
+## 17. ¿Quiénes quedan fuera de la Nueva Jerusalén?
+
+Apocalipsis afirma con claridad que nada impuro entra en la ciudad y describe fuera de ella a quienes practican idolatría, asesinato, inmoralidad, hechicería y engaño (Apocalipsis 21:27; 22:15). Por tanto, la imagen de las puertas abiertas no elimina la exclusión: **quienes permanecen caracterizados por ese mal no tienen lugar dentro de la ciudad santa**. Lo que el texto todavía no aclara es si esa condición queda fijada para siempre o si alguien que está fuera puede cambiar y entrar. Esa será la siguiente pregunta.
+
+## 18. ¿Puede alguien que está fuera de la ciudad entrar después?
+
+Apocalipsis no lo afirma de manera clara. Primero llama felices a quienes «lavan sus ropas» porque así tienen derecho al árbol de la vida y pueden entrar por las puertas; después menciona a quienes están fuera y, poco más adelante, invita a quien tenga sed y a quien quiera a recibir gratuitamente el agua de la vida (Apocalipsis 22:14-17). Leído como una continuación de la visión, este conjunto deja abierta una posibilidad de entrada; pero estas palabras también pertenecen al cierre del libro y pueden estar llamando a los lectores actuales a arrepentirse antes del juicio. **Por eso las puertas abiertas y la invitación final permiten una esperanza después del juicio, pero no bastan para demostrarla.**
+
+## 19. ¿Qué es el lago de fuego?
+
+Apocalipsis mismo lo identifica como «la segunda muerte» (Apocalipsis 20:14; 21:8). Allí son arrojados la bestia, el falso profeta, el diablo, quienes no aparecen en el libro de la vida e incluso la Muerte y el Hades (Apocalipsis 19:20; 20:10, 14-15). Esto muestra que no debemos imaginar simplemente un lago físico: es una imagen del juicio de Dios y de la derrota de aquello que se opone a él. Pero llamarlo «segunda muerte» todavía no nos dice exactamente qué sucede con las personas que llegan allí. **La siguiente pregunta es, entonces, qué significa esa segunda muerte.**
+
+## 20. ¿Qué significa la «segunda muerte»?
+
+Es el juicio que sigue a la resurrección y al juicio ante el gran trono blanco, y por eso es distinta de la muerte física que todos conocen (Apocalipsis 20:11-15). Llamarla «muerte» da fuerza a la idea de destrucción, pero no resuelve todo: en el mismo lago de fuego el diablo, la bestia y el falso profeta son descritos siendo atormentados (Apocalipsis 20:10). Cuando habla de los seres humanos arrojados allí, en cambio, Apocalipsis los llama participantes de la «segunda muerte» sin explicar del mismo modo cuánto dura su sufrimiento ni qué ocurre después (Apocalipsis 20:15; 21:8). **Por tanto, la segunda muerte es claramente un juicio terrible y real, pero su nombre por sí solo todavía no demuestra si las personas son destruidas para siempre, sufren sin fin o pueden ser restauradas después.**
+
+## 21. ¿Enseña Apocalipsis 14:9-11 que seres humanos sufrirán conscientemente para siempre?
+
+Es uno de los textos más fuertes para esa interpretación. Quienes adoran a la bestia son descritos sufriendo tormento, «el humo de su tormento» sube «por los siglos de los siglos» y «no tienen descanso ni de día ni de noche» (Apocalipsis 14:9-11). El lenguaje puede sugerir con mucha fuerza un sufrimiento consciente sin fin, especialmente porque Apocalipsis usa normalmente «por los siglos de los siglos» para realidades permanentes y porque la falta de descanso se refiere a quienes sufren. Sin embargo, el mismo libro dice que el humo de Babilonia sube «por los siglos de los siglos» cuando la ciudad ya ha sido destruida, usando el humo como señal de una ruina irreversible, y esa imagen también recuerda la destrucción de Edom (Isaías 34:9-10; Apocalipsis 19:3). **Por eso Apocalipsis 14:9-11 es una evidencia muy seria a favor del tormento consciente sin fin, pero la imagen del humo no demuestra por sí sola que las personas continúen sufriendo eternamente.**
+
+## 22. ¿Apocalipsis 20:10 dice que todos los condenados serán atormentados para siempre?
+
+No de manera explícita. El texto dice que **el diablo, la bestia y el falso profeta** serán atormentados «día y noche por los siglos de los siglos» en el lago de fuego (Apocalipsis 20:10). Después dice que las personas cuyos nombres no están en el libro de la vida también son arrojadas al mismo lago, pero no repite sobre ellas la frase del tormento sin fin; llama a ese destino «la segunda muerte» (Apocalipsis 20:14-15). Es razonable argumentar que compartir el mismo lago implica compartir el mismo destino, y esa es una de las razones más fuertes a favor del tormento eterno. **Pero el texto mismo distingue las descripciones, de modo que no podemos afirmar sin más que Apocalipsis 20:10 diga directamente que todos los seres humanos condenados serán atormentados para siempre.**
+
+## 23. ¿Puede «por los siglos de los siglos» significar simplemente un tiempo muy largo?
+
+No es una buena salida. Aunque la palabra griega para «siglo» o «edad» puede referirse a un período limitado, la expresión completa «por los siglos de los siglos» funciona en Apocalipsis como una forma muy fuerte de expresar permanencia: se usa para la vida de Dios, el reino de Cristo y el reinado de los redimidos (Apocalipsis 4:9-10; 11:15; 22:5). Por eso no tenemos una buena razón para hacerla temporal justamente cuando Apocalipsis 20:10 describe el tormento del diablo, la bestia y el falso profeta. **La expresión presenta ese tormento como verdaderamente interminable; pero todavía debemos preguntar si compartir el mismo lago significa que los seres humanos reciben exactamente el mismo castigo.**
+
+## 24. ¿Compartir el lago de fuego significa necesariamente compartir el mismo castigo?
+
+No necesariamente. En el mismo lago aparecen el diablo, la bestia, el falso profeta, seres humanos e incluso la Muerte y el Hades (Apocalipsis 20:10, 14-15), y no todos pueden experimentar literalmente lo mismo. Del diablo, la bestia y el falso profeta se dice que serán atormentados sin fin; de los seres humanos se dice que sufren la «segunda muerte»; y la Muerte y el Hades parecen ser destruidos como poderes enemigos. Por eso es razonable relacionar sus destinos, pero **estar en el mismo lago no demuestra por sí solo que todos reciban exactamente el mismo tipo y duración de castigo**. Esto hace especialmente importante preguntar qué significa que la Muerte misma sea arrojada al lago de fuego.
+
+## 25. ¿Qué significa que la Muerte misma sea arrojada al lago de fuego?
+
+Significa, como mínimo, que la muerte queda finalmente derrotada y pierde todo poder. Después de entregar a sus muertos para el juicio, la Muerte y el Hades son arrojados al lago de fuego, y enseguida la nueva creación es descrita diciendo que «la muerte no será más» (Apocalipsis 20:13-14; 21:4). Como la Muerte no es una persona que pueda ser atormentada, aquí el lago de fuego representa claramente su eliminación. **Esto no demuestra que lo mismo ocurra con cada persona arrojada allí, pero sí muestra que el lago de fuego puede representar la destrucción definitiva de aquello que se opone a la vida de Dios.**
+
+## 26. Si «la muerte no será más», ¿puede existir para siempre la «segunda muerte»?
+
+Apocalipsis coloca ambas afirmaciones casi juntas: dice que en la nueva creación «la muerte no será más» y, pocos versículos después, llama al lago de fuego «la segunda muerte» (Apocalipsis 21:4, 8). Por eso no podemos simplemente afirmar que la desaparición de la muerte demuestra que la segunda muerte también terminará; Juan mismo puede hablar de una creación sin muerte y, al mismo tiempo, presentar la segunda muerte como el destino de quienes quedan fuera de esa vida. Pero tampoco deberíamos imaginarla como una muerte que sigue reinando dentro del mundo renovado, porque la Muerte ha sido derrotada y Dios está haciendo «todas las cosas nuevas» (Apocalipsis 20:14; 21:5). **La tensión permanece, y para avanzar debemos preguntar si el fuego de Apocalipsis tiene alguna finalidad además de destruir y castigar.**
+
+## 27. ¿Presenta Apocalipsis el lago de fuego como un fuego purificador?
+
+No de manera explícita. Apocalipsis conoce la imagen del fuego que refina, como cuando Cristo habla de «oro refinado por fuego» para llamar al arrepentimiento (Apocalipsis 3:18), pero cuando describe el lago de fuego habla de juicio, tormento y segunda muerte, no de purificación (Apocalipsis 19:20; 20:10, 14-15; 21:8). Tampoco basta decir que el azufre tenía usos purificadores para concluir que esa sea la intención de la imagen. **Por tanto, una restauración posterior al lago de fuego no puede demostrarse diciendo simplemente que el fuego purifica; tendría que apoyarse en otras señales del propio Apocalipsis.**
+
+## 28. ¿Los juicios de Apocalipsis llevan alguna vez al arrepentimiento?
+
+A veces el libro muestra justamente lo contrario. Después de varias plagas, algunas personas no se arrepienten, sino que continúan con su idolatría y hasta maldicen a Dios (Apocalipsis 9:20-21; 16:9, 11). Sin embargo, después del juicio que acompaña a los dos testigos, los sobrevivientes sienten temor y «dan gloria al Dios del cielo», una expresión que puede indicar que reconocen a Dios de una manera nueva (Apocalipsis 11:13); además, antes del juicio final se llama a toda la tierra a temer a Dios y darle gloria (Apocalipsis 14:6-7). **Por eso Apocalipsis no enseña que todo castigo produzca arrepentimiento, pero tampoco presenta el juicio como incapaz de conducir a un cambio; lo que no dice es que ese proceso continúe necesariamente después del juicio final.**
+
+## 29. ¿Que Apocalipsis 22:14 hable de quienes «lavan sus ropas» significa que pueden hacerlo después del juicio?
+
+No necesariamente. El verbo está en presente y puede describir una acción continua, pero esa forma gramatical no indica por sí sola que el lavado ocurra después del juicio. En Apocalipsis, lavar las ropas representa arrepentirse, permanecer fiel a Cristo y recibir la limpieza que viene de su sacrificio (Apocalipsis 7:14; 22:14). Además, estas palabras aparecen en el cierre del libro, donde Jesús advierte a las iglesias que viene a dar a cada uno según sus obras (Apocalipsis 22:12, 16). **Por eso Apocalipsis 22:14 muestra que la entrada en la ciudad requiere limpieza, pero no demuestra cuándo termina la posibilidad de recibirla.**
+
+## 30. ¿A quién invita Apocalipsis cuando dice «el que tenga sed, venga»?
+
+La invitación es muy amplia: «el que tenga sed» y «el que quiera» puede recibir gratuitamente el agua de la vida (Apocalipsis 22:17). Además, aparece poco después de mencionar a quienes están fuera de la ciudad, lo que hace natural preguntarse si también ellos pueden responder (Apocalipsis 22:15-17). Sin embargo, estas palabras forman parte del cierre dirigido a las iglesias, y pueden estar llamando a quienes oyen el libro ahora a venir a Cristo antes de su juicio (Apocalipsis 22:16, 18). **Por eso la invitación final encaja de manera llamativa con una esperanza de entrada futura, pero el texto no identifica expresamente a los condenados como sus destinatarios.**
+
+## 31. ¿Dice Apocalipsis que alguien puede ser añadido al libro de la vida después del juicio?
+
+No. Apocalipsis habla del libro de la vida como el registro de quienes pertenecen al Cordero, en contraste con quienes siguen a la bestia; en el juicio, quien no aparece allí es arrojado al lago de fuego, y sólo quienes están escritos pueden entrar en la Nueva Jerusalén (Apocalipsis 3:5; 13:8; 17:8; 20:15; 21:27). En ningún momento dice que, después de ese juicio, nuevos nombres sean añadidos. **Por eso afirmar que alguien sale del lago de fuego, se arrepiente y entonces es escrito en el libro de la vida es una posibilidad que una lectura restauradora puede proponer, pero no algo que Apocalipsis enseñe expresamente.** Esto convierte al libro de la vida en una objeción seria que cualquier lectura restauradora debe explicar.
+
+## 32. ¿Enseña entonces Apocalipsis que algunos seres humanos quedarán fuera para siempre?
+
+Esa es una lectura fuerte de sus escenas finales. Después del juicio, quienes no están en el libro de la vida son arrojados al lago de fuego, y la nueva creación todavía distingue entre quienes entran en la ciudad y quienes quedan fuera (Apocalipsis 20:15; 21:8, 27; 22:15). Además, Apocalipsis nunca dice expresamente que esas personas salgan después, sean añadidas al libro de la vida o finalmente entren. **Sin embargo, tampoco dice directamente que esos seres humanos permanecerán fuera «por los siglos de los siglos»; esa duración se afirma explícitamente del diablo, la bestia y el falso profeta (Apocalipsis 20:10).** Por eso la exclusión definitiva de algunos seres humanos es una interpretación muy seria del libro, pero todavía debemos compararla con las imágenes finales de las naciones, los reyes, la sanación y las puertas abiertas.
+
+## 33. ¿Cómo pueden las naciones ser devoradas por fuego y después aparecer recibiendo sanación?
+
+Apocalipsis 20 presenta a Satanás engañando a «las naciones» de los cuatro extremos de la tierra, que rodean al pueblo de Dios y son devoradas por fuego del cielo (Apocalipsis 20:7-9). Poco después, la nueva creación vuelve a presentar «las naciones» caminando a la luz de la Nueva Jerusalén y recibiendo sanación por medio del árbol de la vida (Apocalipsis 21:24; 22:2). Esto no demuestra que sean exactamente los mismos individuos: «las naciones» puede funcionar como una categoría colectiva, y las dos escenas pueden hablar de miembros distintos de esos pueblos o mostrar destinos contrapuestos. **Pero la repetición obliga a cualquier interpretación a explicar por qué las naciones aparecen primero bajo un juicio devastador y finalmente dentro del mundo sanado de Dios.**
+
+## 34. ¿Se contradicen las imágenes de exclusión con las de restauración de las naciones?
+
+No necesariamente. Apocalipsis puede estar mostrando dos destinos posibles para las naciones y sus reyes: mientras siguen a la bestia, a Babilonia o al engaño de Satanás terminan bajo juicio, pero quienes abandonan ese dominio y se vuelven al Cordero participan de la Nueva Jerusalén (Apocalipsis 17:2; 19:19-21; 20:7-9; 21:24-26). Esta lectura explica las dos líneas sin exigir que una persona salga del lago de fuego después del juicio. **Sin embargo, sigue siendo llamativo que las naciones aparezcan primero dentro de un mundo dominado por el engaño y la rebelión y terminen adorando a Dios, caminando en su luz y recibiendo sanación; esa transformación de las naciones forma parte real del horizonte final de Apocalipsis, aunque el libro no diga que alcance a cada individuo juzgado.**
+
+## 35. ¿Qué significa que Dios diga «hago nuevas todas las cosas»?
+
+La frase anuncia una nueva creación de alcance total: el cielo y la tierra anteriores dan paso a un mundo donde desaparecen la muerte, el llanto y el dolor, y la visión culmina diciendo que «ya no habrá más maldición» (Apocalipsis 21:1-5; 22:3). La expresión «todas las cosas» muestra la amplitud de lo que Dios está haciendo y la desaparición de la maldición recuerda la reversión de las consecuencias de Génesis 3, pero ninguna de esas frases define por sí sola el destino de cada persona. De hecho, la misma visión todavía habla de la segunda muerte y de quienes no entran en la ciudad (Apocalipsis 21:8, 27). **Por eso la nueva creación expresa una renovación cósmica y una derrota profunda de las consecuencias del pecado, pero no basta por sí sola para demostrar que cada ser humano será finalmente restaurado.**
+
+## 36. ¿Muestra Apocalipsis a toda la creación adorando a Dios y al Cordero?
+
+Sí. Juan escucha a «toda criatura» en el cielo, en la tierra, debajo de la tierra y en el mar dando bendición, honor, gloria y poder a Dios y al Cordero (Apocalipsis 5:13). La imagen abarca deliberadamente toda la creación y presenta el gobierno de Dios y de Cristo como finalmente reconocido en todas partes. Sin embargo, esta visión aparece antes de muchas escenas posteriores de rebelión y juicio, por lo que probablemente anticipa el triunfo final en vez de describir su orden cronológico. **Es una de las imágenes más universales de Apocalipsis, pero todavía debemos preguntar si esta adoración de toda criatura implica también la reconciliación y salvación de cada persona.**
+
+## 37. ¿Que toda criatura adore a Dios significa que toda criatura está salvada?
+
+No necesariamente. Apocalipsis 5:13 presenta una alabanza verdaderamente universal: toda criatura reconoce la gloria y el poder de Dios y del Cordero. Eso encaja muy bien con una creación finalmente reconciliada, pero también puede entenderse como el reconocimiento universal de la soberanía de Dios sin afirmar que cada criatura haya recibido salvación. El texto no utiliza aquí palabras como «salvar» o «reconciliar», y otras escenas todavía distinguen entre quienes participan de la ciudad y quienes quedan fuera. **Por eso Apocalipsis 5:13 es una evidencia importante de la victoria universal del Cordero, pero no permite identificar sin más soberanía universal con salvación universal; y si «toda criatura» se toma en el sentido más amplio, todavía debemos preguntar qué ocurre con el diablo.**
+
+## 38. ¿Qué implica Apocalipsis 20:10 para la posible restauración del diablo?
+
+Es probablemente el obstáculo más directo para esa idea dentro de Apocalipsis. El libro identifica al dragón con «la serpiente antigua», el diablo y Satanás, y finalmente dice que será atormentado «día y noche por los siglos de los siglos» (Apocalipsis 12:9; 20:2, 10). La bestia y el falso profeta son figuras simbólicas, pero el diablo es presentado a lo largo del libro como el agente que engaña a las naciones, combate contra Dios y finalmente es juzgado. **Apocalipsis nunca anuncia su restauración y describe su castigo con su lenguaje más fuerte de duración; por eso, si hablamos de una restauración que incluye a todo ser racional, Apocalipsis 20:10 es una objeción especialmente difícil.**
+
+## 39. ¿Cuál es la lectura más fuerte de Apocalipsis a favor del tormento consciente sin fin?
+
+Su mejor argumento surge al leer juntas varias escenas. Apocalipsis 14:9-11 describe a seres humanos atormentados con fuego y azufre, sin descanso de día ni de noche, mientras el humo de su tormento sube «por los siglos de los siglos»; Apocalipsis 20:10 usa esa misma expresión para el tormento del diablo, la bestia y el falso profeta; y poco después los seres humanos que no están en el libro de la vida son arrojados al mismo lago de fuego (Apocalipsis 20:15; 21:8). A esto se añade que sólo quienes están en el libro de la vida entran en la ciudad y que otros permanecen fuera (Apocalipsis 21:27; 22:15). **Leídas como partes de un único destino final, estas imágenes forman un caso serio para pensar que algunos seres humanos sufrirán conscientemente un castigo que no termina.**
+
+## 40. ¿Qué tendría que explicar mejor la lectura del tormento consciente sin fin?
+
+Tiene que explicar por qué Apocalipsis nunca repite sobre los seres humanos del lago de fuego la afirmación directa de que serán atormentados «por los siglos de los siglos», aunque sí lo hace con el diablo, la bestia y el falso profeta (Apocalipsis 20:10, 15). También debe explicar que la Muerte y el Hades entran en el mismo lago para ser eliminados, que el humo eterno puede representar una destrucción irreversible como la de Babilonia y que el final presenta naciones y reyes sanados y entrando por puertas abiertas (Apocalipsis 19:3; 20:14; 21:24-26; 22:2). Estas dificultades no refutan el tormento sin fin, pero muestran que la conclusión depende de relacionar textos que no describen a todos los habitantes del lago exactamente de la misma manera. **Si Apocalipsis mostrara claramente a seres humanos ya juzgados saliendo del lago de fuego y entrando en la ciudad, esta lectura quedaría seriamente refutada.**
+
+## 41. ¿Cuál es la lectura más fuerte de Apocalipsis a favor de la destrucción definitiva de los malvados?
+
+Su punto de partida es que Apocalipsis llama al destino final de los seres humanos «la segunda muerte», no «vida eterna en tormento» (Apocalipsis 20:14-15; 21:8). El fuego del cielo «devora» a los enemigos, los adversarios de Cristo aparecen muertos y la Muerte y el Hades son arrojados al lago de fuego precisamente cuando «la muerte no será más» (Apocalipsis 19:21; 20:9, 14; 21:4). Además, el humo que sube para siempre puede señalar que una destrucción es irreversible, como ocurre con Babilonia (Apocalipsis 19:3). **Leídas juntas, estas imágenes permiten entender el castigo final como una destrucción definitiva de los malvados, no como una vida consciente mantenida para siempre en sufrimiento.**
+
+## 42. ¿Qué tendría que explicar mejor la lectura de la destrucción definitiva?
+
+Tiene que enfrentar seriamente Apocalipsis 14:9-11, donde seres humanos son descritos sufriendo tormento y sin descanso de día ni de noche, y también el hecho de que el diablo, la bestia y el falso profeta son atormentados sin fin en el mismo lago al que después son arrojados los seres humanos (Apocalipsis 20:10, 15). Decir simplemente que «muerte» significa dejar de existir no basta, porque el propio libro puede usar imágenes de muerte y fuego de maneras distintas. La lectura destructiva necesita mostrar por qué el destino humano debe entenderse por las imágenes de muerte, destrucción y eliminación más que por las imágenes de tormento. **Si Apocalipsis dijera expresamente que los seres humanos del lago de fuego son atormentados día y noche por los siglos de los siglos, la lectura de su destrucción final perdería su argumento principal.**
+
+## 43. ¿Cuál es la lectura más fuerte de Apocalipsis a favor de la restauración final?
+
+Su mejor argumento no depende de convertir el lago de fuego en un fuego purificador, sino del movimiento general del libro. Las naciones y los reyes aparecen engañados, aliados con los poderes enemigos y bajo juicio, pero el final muestra a todas las naciones adorando, a los reyes llevando su gloria a la Nueva Jerusalén, a las naciones caminando a su luz y recibiendo sanación, mientras las puertas nunca se cierran y la invitación al agua de la vida sigue abierta (Apocalipsis 15:4; 21:24-26; 22:2, 17). Apocalipsis 5:13 anticipa además a toda criatura adorando a Dios y al Cordero, y los 144.000 son llamados «primicias», una imagen que puede sugerir una cosecha más amplia aunque por sí sola no la demuestra (Apocalipsis 14:4). **Leído desde ese desenlace, el juicio puede entenderse como la derrota definitiva del mal sin que el texto obligue a concluir que cada persona juzgada permanecerá para siempre sin restauración.**
+
+## 44. ¿Qué tendría que explicar mejor la lectura de la restauración final?
+
+Tiene que explicar textos que parecen colocar límites muy fuertes después del juicio. Apocalipsis no dice que alguien salga del lago de fuego, no dice que nuevos nombres sean añadidos al libro de la vida después del juicio, no llama purificador al lago y todavía describe personas fuera de la ciudad (Apocalipsis 20:15; 21:8, 27; 22:15). Además, Apocalipsis 14:9-11 es un texto serio de tormento humano, y 20:10 presenta de manera muy fuerte el tormento sin fin del diablo; también hay juicios ante los cuales las personas no se arrepienten (Apocalipsis 9:20-21; 16:9, 11). **Si Apocalipsis afirmara explícitamente que los seres humanos arrojados al lago permanecerán allí siendo atormentados por los siglos de los siglos, o que su exclusión nunca puede cambiar, una lectura de restauración humana posterior al juicio tendría que ser abandonada.**
+
+## 45. ¿Qué podemos concluir entonces sobre el destino final a partir de Apocalipsis?
+
+Podemos concluir con seguridad que Apocalipsis anuncia un juicio real, la derrota final del mal y una nueva creación bajo el reinado de Dios y del Cordero. Lo que no resuelve con la misma claridad es el destino final de cada ser humano condenado: el tormento consciente sin fin toma con máxima seriedad las escenas de tormento y exclusión, pero debe inferir para los seres humanos una duración que Apocalipsis 20:15 y 21:8 no expresan directamente; la destrucción definitiva toma con máxima seriedad la «segunda muerte» y la eliminación de la Muerte, pero debe explicar el lenguaje de tormento; y la restauración toma con máxima seriedad el desenlace de las naciones, los reyes, la sanación, las puertas abiertas y la adoración de toda criatura, pero debe inferir un cambio posterior al juicio que el libro nunca narra de forma explícita. **Por eso Apocalipsis no demuestra por sí solo la restauración universal, pero tampoco obliga a leer el destino de todos los seres humanos como tormento consciente sin fin; deja una esperanza restauradora real y una disputa que sólo puede decidirse al considerar el conjunto de la evidencia bíblica.**

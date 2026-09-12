@@ -12,7 +12,7 @@ La Biblia es la fuente central del argumento. La investigación especializada si
 
 ## ¿Qué partes del manuscrito existen hoy?
 
-Actualmente están versionados en `capitulos/` los capítulos 1 al 7. La introducción **¿Por qué este libro?**, el capítulo 8 sobre Apocalipsis y el epílogo están previstos, pero todavía no forman parte del manuscrito versionado.
+Actualmente están versionados en `capitulos/` los capítulos 1 al 8. El capítulo 8, **¿Qué muestra Apocalipsis sobre el destino final?**, completa la última gran prueba bíblica del recorrido y, como los capítulos anteriores, queda sujeto a auditorías futuras. La introducción **¿Por qué este libro?** y el epílogo todavía están previstos y no forman parte del manuscrito versionado.
 
 ## ¿Dónde está cada cosa?
 

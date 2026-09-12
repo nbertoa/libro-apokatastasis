@@ -17,7 +17,8 @@ libro-apokatastasis/
 │   ├── 04_que_muestran_los_evangelios_sobre_la_mision_de_jesus_y_el_juicio.md
 │   ├── 05_es_el_juicio_la_ultima_palabra_sobre_los_perdidos.md
 │   ├── 06_que_dicen_los_demas_escritos_del_nuevo_testamento_sobre_el_destino_final.md
-│   └── 07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
+│   ├── 07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
+│   └── 08_que_muestra_apocalipsis_sobre_el_destino_final.md
 ├── proyecto/
 │   ├── DIRECTIVAS_PROYECTO.md
 │   ├── ESTADO_ACTUAL.md
@@ -45,7 +46,6 @@ Con número de dos dígitos, guion bajo y nombre descriptivo en minúsculas: `NN
 ## ¿Qué está previsto pero todavía no existe como archivo de manuscrito?
 
 - Introducción: **¿Por qué este libro?**. Cuando se redacte, se guardará como `capitulos/00_por_que_este_libro.md`.
-- Capítulo 8: **¿Qué muestra Apocalipsis sobre el destino final?**. Cuando comience su redacción, se guardará como `capitulos/08_que_muestra_apocalipsis_sobre_el_destino_final.md`.
 - Epílogo/cierre: la pregunta todavía no está definida. Cuando se decida, se guardará como `capitulos/09_<pregunta>.md`.
 
 ## ¿Qué documentos deben actualizarse cuando cambia la estructura?

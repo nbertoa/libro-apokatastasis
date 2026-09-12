@@ -15,8 +15,9 @@ Los PDFs y libros completos de investigación no se guardan en Git. Permanecen e
 - Capítulo 5 — **¿Es el juicio la última palabra sobre los perdidos?**: borrador completo; sujeto a auditorías futuras.
 - Capítulo 6 — **¿Qué dicen los demás escritos del Nuevo Testamento sobre el destino final?**: borrador completo; colocado antes de Pablo como prueba adversarial independiente.
 - Capítulo 7 — **¿Hasta dónde llega la victoria de Cristo según Pablo?**: borrador completo; colocado hacia el final del recorrido bíblico.
+- Capítulo 8 — **¿Qué muestra Apocalipsis sobre el destino final?**: borrador completo y auditado en esta etapa; funciona como la última gran prueba bíblica y queda sujeto a auditorías futuras.
 
-La introducción **¿Por qué este libro?**, el capítulo 8 sobre Apocalipsis y el epílogo todavía no existen como archivos de manuscrito.
+La introducción **¿Por qué este libro?** y el epílogo todavía no existen como archivos de manuscrito.
 
 ## ¿Por qué están las demás epístolas antes de Pablo?
 
@@ -24,11 +25,11 @@ Porque Hebreos, Santiago, Pedro, Judas y las cartas de Juan permiten probar la h
 
 ## ¿Por qué queda Apocalipsis después de Pablo?
 
-Porque puede funcionar como la última gran prueba bíblica. Allí aparecen algunas de las imágenes de juicio más severas del Nuevo Testamento —Babilonia, lago de fuego, segunda muerte, exclusión— y, al mismo tiempo, una nueva creación con naciones, reyes, puertas abiertas, árbol de la vida y una invitación final a venir y beber. No debe decidirse de antemano cómo se relacionan esas imágenes.
+Porque funciona como la última gran prueba bíblica. Allí aparecen algunas de las imágenes de juicio más severas del Nuevo Testamento —Babilonia, lago de fuego, segunda muerte, exclusión— y, al mismo tiempo, una nueva creación con naciones, reyes, puertas abiertas, árbol de la vida y una invitación final a venir y beber. El capítulo conserva la tensión entre esas imágenes y compara de manera adversarial las lecturas de tormento consciente sin fin, destrucción definitiva y restauración.
 
 ## ¿Cuál es el próximo trabajo principal?
 
-Investigar, auditar y redactar el capítulo 8. La pregunta principal provisional es **¿Qué muestra Apocalipsis sobre el destino final?**. La investigación debe comenzar por las Fuentes del Proyecto ya disponibles.
+Auditar nuevamente la secuencia completa y las transiciones de los capítulos 1 al 8 ahora que el recorrido bíblico principal está redactado. Después corresponde definir y escribir la introducción **¿Por qué este libro?** y definir la pregunta del capítulo final o epílogo.
 
 ## ¿Qué debe ocurrir después de Apocalipsis?
 

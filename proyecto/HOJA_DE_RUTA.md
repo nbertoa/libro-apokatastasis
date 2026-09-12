@@ -13,9 +13,9 @@
 9. **Capítulo 8 — ¿Qué muestra Apocalipsis sobre el destino final?**
 10. **Epílogo/cierre — pregunta pendiente de definir.**
 
-## ¿Qué debe investigar el capítulo 8?
+## ¿Qué quedó cubierto en el capítulo 8?
 
-Una pregunta por vez, entre otras:
+El capítulo 8 ya quedó redactado y auditado en esta etapa. Su recorrido cubre, una pregunta por vez, entre otras:
 
 - ¿Cómo debemos leer un libro deliberadamente simbólico antes de usarlo para definir el destino final?
 - ¿El orden de las visiones es estrictamente cronológico o Apocalipsis vuelve sobre los mismos acontecimientos desde distintos ángulos?
@@ -35,6 +35,10 @@ Una pregunta por vez, entre otras:
 - ¿Cuál es la mejor lectura aniquilacionista del conjunto?
 - ¿Cuál es la mejor lectura restauradora del conjunto?
 - ¿Qué evidencia obligaría a abandonar cada una?
+
+## ¿Cuál es el próximo paso?
+
+Auditar la secuencia completa y las transiciones de los capítulos 1 al 8. Después, redactar la introducción y definir la pregunta exacta del epílogo.
 
 ## ¿Qué debe hacer el cierre final?
 
