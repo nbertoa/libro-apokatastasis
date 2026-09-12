@@ -1,11 +1,17 @@
-# Fuentes de investigación pesadas o con copyright
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Temporary / generated
+*.tmp
+*.bak
+~*
+~$*
+
+# Research library stays outside Git
 *.pdf
 *.epub
 *.mobi
-
-# Archivos temporales del sistema y editores
-.DS_Store
-Thumbs.db
-*.swp
-*.tmp
-~$*
