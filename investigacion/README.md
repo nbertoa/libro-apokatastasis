@@ -1,7 +1,5 @@
-# Investigación
+# ¿Qué va en la carpeta de investigación?
 
-Este directorio contiene notas de trabajo, análisis y auditorías que apoyan el manuscrito pero no forman necesariamente parte del texto final.
+Notas propias de investigación que no pertenecen todavía al manuscrito: análisis de pasajes, estudios de palabras, historia, filosofía, objeciones y comparaciones entre interpretaciones.
 
-La investigación se organiza por problema, no por autor. Las fuentes sirven para comprobar argumentos, objeciones, traducciones e interpretaciones.
-
-Los libros y artículos completos en PDF no se almacenan en el repositorio.
+Los PDFs y libros completos de la biblioteca no se copian aquí. Permanecen en las Fuentes del Proyecto. Cuando una investigación produzca una nota estable que convenga conservar entre chats, puede agregarse a esta carpeta.
