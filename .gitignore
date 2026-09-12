@@ -1,0 +1,11 @@
+# Fuentes de investigación pesadas o con copyright
+*.pdf
+*.epub
+*.mobi
+
+# Archivos temporales del sistema y editores
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+~$*
