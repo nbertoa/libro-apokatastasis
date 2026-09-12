@@ -1,0 +1,265 @@
+# Capítulo 6 — ¿Hasta dónde llega la victoria de Cristo según Pablo?
+
+1. **¿Qué problema dice Pablo que alcanza a toda la humanidad?**
+
+El pecado. En Romanos 1, Pablo describe el pecado de las naciones, pero en Romanos 2 muestra que quienes conocen la ley de Dios tampoco quedan fuera del problema. Por eso concluye que «judíos y griegos» están todos bajo pecado y que «todos pecaron» (Romanos 3:9, 23). Más adelante vuelve a mirar el mismo problema desde Adán y dice que el pecado entró en el mundo por un hombre y alcanzó a toda la humanidad (Romanos 5:12). Pablo no está diciendo que todas las personas hayan cometido exactamente los mismos pecados ni que tengan la misma culpa; está diciendo algo más básico: ningún grupo humano queda fuera del dominio del pecado. Antes de preguntar hasta dónde llega la obra de Cristo, tenemos que partir de ahí: **el problema que Cristo viene a vencer alcanza a todos**.
+
+2. **¿Presenta Pablo el pecado sólo como actos que cometemos?**
+
+No. Pablo habla de pecados que las personas cometen, pero también presenta el pecado como un poder que puede dominar. En Romanos 6 dice que el pecado «reina», que las personas pueden ser «esclavas del pecado» y que necesitan ser liberadas de él (Romanos 6:6, 12-18). La imagen es importante: una persona sigue siendo responsable de lo que hace, pero no por eso controla plenamente aquello que la domina. Para Pablo, entonces, el problema humano no consiste solamente en haber hecho cosas malas; consiste también en haber quedado bajo un poder del que necesitamos ser liberados.
+
+3. **¿Qué relación establece Pablo entre el pecado y la muerte?**
+
+Pablo los une directamente. Dice que por medio de Adán «el pecado entró en el mundo, y por el pecado la muerte», y más adelante describe al pecado como un poder que «reinó en la muerte» (Romanos 5:12, 21). La muerte, entonces, no aparece simplemente como un hecho natural sin relación con el problema humano: forma parte del dominio que Pablo asocia con el pecado. Esto todavía no nos dice exactamente qué entiende Pablo por muerte en cada pasaje —si habla de muerte física, de una condición espiritual o de ambas—, pero sí establece algo importante: **el pecado conduce a la muerte y reina por medio de ella**.
+
+4. **¿Alcanza realmente la muerte a todos?**
+
+Sí. Pablo dice que la muerte «se extendió a toda la humanidad» y después lo expresa de forma todavía más directa: «en Adán todos mueren» (Romanos 5:12; 1 Corintios 15:21-22). En ambos pasajes, el alcance de la muerte corresponde al alcance del problema humano que Pablo viene describiendo: no afecta sólo a un pueblo, a una clase de pecadores o a quienes carecen de la ley, sino a la humanidad entera. Esto todavía no nos dice cuál será el destino final de todos los que mueren, pero fija un punto importante para lo que viene: **cuando Pablo compare a Adán con Cristo, partirá de una muerte cuyo alcance es universal**.
+
+5. **¿Significa eso que Pablo niega diferencias de culpa y responsabilidad?**
+
+No. Que todos estén bajo pecado no significa que todos sean culpables exactamente de lo mismo ni que Dios juzgue a todos de la misma manera. Pablo dice que Dios «dará a cada uno según sus obras» y distingue entre quienes hacen el bien y quienes se entregan al mal (Romanos 2:5-10). Su argumento es que Dios no muestra favoritismo: ser judío o no judío no coloca a nadie automáticamente fuera del juicio (Romanos 2:11). Por tanto, Pablo puede afirmar al mismo tiempo dos cosas: **el pecado alcanza a todos, pero el juicio toma en serio lo que cada persona ha hecho**.
+
+6. **¿Habla Pablo también de un juicio futuro?**
+
+Sí. En Romanos 2 habla de un «día» en que se revelará el justo juicio de Dios y en el que cada persona recibirá según sus obras (Romanos 2:5-9). Por tanto, Pablo no reduce las consecuencias del pecado a lo que ocurre durante esta vida: espera una rendición de cuentas futura ante Dios. Esto será importante más adelante, porque cualquier lectura de sus textos sobre la victoria de Cristo tendrá que convivir con esta realidad: **Pablo anuncia salvación, pero también anuncia un juicio futuro real**.
+
+7. **¿Qué cambia cuando Pablo compara a Adán con Cristo?**
+
+Pablo no presenta a Cristo simplemente como alguien que compensa el daño de Adán. Repite que la gracia —el favor y el don de Dios— es «mucho más» abundante: por la desobediencia de uno vinieron muerte y condenación, mientras que por Cristo vienen gracia, justicia y vida (Romanos 5:15-18). La comparación no coloca dos fuerzas iguales frente a frente. Pablo quiere mostrar que la obra de Cristo supera lo que produjo el pecado. Todavía tenemos que preguntar hasta dónde llega esa victoria, pero el punto de partida es claro: **Cristo no aparece como más débil que Adán; la gracia de Dios aparece como una respuesta todavía mayor al pecado y la muerte**.
+
+8. **¿A quiénes alcanza la condenación relacionada con Adán?**
+
+A todos. Pablo dice que por la desobediencia de un solo hombre vino «condenación para todos los seres humanos» (Romanos 5:18). En este lado de la comparación no parece haber un grupo escondido más pequeño: ya había dicho que la muerte alcanzó a toda la humanidad y que todos están bajo pecado (Romanos 3:9, 23; 5:12). Por eso, cuando habla de la condenación que entra por Adán, el grupo es la humanidad entera. **El punto difícil aparece inmediatamente después: Pablo vuelve a usar un lenguaje igual de amplio para describir lo que viene por Cristo.**
+
+9. **¿A quiénes alcanza la vida relacionada con Cristo?**
+
+Pablo vuelve a decir «todos los seres humanos». Después de afirmar que la desobediencia de uno llevó a todos a condenación, continúa diciendo que el acto justo de Cristo lleva a «todos los seres humanos» a una «justificación que da vida» (Romanos 5:18), es decir, a ser puestos del lado de los justos y recibir vida. Pablo no dice aquí «algunos», «muchos de ellos» ni «todos los creyentes»: repite la misma expresión que acaba de usar para la condenación. Esto todavía no decide si esa vida llegará finalmente a cada persona o si Pablo está hablando de una salvación abierta a todos. **Pero sí debemos reconocer que el versículo habla de ambos lados con el mismo lenguaje amplio.**
+
+10. **¿Habla Romanos 5 de la misma humanidad en ambos lados?**
+
+La forma más directa de leer el versículo favorece que sí. Romanos 5:18 usa dos veces la misma expresión, «todos los seres humanos»: la desobediencia de uno lleva a todos a condenación y el acto justo de Cristo lleva a todos a justificación y vida. El versículo no dice que el segundo grupo sea más pequeño. Sin embargo, algunos intérpretes creen que otros textos de Pablo obligan a entender ese segundo «todos» como quienes llegan a estar en Cristo por la fe. Por eso no debemos dar la cuestión por resuelta: **Romanos 5:18 apunta con fuerza al mismo grupo humano en ambos lados, pero todavía debemos preguntar cómo se recibe esa vida.**
+
+11. **¿Qué significa «justificación de vida para todos»?**
+
+Aquí «justificación» significa, en términos sencillos, que Dios pone a una persona del lado de los justos en vez de condenarla. En Romanos 5:18 Pablo une esa justificación directamente con la vida. Por eso no está hablando sólo de una oportunidad de salvarse: de un lado hay condenación; del otro, ser puesto en una relación justa con Dios y recibir vida. **Lo que todavía queda abierto es si ese resultado llegará finalmente a todos o sólo a quienes reciban la gracia por la fe.**
+
+12. **¿Limita «los que reciben la gracia» el alcance de ese «todos»?**
+
+Sí, en un sentido importante. Pablo no dice que alguien tenga vida sin recibir la gracia de Dios: en Romanos 5:17 quienes «reciben la abundancia de la gracia y el don de la justicia» son quienes reinan en vida. Pero el versículo no dice cuántas personas llegarán finalmente a recibirla. Establece que la gracia debe ser recibida; no afirma que una parte de la humanidad nunca la recibirá. Por eso Romanos 5:17 impide hablar de una salvación automática sin respuesta humana, pero **no basta por sí solo para demostrar que el «todos» de Romanos 5:18 terminará siendo un grupo menor que la humanidad entera.**
+
+13. **¿Por qué Pablo pasa de «todos» a «los muchos» en el versículo siguiente?**
+
+El cambio de expresión no rompe la comparación. En Romanos 5:19 Pablo usa «los muchos» en los dos lados: por la desobediencia de uno «los muchos» fueron hechos pecadores y por la obediencia de Cristo «los muchos» serán hechos justos. Ya había usado esa misma forma de hablar en 5:15, y el versículo anterior acaba de decir «todos los seres humanos». Por eso, **«los muchos» de 5:19 no introduce claramente un grupo menor en el lado de Cristo**. Pero tampoco debemos usar esa frase como una prueba nueva de salvación universal: su importancia está en que mantiene la misma comparación entre Adán y Cristo.
+
+14. **¿Por qué Pablo repite «mucho más»?**
+
+Porque Pablo quiere destacar que la gracia de Dios no es una respuesta pequeña al daño del pecado. Dice que, si la desobediencia de uno trajo muerte, «mucho más» la gracia de Dios desborda por medio de Cristo; y si la muerte reinó por la desobediencia de uno, «mucho más» reinarán en vida quienes reciben la gracia (Romanos 5:15, 17). Esa expresión muestra la enorme abundancia de la gracia, pero no dice por sí sola cuántas personas participarán finalmente de ella. Sin embargo, también deja una pregunta real: **¿en qué sentido la gracia resulta «mucho más» victoriosa si la muerte conserva para siempre a una gran parte de quienes alcanzó?** Pablo presenta la gracia de Cristo como una respuesta mucho más abundante que el daño producido por el pecado, aunque esta expresión por sí sola no demuestre la salvación de todos.
+
+15. **¿Termina la comparación con dos reinos que permanecen para siempre?**
+
+No es así como Pablo cierra el pasaje. Romanos 5:21 dice que el pecado reinó en la muerte, pero que ahora la gracia reina por medio de la justicia para vida por Jesucristo. Pablo no describe al final dos poderes que continúan reinando lado a lado para siempre; presenta un movimiento desde el reino del pecado y la muerte hacia el reino de la gracia y la vida. Esto todavía no demuestra que cada persona terminará participando de esa vida, pero sí fija la dirección del argumento: **la última imagen de Romanos 5 no es la permanencia del dominio del pecado, sino el reinado de la gracia**.
+
+16. **¿Qué significa que la paga del pecado sea muerte y el don de Dios vida?**
+
+Pablo vuelve a resumir el contraste con dos resultados opuestos: «la paga del pecado es muerte», mientras que el don de Dios es «vida» en Cristo (Romanos 6:21-23). Esto puede apoyar una lectura llamada **aniquilacionismo**, la idea de que los malvados finalmente mueren y dejan de existir. Pero todavía sería demasiado rápido concluir que «muerte» significa necesariamente dejar de existir para siempre, porque Pablo también habla de la muerte como un poder del que Cristo libera. Por ahora podemos afirmar algo más sencillo: **para Pablo, el pecado termina en muerte y el don de Dios termina en vida.**
+
+17. **¿Describe Pablo al pecador como alguien simplemente libre para elegir el bien?**
+
+No. En Romanos 7 Pablo describe a alguien que reconoce el bien, quiere hacerlo y, sin embargo, no consigue actuar de acuerdo con ese deseo. Habla de una persona «vendida» bajo el pecado, que hace lo que odia y no logra realizar el bien que quiere; incluso presenta al pecado como un poder que habita en ella y lucha contra su voluntad (Romanos 7:14-23). No importa aquí quién representa exactamente ese «yo»; la imagen muestra algo importante: **para Pablo, la voluntad humana puede estar realmente dividida y esclavizada; decir simplemente que una persona “puede elegir” no describe todo el problema que la salvación debe resolver**.
+
+18. **¿Cómo describe Pablo la liberación de esa esclavitud?**
+
+No como un simple esfuerzo de la voluntad. Después de describir a la persona cautiva por el pecado, Pablo pregunta quién podrá liberarla y responde señalando a Cristo; inmediatamente añade que «la ley del Espíritu de vida» en Cristo libera de «la ley del pecado y de la muerte» (Romanos 7:23-25; 8:1-4). La solución, entonces, no consiste solamente en decirle al pecador qué debe hacer, sino en que Dios actúe para romper el poder que lo mantiene cautivo. **Para Pablo, la salvación incluye una liberación real del dominio del pecado y de la muerte.**
+
+19. **¿Hasta dónde llega la liberación en Romanos 8?**
+
+Más allá de cada persona por separado. Pablo dice que la creación fue sometida a frustración y corrupción, pero «en esperanza», porque «la creación misma» será liberada y participará de la libertad de los hijos de Dios (Romanos 8:19-23). La imagen no es la de una creación abandonada o reemplazada, sino la de una creación que gime como en dolores de parto mientras espera ser liberada. Esto amplía mucho la esperanza de Pablo, pero todavía no demuestra que cada ser humano vaya a ser restaurado: **Romanos 8 promete una liberación que alcanza a toda la creación; todavía debemos preguntar quiénes participan finalmente de ella.**
+
+20. **¿Dice Romanos 8 que toda persona será finalmente glorificada, es decir, transformada por Dios?**
+
+No de forma explícita. «Glorificar» aquí significa llevar a una persona a la vida transformada y plena que Dios promete. Pablo habla de una cadena que va desde quienes Dios conoció de antemano hasta quienes llamó, justificó y glorificó (Romanos 8:28-30), y enseguida habla de los «escogidos» de Dios (Romanos 8:33). Nada en esas frases identifica directamente a ese grupo con cada ser humano. Por eso Romanos 8 ofrece una esperanza enorme para la creación y una seguridad muy fuerte para quienes pertenecen a Cristo, pero **por sí solo no demuestra que Dios transformará finalmente a todos los seres humanos.**
+
+21. **¿Significa estar fuera ahora estar fuera para siempre?**
+
+No necesariamente. En Romanos 11, Pablo habla de israelitas que han sido «cortados» por su incredulidad, como ramas separadas de un árbol. Pero no trata esa situación como algo que nunca pueda cambiar: dice que pueden ser «injertados» de nuevo, es decir, unidos otra vez al árbol; también dice que el endurecimiento de Israel dura «hasta» que entre la plenitud de las naciones y que «todo Israel será salvo» (Romanos 11:23-27). Esto no demuestra que toda persona excluida será finalmente restaurada, pero sí muestra algo importante: **en Pablo, estar fuera en un momento dado no significa necesariamente quedar fuera para siempre.**
+
+22. **¿Hasta dónde extiende Pablo la misericordia en Romanos 11?**
+
+Pablo termina esta parte con una frase muy amplia: «Dios encerró a todos en desobediencia para tener misericordia de todos» (Romanos 11:32). Usa «todos» tanto para la desobediencia como para la misericordia. Sin embargo, el contexto viene hablando especialmente de judíos y no judíos como dos grandes grupos. Por eso sería demasiado rápido concluir que Pablo acaba de demostrar la salvación final de cada individuo. Lo que sí podemos afirmar es esto: **para Pablo, la desobediencia no es la última palabra; el propósito de Dios avanza hacia una misericordia igual de amplia.**
+
+23. **¿Significa «tener misericordia de todos» que todos serán finalmente salvados?**
+
+No puede demostrarse sólo con la palabra «misericordia», porque Dios puede mostrar misericordia de distintas maneras. Pero en Romanos 11 la frase es más fuerte que decir simplemente que Dios tiene buenas intenciones. Pablo acaba de decir que quienes fueron cortados pueden ser unidos otra vez, que el endurecimiento de Israel no es definitivo y que «todo Israel será salvo»; después resume todo diciendo que Dios encerró a todos en desobediencia «para tener misericordia de todos» (Romanos 11:23-32). Por eso, **aquí la misericordia apunta claramente hacia una restauración salvadora**, aunque todavía debemos preguntar si «todos» significa cada persona o, primero, judíos y no judíos como pueblos.
+
+24. **¿Se refiere ese «todos» a cada individuo o a judíos y gentiles como pueblos?**
+
+El contexto inmediato habla principalmente de dos grandes grupos: los no judíos fueron desobedientes y recibieron misericordia, mientras que Israel ahora está en desobediencia pero también recibirá misericordia (Romanos 11:30-31). Después Pablo resume: Dios encerró a «todos» en desobediencia para tener misericordia de «todos» (Romanos 11:32). Por eso, como mínimo, el texto enseña que **ninguno de esos dos pueblos queda definitivamente fuera de la misericordia de Dios**. Es posible que Pablo también esté hablando de cada ser humano, y usar el mismo «todos» en ambos lados favorece esa lectura, pero Romanos 11:32 por sí solo no obliga a ella. Debemos comprobar si Pablo vuelve a hablar con esa amplitud en otros pasajes.
+
+25. **¿Repite Pablo en 1 Corintios la comparación entre Adán y Cristo?**
+
+Sí. Al hablar de la resurrección, Pablo vuelve a colocar a Adán y a Cristo frente a frente: «así como en Adán todos mueren, así también en Cristo todos serán vivificados», es decir, recibirán vida (1 Corintios 15:22). La estructura recuerda a Romanos 5: el daño que llega por Adán se contrapone con la obra de Cristo, y otra vez aparece «todos» en ambos lados. Sin embargo, el versículo siguiente menciona específicamente a «los que son de Cristo» en su venida. Por eso todavía no podemos concluir sin más que el segundo «todos» significa cada ser humano. **Primero debemos preguntar si Pablo habla del mismo grupo en ambos lados o si el versículo siguiente hace que el segundo grupo sea más pequeño.**
+
+26. **¿Habla 1 Corintios 15:22 del mismo «todos» en ambos lados?**
+
+Hay una razón fuerte para leerlo así: «así como en Adán todos mueren, así también en Cristo todos serán vivificados» (1 Corintios 15:22). Pero la dificultad es real. Pablo dice «en Adán» y «en Cristo», y alguien puede entender esas expresiones como dos grupos distintos. Además, el versículo siguiente menciona específicamente a «los que son de Cristo» en su venida (15:23). Por eso, **1 Corintios 15:22 apunta con fuerza hacia una vida tan amplia como la muerte de Adán, pero no demuestra por sí solo que cada ser humano será vivificado. Primero debemos entender qué función cumple 15:23.**
+
+27. **¿Decir «los que son de Cristo» significa que algunos nunca llegarán a serlo?**
+
+No. La frase distingue a quienes pertenecen a Cristo en el momento del que Pablo está hablando, pero no dice por sí sola que otras personas nunca llegarán a pertenecerle. Para usar 1 Corintios 15:23 como prueba de que el «todos» del versículo anterior es definitivamente menor que toda la humanidad, habría que añadir otra idea: que algunos nunca serán de Cristo. Y eso es precisamente una de las cosas que estamos tratando de descubrir. **Por eso 15:23 crea una dificultad real para la lectura universalista, pero no demuestra por sí solo que una parte de la humanidad quedará para siempre fuera de Cristo.**
+
+28. **¿Qué ocurre después de la resurrección de los que son de Cristo?**
+
+Pablo dice que después viene «el fin», cuando Cristo entrega el reino al Padre después de dejar sin poder a todo dominio, autoridad y potencia; también dice que Cristo debe reinar hasta poner a todos sus enemigos bajo sus pies y que «el último enemigo» en ser destruido es la muerte (1 Corintios 15:23-26). Esto significa que la historia no termina simplemente con la resurrección de los creyentes: **Pablo mira más allá, hacia una victoria en la que todo poder enemigo es derrotado y finalmente también la muerte deja de actuar.**
+
+29. **¿Dice Pablo aquí que Cristo destruirá a seres humanos?**
+
+No de forma explícita. En esta secuencia Pablo habla de dejar sin poder a dominios, autoridades y potencias, y después identifica a la muerte como «el último enemigo» que será destruido (1 Corintios 15:24-26). No dice aquí que una parte de la humanidad sea el enemigo que deba ser eliminada. Eso no demuestra que Pablo nunca pueda hablar de destrucción para seres humanos, porque lo hace en otros pasajes. Pero **en 1 Corintios 15 la victoria final se describe como la derrota de los poderes enemigos y de la muerte, no como la destrucción explícita de una parte de la humanidad.**
+
+30. **¿Puede la muerte ser destruida si algunas personas permanecen muertas para siempre?**
+
+Aquí aparece uno de los argumentos más fuertes a favor de una restauración universal. Pablo acaba de decir que en Cristo «todos serán vivificados» y después afirma que la muerte será el último enemigo destruido (1 Corintios 15:22, 26). Si derrotar la muerte significa dar vida a quienes estaban bajo su poder, parece extraño llamar a la muerte completamente derrotada mientras una parte de la humanidad permanece muerta para siempre. Pero Pablo no dice de forma directa que éste sea el razonamiento que debemos hacer. Un aniquilacionista puede responder que la muerte deja de actuar después de haber destruido definitivamente a los malvados. Por eso, **la derrota de la muerte encaja muy bien con la vida para todos, pero por sí sola no demuestra la restauración universal.**
+
+31. **¿Qué significa que Dios sea «todo en todos»?**
+
+Pablo usa esa frase para describir el final de la secuencia: todos los enemigos han quedado bajo Cristo, la muerte ha sido destruida y finalmente el Hijo entrega todo al Padre, «para que Dios sea todo en todos» (1 Corintios 15:24-28). La frase es breve y puede entenderse de más de una manera, pero dentro del pasaje muestra con claridad que **ningún poder enemigo queda fuera del gobierno de Dios**. Esto encaja muy bien con una restauración completa, pero todavía no la demuestra, porque alguien puede responder que Dios también puede gobernar sobre enemigos derrotados. La siguiente pregunta, entonces, es sencilla: **¿que todo quede bajo Cristo significa que sus enemigos terminan en paz con él?**
+
+32. **¿Que todo quede bajo la autoridad de Cristo significa que todos terminan en paz con él?**
+
+No necesariamente. Poner a los enemigos «bajo sus pies» puede describir una derrota, de modo que quedar bajo la autoridad de Cristo no prueba por sí solo una relación de paz. Pero tampoco significa necesariamente destrucción o sometimiento por la fuerza: Pablo dice que «todas las cosas» quedarán bajo Cristo y enseguida usa el mismo lenguaje para decir que el propio Hijo se pondrá bajo la autoridad del Padre (1 Corintios 15:27-28). Por eso, **1 Corintios 15 deja abierta la posibilidad de una obediencia nacida de la paz, pero no la demuestra**. Para saber qué clase de relación final tiene Pablo en mente debemos mirar los pasajes donde habla directamente de confesión y de pasar de enemistad a paz con Dios.
+
+33. **¿Es la confesión de Filipenses 2 una confesión de fe o un reconocimiento forzado?**
+
+Pablo dice que llegará el momento en que toda rodilla —en el cielo, en la tierra y debajo de la tierra— se doblará ante Jesús y toda lengua confesará que él es Señor (Filipenses 2:10-11). El verbo puede significar reconocer o declarar públicamente, y en otros contextos también aparece relacionado con la alabanza; además, «Jesús es Señor» es una confesión cristiana importante en otros textos de Pablo (Romanos 10:9; 1 Corintios 12:3). Todo esto da buenas razones para leer la escena de forma positiva, pero **el verbo por sí solo no demuestra que cada confesión sea voluntaria, salvadora o equivalente a una conversión**. Aun así, hay una dificultad para la idea de una confesión puramente forzada: Pablo dice que todo esto sucede «para gloria de Dios Padre», y sería extraño llamar gloriosa a una confesión pronunciada con los labios mientras la voluntad permanece completamente hostil. Para entender mejor la escena debemos mirar el pasaje que Pablo está retomando: Isaías 45.
+
+34. **¿Qué aporta Isaías 45 para entender esa confesión universal?**
+
+Isaías 45 une el señorío único de Dios con una invitación para todos: «todos los confines de la tierra» son llamados a volverse a él y ser salvados, y luego se anuncia que toda rodilla se doblará y toda lengua reconocerá a Dios (Isaías 45:22-24). Por eso, cuando Pablo aplica esta escena a Jesús, la confesión universal aparece en un pasaje relacionado con volverse a Dios y ser salvado, no sólo con la derrota de enemigos. **Eso favorece una lectura positiva de Filipenses 2, pero todavía no demuestra que toda persona que dobla la rodilla termine salvada**, porque Isaías también habla de juicio y vergüenza para quienes se oponen a Dios.
+
+35. **¿Pero Isaías 45 no habla también de enemigos que llegan avergonzados ante Dios?**
+
+Sí. El mismo pasaje que llama a los confines de la tierra a volverse a Dios y ser salvados también dice que quienes se enfurecieron contra él irán a él y quedarán avergonzados (Isaías 45:24). Por eso **Isaías 45 no demuestra por sí solo que toda rodilla doblada corresponda a una persona que ya está finalmente salvada**. La escena también contiene juicio sobre los enemigos de Dios. Pero tampoco describe claramente una confesión puramente hostil, porque esos enemigos terminan viniendo al mismo Dios ante quien toda rodilla se dobla. El pasaje mantiene juntas tres cosas: una invitación de salvación para todas las naciones, el reconocimiento de Dios por todos y la vergüenza de quienes se opusieron a él.
+
+36. **¿Incluye «debajo de la tierra» también al mundo de los muertos?**
+
+La expresión se refiere al mundo que está «debajo de la tierra», una manera antigua de hablar del mundo de los muertos; también puede incluir poderes relacionados con ese lugar (Filipenses 2:10). Por eso la escena parece más amplia que una confesión limitada a las personas que estén vivas cuando Cristo vuelva. Sin embargo, **la expresión no demuestra que cada muerto, uno por uno, se convierta después de morir**. Lo más seguro es decir que Pablo presenta el reconocimiento de Jesús como algo que abarca cielo, tierra y mundo de los muertos.
+
+37. **¿Qué significa «reconciliación» para Pablo en 2 Corintios 5?**
+
+Reconciliar significa pasar de enemistad a paz y restaurar una relación. Poco antes, Pablo había dicho que Cristo murió «por todos» y que, por eso, «todos murieron» (2 Corintios 5:14). Después dice que «Dios estaba en Cristo reconciliando al mundo consigo mismo» y que no estaba contando los pecados de las personas contra ellas; pero inmediatamente después ruega a sus oyentes: «reconcíliense con Dios» (2 Corintios 5:18-20). Por eso no debemos separar dos cosas: **Dios toma la iniciativa y realiza la obra que hace posible la paz, pero las personas también deben entrar realmente en esa relación**. La respuesta humana no es irrelevante. La siguiente pregunta es hasta dónde extiende Pablo esta obra cuando habla no sólo del «mundo», sino de «todas las cosas».
+
+38. **¿Dice Pablo que Dios reconciliará «todas las cosas» por medio de Cristo?**
+
+Sí. Colosenses dice que Dios quiso «reconciliar todas las cosas» por medio de Cristo, haciendo paz mediante la sangre de su cruz, y añade: «las cosas en la tierra» y «las cosas en los cielos» (Colosenses 1:19-20). Poco antes, «todas las cosas» incluye lo visible y lo invisible e incluso lo que Pablo llama tronos, dominios, principados y poderes, nombres que usa para distintas formas de poder y autoridad (1:16). Además, cuando aplica esa reconciliación a sus lectores, habla de personas que antes eran enemigas y ahora están en paz con Dios (1:21-22). **Colosenses 1 ofrece así una de las afirmaciones más amplias sobre reconciliación en estas cartas, pero todavía debemos preguntar qué significa reconciliar incluso a poderes hostiles.**
+
+39. **¿Qué cambia que esta reconciliación se realice por medio de la cruz?**
+
+Hace más difícil entender «reconciliar» como una simple derrota por la fuerza. Pablo no dice sólo que Cristo pondrá todas las cosas bajo su autoridad: dice que Dios hace paz «mediante la sangre de su cruz» (Colosenses 1:20). Y enseguida describe a personas que antes eran enemigas y ahora han sido reconciliadas con Dios por la muerte de Cristo (1:21-22). Dios no necesitaba la cruz simplemente para obligar a enemigos más débiles a obedecer. **El lenguaje de paz por medio de la cruz favorece con fuerza una reconciliación real, no sólo una rendición forzada.** Aun así, todavía debemos preguntar si esto permite concluir que cada ser personal del universo terminará salvado.
+
+40. **¿Puede Dios «reconciliar» a poderes hostiles simplemente poniéndolos en paz y bajo su autoridad?**
+
+Es una posibilidad que debemos tomar en serio. Colosenses 1 incluye dentro de «todas las cosas» a tronos, dominios, principados y poderes, y no sabemos que cada una de esas realidades deba entenderse como una persona que recibe salvación. Cuando «reconciliar» se aplica a seres humanos que antes eran enemigos, significa claramente pasar a una relación de paz con Dios (Colosenses 1:21-22). Pero **la palabra por sí sola no demuestra que todo poder hostil sea salvado exactamente del mismo modo que una persona**. Por eso debemos distinguir entre que toda la creación sea puesta en paz y la conclusión adicional de que cada individuo humano terminará personalmente reconciliado.
+
+41. **¿Incluye «todas las cosas» de Colosenses 1 a cada persona?**
+
+Los seres humanos están incluidos en el conjunto que Colosenses describe: Pablo habla primero de «todas las cosas» creadas, visibles e invisibles, en la tierra y en los cielos, y después de «todas las cosas» reconciliadas por medio de Cristo (Colosenses 1:16, 20). Además, cuando aplica esa reconciliación a sus lectores, habla de personas que eran enemigas y ahora han sido reconciliadas (1:21-22). Eso da una razón fuerte para incluir a la humanidad en esta paz de toda la creación. Pero **de ahí todavía no se sigue necesariamente que cada individuo humano, sin excepción, terminará personalmente reconciliado**, porque el texto habla de toda la creación en conjunto y no formula esa última conclusión con esas palabras.
+
+42. **¿Qué propósito final atribuye Efesios a Dios?**
+
+Efesios dice que Dios ha dado a conocer su propósito: cuando llegue el momento fijado, quiere reunir «todas las cosas en Cristo», tanto «las cosas en los cielos» como «las cosas en la tierra» (Efesios 1:9-10). El texto no presenta esto sólo como una invitación, sino como algo que Dios se propone realizar. **Efesios imagina todas las cosas finalmente reunidas bajo una sola cabeza, Cristo**. Lo que todavía debemos preguntar es si estar reunido bajo Cristo significa que todos quedan en paz con él y son salvados, o si algunas cosas pueden quedar simplemente bajo su autoridad.
+
+43. **¿Significa «reunir todas las cosas en Cristo» que todas serán salvadas?**
+
+No puede demostrarse sólo con esa expresión. El verbo que usa Efesios puede significar reunir o llevar varias cosas a una unidad, pero no significa por sí mismo «salvar» o «reconciliar» (Efesios 1:10). Por eso es posible entender el texto como todo el universo reunido bajo el gobierno de Cristo sin concluir inmediatamente que cada persona será salvada. Sin embargo, el contexto apunta a algo más que una simple derrota: el propósito es unir «todas las cosas» en Cristo, y Colosenses 1 describe una visión muy parecida con palabras de reconciliación y paz. **Efesios 1 refuerza la imagen de una creación finalmente unida en Cristo, pero la salvación de cada persona debe demostrarse por el conjunto de los textos, no por este verbo aislado.**
+
+44. **¿Debemos dar el mismo peso a 1 Timoteo que a las cartas de Pablo que ya hemos examinado?**
+
+No necesariamente. No sabemos con la misma seguridad que Pablo haya escrito 1 Timoteo, porque su autoría es discutida. Por eso no conviene hacer depender nuestra conclusión sobre Pablo de esta carta. **Podemos usar 1 Timoteo como apoyo, pero el argumento principal debe seguir descansando en las cartas cuya relación con Pablo es más segura**, como Romanos, 1 Corintios, Filipenses y 2 Corintios. Con esa cautela, vale la pena preguntar qué dice 1 Timoteo sobre la salvación.
+
+45. **¿Quiere Dios que todos sean salvados?**
+
+Primera Timoteo lo afirma de forma directa: Dios «quiere que todos los seres humanos sean salvados y conozcan la verdad», y enseguida dice que Cristo «se entregó a sí mismo como rescate por todos», es decir, se entregó para liberarlos (1 Timoteo 2:3-6). El deseo de Dios y la entrega de Cristo se expresan con el mismo lenguaje amplio. Pero decir que Dios quiere salvar a todos todavía no demuestra que ese deseo vaya necesariamente a cumplirse, porque el texto no explica cómo se relacionan la voluntad de Dios, la respuesta humana y el resultado final. **Lo que sí podemos afirmar es que perder definitivamente a una parte de la humanidad no aparece aquí como algo que Dios quiera, sino como algo contrario a su deseo declarado de salvar a todos.**
+
+46. **¿Significa que Dios quiera salvar a todos que necesariamente salvará a todos?**
+
+No. El deseo universal de Dios es una pieza importante, pero por sí solo no garantiza el resultado. Una persona puede sostener que Dios quiere salvar a todos y, al mismo tiempo, que algunas criaturas pueden resistirlo definitivamente; esa es precisamente una de las principales objeciones basadas en la libertad humana. Primera Timoteo 2:4 no explica si esa resistencia puede durar para siempre ni cómo actuará Dios frente a ella. Por eso, **el texto establece con claridad lo que Dios quiere —la salvación de todos—, pero no demuestra todavía que ese deseo vaya a cumplirse sin excepción**. La cuestión gana fuerza, sin embargo, porque la misma carta no sólo dice lo que Dios quiere: también lo llama «Salvador de todos».
+
+47. **¿Qué significa que Dios sea «Salvador de todos, especialmente de los creyentes»?**
+
+La frase de 1 Timoteo 4:10 distingue a los creyentes dentro de un grupo más amplio: Dios es llamado «Salvador de todos los seres humanos, especialmente de los que creen». «Especialmente» significa normalmente «sobre todo» o «particularmente», de modo que sería difícil hacer que «todos» significara simplemente «todos los creyentes». Sin embargo, el versículo no explica en qué sentido Dios es Salvador de quienes todavía no creen: podría referirse a que Dios cuida y sostiene a todos mientras los creyentes reciben la salvación en un sentido pleno, o podría mirar hacia una salvación que finalmente alcance también a los demás. Por eso, **1 Timoteo 4:10 incluye a los no creyentes dentro de la acción salvadora de Dios, pero por sí solo no dice cuándo ni cómo participarían plenamente de esa salvación.**
+
+48. **¿Habla Pablo de muerte y destrucción para quienes rechazan a Dios?**
+
+Sí, y debemos darle todo su peso. Pablo dice que algunos «perecen», afirma que el pecado termina en muerte, llama a ciertos hombres «enemigos de la cruz» cuyo «fin es destrucción» y en 2 Tesalonicenses anuncia una «destrucción eterna» en el juicio de Cristo (Romanos 2:12; 6:23; 1 Corintios 1:18; Filipenses 3:18-19; 2 Tesalonicenses 1:6-10). Por tanto, **muerte y destrucción forman una parte real e importante de lo que Pablo dice sobre el juicio**. La cuestión es qué clase de destino describen y si esas advertencias expresan necesariamente la última palabra de Dios sobre quienes son juzgados.
+
+49. **¿Qué significa que algunos «no heredarán el reino de Dios»?**
+
+Pablo lo presenta como una advertencia real. En 1 Corintios 6:9-10 y Gálatas 5:19-21 dice que quienes viven en determinadas prácticas no heredarán el reino de Dios. No podemos convertir esa frase en una amenaza vacía: **hay una exclusión verdadera del reino ligada a una vida dominada por el pecado**. Al mismo tiempo, estos textos no dicen por sí solos si esa exclusión durará para siempre. En 1 Corintios Pablo añade inmediatamente que algunos de sus lectores «eran» precisamente esas cosas, pero fueron «lavados, santificados y justificados», es decir, limpiados, hechos santos y puestos en una relación justa con Dios (1 Corintios 6:11). Eso muestra que una condición que excluye puede cambiar por la obra de Dios; no demuestra que ese cambio ocurra después del juicio. Por eso estos pasajes cuentan seriamente contra una salvación automática, pero no resuelven por sí solos el destino final de cada persona.
+
+50. **¿Significa «destrucción eterna» que esa destrucción nunca podrá ser revertida?**
+
+La frase de 2 Tesalonicenses 1:9 da una razón seria para pensarlo. La palabra griega traducida aquí como «eterna» es *aiōnios*. Esa palabra puede expresar una duración sin fin, de modo que «destrucción eterna» es una traducción seriamente posible y no debemos resolver el problema diciendo simplemente que *aiōnios* significa «temporal». La palabra traducida «destrucción» puede significar también ruina o muerte. Sin embargo, esas palabras no describen por sí solas un tormento consciente que continúa para siempre ni dicen qué podría hacer Dios después de ese juicio. **2 Tesalonicenses 1:9 es una de las evidencias más fuertes de Pablo a favor de una pérdida definitiva, y una lectura universalista no puede evitarla cambiando rápidamente el sentido de las palabras.**
+
+51. **¿Dice Pablo que los juzgados quedan «lejos de la presencia del Señor»?**
+
+No es la única manera posible de entender la frase. En 2 Tesalonicenses 1:9 la expresión griega puede leerse como «lejos de la presencia del Señor», pero también como una ruina que viene «de la presencia» o «del rostro del Señor». Es decir, puede hablar de separación o puede indicar de dónde viene el juicio. Nuestra traducción de referencia adopta esta segunda posibilidad. **Por eso el versículo no puede usarse sin más como una afirmación clara de separación eterna de Dios**. Lo que sí dice con claridad es que el juicio está directamente relacionado con la presencia gloriosa y poderosa del Señor.
+
+52. **¿Qué significa que el «fin» de los enemigos de la cruz sea destrucción?**
+
+Pablo dice con lágrimas que algunos viven como «enemigos de la cruz de Cristo» y que «su fin es destrucción» (Filipenses 3:18-19). La palabra traducida «destrucción» puede significar ruina, pérdida o destrucción completa. Por eso la advertencia es real y no debemos convertirla automáticamente en una forma de limpieza o corrección. Sin embargo, inmediatamente después Pablo habla del poder de Cristo para poner «todas las cosas» bajo su autoridad (Filipenses 3:21), y no explica cómo se relaciona eso con la destrucción de sus enemigos. **Filipenses 3 afirma claramente un destino de destrucción para quienes permanecen enemigos de la cruz, pero no dice por sí solo si ése será el último acto de Dios sobre ellos.**
+
+53. **¿Ser «enemigo» de Dios significa para Pablo permanecer enemigo para siempre?**
+
+No. En Romanos 5 Pablo recuerda a los creyentes que ellos mismos eran «enemigos» y, sin embargo, fueron reconciliados con Dios por medio de la muerte de Cristo (Romanos 5:8-11). Por eso **ser enemigo describe una relación real de oposición, pero no un estado del que nadie pueda salir**. Cuando Filipenses 3 llama a algunos «enemigos de la cruz», no podemos concluir sólo por esa palabra que nunca dejarán de serlo. Pero Romanos 5 tampoco demuestra que todos los enemigos serán finalmente reconciliados; demuestra algo más limitado: para Pablo, un enemigo puede llegar a ser reconciliado.
+
+54. **¿Cuál es el caso más fuerte para pensar que Pablo enseña un castigo consciente y definitivo?**
+
+La combinación más fuerte está en Romanos 2 y 2 Tesalonicenses 1. Romanos 2 habla de «ira», «furia», «tribulación» y «angustia» para quienes hacen el mal. Segunda Tesalonicenses dice que Dios responderá con aflicción a quienes afligen a su pueblo y habla de «destrucción eterna» cuando Jesús se revele (Romanos 2:5-9; 2 Tesalonicenses 1:6-10). Estos textos muestran un juicio que puede implicar sufrimiento consciente y un resultado que puede ser definitivo. Además, «destrucción» no tiene que significar necesariamente dejar de existir: también puede significar ruina o pérdida. **Si esa ruina es una condición consciente que dura para siempre, aquí está el caso más fuerte de Pablo a favor del tormento consciente sin fin; la dificultad es que Pablo no dice de manera explícita esa última parte.**
+
+55. **¿Enseña Pablo de forma explícita un tormento consciente sin fin?**
+
+No de forma clara. A la idea de que los condenados sufren conscientemente para siempre la llamaremos **infernalismo**. Pablo sí habla de aflicción consciente, ira y «destrucción eterna», de modo que esta lectura no carece de apoyo. Pero no ofrece una escena clara de personas mantenidas en sufrimiento consciente sin fin; incluso 2 Tesalonicenses 1:9 habla de «destrucción» o «ruina». **Por eso el tormento consciente sin fin es una interpretación posible del conjunto de estos textos, pero Pablo no lo describe directamente con esas palabras.**
+
+56. **¿Puede la destrucción tener en Pablo una finalidad salvadora?**
+
+Sí, al menos en un caso muy concreto. En 1 Corintios 5:5 Pablo ordena entregar a un hombre «para destrucción de la carne, a fin de que el espíritu sea salvado en el día del Señor». Aquí una acción descrita como destrucción termina expresamente en salvación para la persona, aunque probablemente se refiera a la destrucción del cuerpo o incluso a la muerte física. Esto demuestra que **la palabra «destrucción» no permite concluir automáticamente que Dios nunca pueda sacar salvación de algo destructivo**. Pero este pasaje no demuestra que una destrucción en el juicio final pueda revertirse ni convierte 2 Tesalonicenses 1:9 en un castigo restaurador. Cada pasaje debe leerse en su propio contexto.
+
+57. **¿Podemos concluir entonces que todo juicio de Pablo busca finalmente restaurar?**
+
+No. Primera Corintios 5:5 muestra que Pablo puede hablar de un juicio severo cuya finalidad es la salvación, pero eso no nos permite decir lo mismo de cada juicio. En 2 Tesalonicenses 1:6-10, por ejemplo, Pablo habla de justicia, fuego y destrucción sin añadir que ese castigo conduzca después a la reconciliación. **Podemos afirmar que algunos juicios tienen una finalidad salvadora; no podemos afirmar que Pablo enseñe que todos la tienen**. Si la restauración universal es correcta, tendrá que apoyarse en el destino final que Pablo atribuye a la obra de Cristo, no en la idea de que todo castigo es secretamente una corrección.
+
+58. **¿Enseña 1 Corintios 3 que el fuego del juicio puede coexistir con la salvación?**
+
+Sí, pero en un caso limitado. Pablo está hablando de personas que trabajan construyendo la comunidad cristiana —él mismo, Apolos y otros responsables— sobre Cristo, que es el fundamento, y dice que «el Día» probará por fuego la calidad de su trabajo (1 Corintios 3:5-15). Algunas obras permanecen y reciben recompensa; otras se queman, y quien construyó mal «sufrirá pérdida, pero él mismo será salvado, aunque como por fuego» (3:15). Esto confirma que **para Pablo hay al menos una escena de fuego, pérdida y juicio en la que la persona termina salvada**. Pero el pasaje no habla del destino de toda la humanidad ni demuestra que todos deban pasar por ese fuego para ser purificados.
+
+59. **¿El reconocimiento universal de Dios elimina el juicio?**
+
+No. En Romanos 14 Pablo pone ambas cosas en la misma escena: dice que «todos compareceremos ante el tribunal de Dios», es decir, ante Dios como juez, y como explicación cita la promesa de que «toda rodilla» se doblará y «toda lengua» reconocerá a Dios; después añade que cada uno dará cuenta de sí mismo (Romanos 14:10-12). **Para Pablo, juicio y reconocimiento universal pueden aparecer juntos**. El pasaje, sin embargo, no dice que todos los juzgados sean por ello salvados.
+
+60. **¿Cuál es el argumento más fuerte para pensar que Pablo espera una restauración universal?**
+
+No depende de un solo versículo. Varios textos distintos apuntan en la misma dirección: la humanidad que recibe condenación por Adán recibe justificación y vida por Cristo (Romanos 5:18); Dios encierra a todos en desobediencia para tener misericordia de todos (Romanos 11:32); en Adán todos mueren y en Cristo todos serán vivificados, hasta que la muerte sea destruida y Dios sea «todo en todos» (1 Corintios 15:22-28); toda rodilla se doblará y toda lengua confesará que Jesús es Señor (Filipenses 2:10-11); y Dios se propone reconciliar «todas las cosas» por medio de la cruz (Colosenses 1:20). **La fuerza del argumento está en que una y otra vez Pablo responde al pecado, la muerte y la enemistad con palabras igual de amplias sobre vida, misericordia, confesión y reconciliación. La dificultad es que también habla de destrucción, y todavía debemos entender cómo encajan ambas cosas.**
+
+61. **¿Tiene el aniquilacionismo un caso fuerte en Pablo?**
+
+Sí. Pablo dice que «la paga del pecado es muerte», habla de personas que «perecen», afirma que el «fin» de los enemigos de la cruz es destrucción y anuncia una «destrucción eterna» para quienes enfrentan el juicio de Cristo (Romanos 6:23; 1 Corintios 1:18; Filipenses 3:18-19; 2 Tesalonicenses 1:9). **El aniquilacionismo puede construir un caso fuerte a partir de este conjunto de palabras sobre muerte y destrucción, aunque ninguna de ellas, por sí sola, exige que la persona deje de existir**. Su dificultad aparece cuando ponemos esos textos junto a los que hablan de todos recibiendo vida, de la derrota de la muerte y de la reconciliación de «todas las cosas». Colosenses, por ejemplo, no dice que Cristo reconciliará «todas las cosas que queden» después del juicio: pone en paralelo todas las cosas creadas y todas las cosas reconciliadas. Eso no refuta el aniquilacionismo, pero sí le plantea una dificultad real.
+
+62. **¿Puede el aniquilacionismo decir que la muerte ha sido destruida aunque algunos permanezcan muertos para siempre?**
+
+Sí. Puede responder que destruir la muerte no exige devolver la vida a todos los que ella alcanzó: bastaría con que, después del juicio final, nadie vuelva a morir y la muerte deje de actuar. Esa respuesta es posible y muestra que 1 Corintios 15:26, leído solo, no refuta el aniquilacionismo. La dificultad aparece cuando leemos todo el pasaje: Pablo dice que «en Adán todos mueren», que «en Cristo todos serán vivificados» y que al final todo queda bajo Cristo y Dios es «todo en todos» (1 Corintios 15:22-28). **Por eso la derrota de la muerte no demuestra por sí sola la restauración universal, pero resulta más difícil combinarla con la idea de que una parte de la humanidad quede muerta para siempre.**
+
+63. **¿Qué dificultad principal enfrenta cada una de las tres lecturas?**
+
+Ninguna de las tres explica todos los textos sin dificultad. **El tormento consciente sin fin** toma muy en serio la ira, la aflicción y la posibilidad de un juicio definitivo, pero debe explicar por qué Pablo habla tantas veces de muerte y destrucción sin describir claramente un sufrimiento consciente que nunca termina. **El aniquilacionismo** toma con mucha seriedad la muerte y la destrucción, pero debe explicar cómo encajan con «todos serán vivificados», la derrota de la muerte y la reconciliación de «todas las cosas». **La restauración universal** toma en su sentido más amplio los textos de vida, misericordia y reconciliación, pero debe sostener que los juicios destructivos no son la última palabra aunque Pablo normalmente no lo diga en esos mismos pasajes. **La pregunta final es cuál de las tres consigue explicar mejor todos los textos sin tener que forzar los que le resultan difíciles.**
+
+64. **¿Dice Pablo explícitamente que quienes sufren la destrucción del juicio serán restaurados después?**
+
+No. Pablo puede describir un juicio que termina en salvación, como en 1 Corintios 5:5, y también puede anunciar una victoria muy amplia de Cristo, donde todos son vivificados, la muerte es destruida y Dios llega a ser «todo en todos» (1 Corintios 15:22-28). Pero cuando habla de la «destrucción» de 2 Tesalonicenses 1:9 o del «fin» destructivo de los enemigos de la cruz, **no añade que esas mismas personas serán restauradas después**. Por eso una lectura universalista debe sostener que los grandes textos sobre la victoria final de Cristo incluyen también a quienes pasan por juicio. Esa conclusión puede construirse a partir del conjunto, pero **Pablo no describe directamente una secuencia de “destrucción y después restauración”.**
+
+65. **¿Qué podemos afirmar entonces sobre la victoria de Cristo según Pablo?**
+
+Podemos afirmar varias cosas con bastante seguridad. Pablo anuncia un juicio real: habla de ira, aflicción, exclusión del reino, pérdida, muerte y destrucción. Al mismo tiempo, algunos de sus grandes pasajes usan un lenguaje extraordinariamente amplio: Romanos 5 pone frente a frente la condenación de Adán y la justificación que da vida; Romanos 11 habla de misericordia para todos; 1 Corintios 15 contrapone la muerte en Adán con la vida en Cristo y lleva la historia hasta la destrucción de la muerte y «Dios todo en todos»; Filipenses 2 anuncia que toda rodilla se doblará y toda lengua confesará a Jesús como Señor; y Colosenses 1 habla de reconciliar todas las cosas mediante la cruz (Romanos 5:18-19; 11:32; 1 Corintios 15:22-28; Filipenses 2:10-11; Colosenses 1:20). **Por tanto, la victoria de Cristo ocupa en Pablo un lugar mucho más amplio que la salvación de un pequeño grupo: alcanza a la humanidad y a toda la creación.** Lo que todavía no hemos demostrado es que cada uno de esos textos prometa la salvación final de cada persona.
+
+66. **¿Qué sigue sin estar resuelto?**
+
+Sigue abierta una pregunta decisiva: **¿ese lenguaje tan amplio termina incluyendo personalmente a cada ser humano, o algunos quedan para siempre fuera de la salvación?** La restauración universal reúne de manera poderosa los textos sobre vida, misericordia, derrota de la muerte y reconciliación, pero debe mostrar que los textos de destrucción no son la última palabra. Las otras lecturas toman esos textos de juicio como definitivos, pero deben explicar por qué Pablo habla de la victoria de Cristo con un lenguaje tan amplio. Por ahora, entonces, la restauración universal es una posibilidad fuerte que debe seguir siendo puesta a prueba, no una conclusión que debamos proteger. El siguiente paso es comprobar si Hebreos, Santiago, Pedro, Judas y las cartas de Juan confirman, limitan o contradicen esta esperanza.
