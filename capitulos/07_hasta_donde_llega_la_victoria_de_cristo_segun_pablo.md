@@ -1,4 +1,4 @@
-# Capítulo 6 — ¿Hasta dónde llega la victoria de Cristo según Pablo?
+# Capítulo 7 — ¿Hasta dónde llega la victoria de Cristo según Pablo?
 
 1. **¿Qué problema dice Pablo que alcanza a toda la humanidad?**
 
