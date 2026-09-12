@@ -41,7 +41,7 @@ jobs:
           echo "0801ca6c7da520db7a4ffde90329ddaed2f8d7a70edea4d66f2d9c77caf058cc  /tmp/cap6-source.md" | sha256sum -c -
           cp /tmp/cap6-source.md manuscrito/06_que_dicen_los_demas_escritos_del_nuevo_testamento_sobre_el_destino_final.md
 
-          cp manuscrito/06-hasta-donde-llega-la-victoria-de-cristo-segun-pablo.md /tmp/pablo-source.md
+          cat .parts/ch7/*.b64 | base64 --decode | gunzip > /tmp/pablo-source.md
           echo "5e18f2925f19333fca8e2426016a54471d411133402e6b02cf0fdeec8208cddd  /tmp/pablo-source.md" | sha256sum -c -
           cp /tmp/pablo-source.md manuscrito/07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
 
@@ -63,7 +63,9 @@ jobs:
 
           pablo = Path('manuscrito/07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md')
           ptext = pablo.read_text(encoding='utf-8')
-          ptext = re.sub(r'\A# Capítulo 6 —', '# Capítulo 7 —', ptext, count=1)
+          ptext, n = re.subn(r'\A# Capítulo 6 —', '# Capítulo 7 —', ptext, count=1)
+          if n != 1:
+              raise SystemExit('No se pudo renumerar el capítulo de Pablo')
           pablo.write_text(ptext, encoding='utf-8')
           PY
 
