@@ -2,6 +2,8 @@
 
 Este archivo es el mapa canónico del repositorio. Debe actualizarse cuando cambie un nombre, un número, una carpeta o la función de un archivo.
 
+## ¿Qué existe hoy?
+
 ```text
 libro-apokatastasis/
 ├── README.md
@@ -9,15 +11,13 @@ libro-apokatastasis/
 ├── ESTRUCTURA_REPOSITORIO.md
 ├── .gitignore
 ├── capitulos/
-│   ├── 00_por_que_este_libro.md
 │   ├── 01_que_podria_impedir_que_dios_restaure_a_todos.md
 │   ├── 02_que_hace_dios_con_un_mundo_que_se_aparta_de_el.md
 │   ├── 03_hasta_donde_llega_la_esperanza_del_antiguo_testamento.md
 │   ├── 04_que_muestran_los_evangelios_sobre_la_mision_de_jesus_y_el_juicio.md
 │   ├── 05_es_el_juicio_la_ultima_palabra_sobre_los_perdidos.md
 │   ├── 06_que_dicen_los_demas_escritos_del_nuevo_testamento_sobre_el_destino_final.md
-│   ├── 07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
-│   └── 08_que_muestra_apocalipsis_sobre_el_destino_final.md
+│   └── 07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
 ├── proyecto/
 │   ├── DIRECTIVAS_PROYECTO.md
 │   ├── ESTADO_ACTUAL.md
@@ -42,6 +42,12 @@ libro-apokatastasis/
 
 Con número de dos dígitos, guion bajo y nombre descriptivo en minúsculas: `NN_nombre_del_capitulo.md`. El número refleja el orden actual. Si el orden cambia, los archivos se renombran y este mapa se actualiza en el mismo cambio.
 
+## ¿Qué está previsto pero todavía no existe como archivo de manuscrito?
+
+- Introducción: **¿Por qué este libro?**. Cuando se redacte, se guardará como `capitulos/00_por_que_este_libro.md`.
+- Capítulo 8: **¿Qué muestra Apocalipsis sobre el destino final?**. Cuando comience su redacción, se guardará como `capitulos/08_que_muestra_apocalipsis_sobre_el_destino_final.md`.
+- Epílogo/cierre: la pregunta todavía no está definida. Cuando se decida, se guardará como `capitulos/09_<pregunta>.md`.
+
 ## ¿Qué documentos deben actualizarse cuando cambia la estructura?
 
 Según corresponda, en el mismo cambio deben revisarse:
@@ -55,7 +61,3 @@ Según corresponda, en el mismo cambio deben revisarse:
 ## ¿Dónde se guardan las fuentes de investigación?
 
 Los PDFs, libros y artículos completos permanecen en las Fuentes/biblioteca del Proyecto de ChatGPT. No se duplican en Git. Las conclusiones, auditorías y notas propias que deban sobrevivir entre sesiones sí pueden guardarse en `investigacion/`.
-
-## ¿Dónde se guardará el epílogo?
-
-Todavía no existe archivo porque su pregunta principal no está definida. Cuando se decida, se agregará como `09_<pregunta>.md` y se actualizará este mapa.
