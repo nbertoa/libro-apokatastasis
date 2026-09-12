@@ -1,0 +1,42 @@
+name: Assemble manuscript files
+
+on:
+  push:
+    branches:
+      - setup/manuscrito-inicial
+    paths:
+      - .assemble
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: setup/manuscrito-inicial
+
+      - name: Assemble canonical files
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p manuscrito skills/escritura-pregunta-respuesta
+          cat .parts/ch3/*.b64 | base64 --decode > manuscrito/03_hasta_donde_llega_la_esperanza_del_antiguo_testamento.md
+          cat .parts/ch6/*.b64 | base64 --decode > manuscrito/06_que_dicen_los_demas_escritos_del_nuevo_testamento_sobre_el_destino_final.md
+          cat .parts/ch7/*.b64 | base64 --decode > manuscrito/07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
+          cat .parts/skill/*.b64 | base64 --decode > skills/escritura-pregunta-respuesta/SKILL.md
+          rm -f manuscrito/06-hasta-donde-llega-la-victoria-de-cristo-segun-pablo.md
+          rm -f skills/escritura-pregunta-respuesta/README.md
+
+          git config user.name "ChatGPT Project"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manuscrito skills/escritura-pregunta-respuesta
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "manuscrito: completar versiones canónicas y reordenar capítulos"
+          git push origin HEAD:setup/manuscrito-inicial
