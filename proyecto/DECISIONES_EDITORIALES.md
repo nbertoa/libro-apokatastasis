@@ -14,6 +14,32 @@ Siempre como preguntas. Esto incluye la introducción, los capítulos y, cuando 
 
 El número indica el orden actual. Si cambia el orden, se renombran los archivos y se actualizan `README.md`, `ESTRUCTURA_REPOSITORIO.md`, `proyecto/ESTADO_ACTUAL.md` y `proyecto/HOJA_DE_RUTA.md`.
 
+## ¿Cuál es el formato Markdown canónico de los capítulos?
+
+Todos los capítulos deben usar la misma jerarquía Markdown:
+
+```md
+# Capítulo N — ¿Pregunta principal del capítulo?
+
+## 1. ¿Primera pregunta?
+
+Respuesta en texto normal.
+
+## 2. ¿Segunda pregunta?
+
+Respuesta en texto normal.
+```
+
+Reglas:
+
+- Debe haber un solo encabezado de nivel 1 (`#`) y corresponde al título del capítulo.
+- Cada pregunta numerada debe ser un encabezado de nivel 2 (`##`).
+- Las preguntas no llevan negrita adicional: el encabezado ya expresa su jerarquía.
+- Debe haber una línea en blanco después del título y después de cada pregunta antes de comenzar la respuesta.
+- Las respuestas se escriben como párrafos normales. Cursivas, negritas y otros énfasis se conservan dentro de las respuestas cuando cumplen una función real.
+- Una normalización de formato no debe cambiar palabras, argumentos, referencias ni conclusiones del manuscrito.
+- Este formato debe mantenerse en todos los capítulos nuevos y en cualquier revisión futura de los existentes.
+
 ## ¿Cuál es la fuente canónica del manuscrito?
 
 La versión más reciente presente en `capitulos/`. Las Fuentes del Proyecto siguen siendo la biblioteca de investigación y el lugar desde el que pueden importarse revisiones, pero una vez sincronizada una versión con Git, el repositorio registra el estado vigente del manuscrito.
