@@ -11,6 +11,7 @@ libro-apokatastasis/
 ├── ESTRUCTURA_REPOSITORIO.md
 ├── .gitignore
 ├── capitulos/
+│   ├── prologo_por_que_hice_estas_preguntas.md
 │   ├── 01_que_podria_impedir_que_dios_restaure_a_todos.md
 │   ├── 02_que_hace_dios_con_un_mundo_que_se_aparta_de_el.md
 │   ├── 03_hasta_donde_llega_la_esperanza_del_antiguo_testamento.md
@@ -18,12 +19,15 @@ libro-apokatastasis/
 │   ├── 05_es_el_juicio_la_ultima_palabra_sobre_los_perdidos.md
 │   ├── 06_que_dicen_los_demas_escritos_del_nuevo_testamento_sobre_el_destino_final.md
 │   ├── 07_hasta_donde_llega_la_victoria_de_cristo_segun_pablo.md
-│   └── 08_que_muestra_apocalipsis_sobre_el_destino_final.md
+│   ├── 08_que_muestra_apocalipsis_sobre_el_destino_final.md
+│   ├── 09_que_explicacion_del_final_hace_justicia_a_todo_lo_que_hemos_visto.md
+│   └── epilogo_como_se_veria_una_victoria_completa.md
 ├── proyecto/
 │   ├── DIRECTIVAS_PROYECTO.md
 │   ├── ESTADO_ACTUAL.md
 │   ├── HOJA_DE_RUTA.md
 │   ├── DECISIONES_EDITORIALES.md
+│   ├── PUBLICACION_KDP.md
 │   └── PREGUNTAS_Y_REFLEXIONES_PERSONALES.md
 ├── skills/
 │   └── escritura-pregunta-respuesta/
@@ -34,19 +38,33 @@ libro-apokatastasis/
 
 ## ¿Qué significa cada carpeta?
 
-- **`capitulos/`** contiene el manuscrito. Cada capítulo vive en un archivo independiente para poder auditarlo y versionarlo sin tocar los demás.
-- **`proyecto/`** conserva el contexto que debe sobrevivir aunque se borren todos los chats.
+- **`capitulos/`** contiene el manuscrito canónico. Prólogo, capítulos 1–9 y epílogo viven en archivos independientes para poder auditarlos y versionarlos sin tocar los demás.
+- **`proyecto/`** conserva el contexto que debe sobrevivir aunque se borren todos los chats: directivas, estado, hoja de ruta, decisiones y especificaciones de publicación.
 - **`skills/`** conserva métodos de trabajo reutilizables.
 - **`investigacion/`** conserva notas propias y análisis que convenga versionar, no la biblioteca completa.
 
 ## ¿Cómo se nombran los capítulos?
 
-Con número de dos dígitos, guion bajo y nombre descriptivo en minúsculas: `NN_nombre_del_capitulo.md`. El número refleja el orden actual. Si el orden cambia, los archivos se renombran y este mapa se actualiza en el mismo cambio.
+Los capítulos argumentales usan número de dos dígitos, guion bajo y nombre descriptivo en minúsculas: `NN_nombre_del_capitulo.md`.
 
-## ¿Qué está previsto pero todavía no existe como archivo de manuscrito?
+El prólogo y el epílogo no llevan número porque enmarcan el recorrido argumental y no forman parte de la secuencia 1–9.
 
-- Introducción: **¿Por qué este libro?**. Cuando se redacte, se guardará como `capitulos/00_por_que_este_libro.md`.
-- Epílogo/cierre: la pregunta todavía no está definida. Cuando se decida, se guardará como `capitulos/09_<pregunta>.md`.
+## ¿Dónde se documenta la publicación?
+
+`proyecto/PUBLICACION_KDP.md` es la referencia canónica para la edición impresa y digital destinada a Amazon KDP.
+
+Incluye:
+
+- tamaño 6 × 9 pulgadas;
+- tipografía;
+- márgenes y sangrado;
+- paginación;
+- índice;
+- cubierta impresa;
+- portada Kindle;
+- metadatos;
+- pasos de producción;
+- decisiones pendientes que dependen del número final de páginas.
 
 ## ¿Qué documentos deben actualizarse cuando cambia la estructura?
 
@@ -56,7 +74,8 @@ Según corresponda, en el mismo cambio deben revisarse:
 - `README.md`;
 - `proyecto/ESTADO_ACTUAL.md`;
 - `proyecto/HOJA_DE_RUTA.md`;
-- `proyecto/DECISIONES_EDITORIALES.md` si el cambio establece una regla nueva.
+- `proyecto/DECISIONES_EDITORIALES.md` si el cambio establece una regla nueva;
+- `proyecto/PUBLICACION_KDP.md` si cambia una decisión de maquetación o publicación.
 
 ## ¿Dónde se guardan las fuentes de investigación?
 
