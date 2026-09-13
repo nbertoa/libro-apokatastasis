@@ -76,6 +76,8 @@ La jerarquía tipográfica aprobada para esta edición, después de comparar pá
 - preguntas/subtítulos: **EB Garamond 15 pt, negrita cursiva, centrados**;
 - número de página: **EB Garamond 11 pt, centrado**.
 
+Al generar DOCX o PDF deben usarse variantes reales y completas de EB Garamond para **Regular, Italic, Bold y Bold Italic**. No se permiten negritas o cursivas simuladas ni sustituciones de fuente para caracteres acentuados. Antes de cerrar el interior final, verificar visualmente `á`, `é`, `í`, `ó`, `ú` y `ñ` en negrita y negrita cursiva; si alguna variante no contiene correctamente esos glifos, debe reemplazarse por una versión completa de EB Garamond.
+
 Esta configuración corresponde a la **prueba E** aprobada el 12 de septiembre de 2026. Sustituye como decisión para este libro los tamaños heredados de 32 pt para título de capítulo y 24 pt para subtítulos del interior A5 de referencia.
 
 La reducción no cambia la jerarquía conceptual: responde al formato 6 × 9 y a la frecuencia mucho mayor de preguntas en este manuscrito. No reabrir estos tamaños por rutina; hacerlo sólo si la maquetación completa revela un problema concreto de legibilidad o paginación.
