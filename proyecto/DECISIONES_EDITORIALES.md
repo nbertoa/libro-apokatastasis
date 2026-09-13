@@ -1,5 +1,11 @@
 # ¿Qué decisiones editoriales están vigentes?
 
+## ¿Cómo se llama el libro?
+
+El título editorial y comercial es **¿Restaurará Dios a todos?**
+
+`Apokatastasis` es el nombre del proyecto y del repositorio de trabajo. No debe usarse como título del libro en la portada interior, cubierta, metadatos de KDP, ISBN ni materiales comerciales.
+
 ## ¿Cuál es la forma normal del libro?
 
 **Pregunta → respuesta → siguiente pregunta.** Una pregunta por vez y una idea principal por respuesta. La siguiente pregunta debe nacer de una dificultad real dejada por la respuesta anterior.
@@ -78,7 +84,7 @@ La especificación completa de maquetación y publicación está en `proyecto/PU
 
 ## ¿Qué edición es esta?
 
-La edición que se está preparando es la **Primera edición** de *Apokatastasis*.
+La edición que se está preparando es la **Primera edición** de **¿Restaurará Dios a todos?**
 
 En la edición impresa, la página legal o de derechos debe indicar **«Primera edición»**. No colocar esa indicación en la tapa ni en la portada interior principal salvo una decisión posterior explícita.
 
