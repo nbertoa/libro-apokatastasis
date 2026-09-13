@@ -154,7 +154,7 @@ Sí. Jesús dice que el templo será destruido, anuncia días de desolación par
 
 ## 39. ¿Significa eso que Gehena y todas las advertencias de fuego hablan sólo de la destrucción de Jerusalén?
 
-No parece suficiente. Jesús distingue entre matar el cuerpo y un juicio que puede destruir alma y cuerpo en Gehena (Mateo 10:28; Lucas 12:4-5). También contrapone Gehena con entrar en la vida y en el reino de Dios (Marcos 9:43-48). Por eso algunas advertencias pueden incluir un juicio histórico, pero el conjunto va más allá de la caída de Jerusalén.
+No parece suficiente. **Gehena es una imagen de juicio que toma su nombre del valle de Hinom, junto a Jerusalén; veremos ese trasfondo con más detalle enseguida.** Jesús distingue entre matar el cuerpo y un juicio que puede destruir alma y cuerpo en Gehena (Mateo 10:28; Lucas 12:4-5). También contrapone Gehena con entrar en la vida y en el reino de Dios (Marcos 9:43-48). Por eso algunas advertencias pueden incluir un juicio histórico, pero el conjunto va más allá de la caída de Jerusalén.
 
 ## 40. ¿Es lo mismo una advertencia que una predicción del resultado final?
 
