@@ -54,7 +54,7 @@ No. La Biblia presenta la salvación precisamente como una transformación: Dios
 
 ## 14. ¿Cuán libres somos cuando rechazamos a Dios en esta vida?
 
-Somos suficientemente libres para ser responsables, pero eso no significa que nuestra libertad sea perfecta. Pablo habla del pecado como un poder que esclaviza y de una mente que puede quedar sometida a deseos y pensamientos contrarios a Dios (Romanos 6:16-23; 8:5-8; Efesios 2:1-3). También dice que ahora conocemos parcialmente y vemos «como en un espejo», mientras esperamos conocer de una manera más plena (1 Corintios 13:12). Por eso sería demasiado simple afirmar que cada rechazo de Dios expresa una decisión tomada con comprensión completa, deseos perfectamente ordenados y ausencia de toda esclavitud interior. La responsabilidad puede ser real sin que nuestra libertad presente sea la forma más plena de libertad posible.
+Somos suficientemente libres para ser responsables, pero eso no significa que nuestra libertad sea perfecta. Romanos habla del pecado como un poder que esclaviza y de una mente gobernada por la carne que puede quedar en enemistad con Dios (Romanos 6:16-23; 8:5-8). También Pablo dice que ahora conocemos parcialmente y vemos «como en un espejo», mientras esperamos conocer de una manera más plena (1 Corintios 13:12). Por eso sería demasiado simple afirmar que cada rechazo de Dios expresa una decisión tomada con comprensión completa, deseos perfectamente ordenados y ausencia de toda esclavitud interior. La responsabilidad puede ser real sin que nuestra libertad presente sea la forma más plena de libertad posible.
 
 ## 15. ¿Puede una persona plenamente libre, plenamente informada y completamente sana querer su propia ruina para siempre?
 
