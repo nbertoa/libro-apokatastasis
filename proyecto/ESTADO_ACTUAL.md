@@ -8,35 +8,59 @@ Los PDFs y libros completos de investigación no se guardan en Git. Permanecen e
 
 ## ¿Qué partes del manuscrito existen hoy en Git?
 
-- Capítulo 1 — **¿Qué podría impedir que Dios restaure a todos?**: borrador completo; sujeto a auditorías futuras.
-- Capítulo 2 — **¿Qué hace Dios con un mundo que se aparta de él?**: borrador completo; sujeto a auditorías futuras.
-- Capítulo 3 — **¿Hasta dónde llega la esperanza del Antiguo Testamento?**: borrador completo; sujeto a auditorías futuras.
-- Capítulo 4 — **¿Qué muestran los Evangelios sobre la misión de Jesús y el juicio?**: borrador completo; sujeto a auditorías futuras.
-- Capítulo 5 — **¿Es el juicio la última palabra sobre los perdidos?**: borrador completo; sujeto a auditorías futuras.
-- Capítulo 6 — **¿Qué dicen los demás escritos del Nuevo Testamento sobre el destino final?**: borrador completo; colocado antes de Pablo como prueba adversarial independiente.
-- Capítulo 7 — **¿Hasta dónde llega la victoria de Cristo según Pablo?**: borrador completo; colocado hacia el final del recorrido bíblico.
-- Capítulo 8 — **¿Qué muestra Apocalipsis sobre el destino final?**: borrador completo y auditado en esta etapa; funciona como la última gran prueba bíblica y queda sujeto a auditorías futuras.
+El manuscrito argumental está completo y comprende:
 
-La introducción **¿Por qué este libro?** y el epílogo todavía no existen como archivos de manuscrito.
+- prólogo — **¿Por qué hice estas preguntas?**;
+- capítulo 1 — **¿Qué podría impedir que Dios restaure a todos?**;
+- capítulo 2 — **¿Qué hace Dios con un mundo que se aparta de él?**;
+- capítulo 3 — **¿Hasta dónde llega la esperanza del Antiguo Testamento?**;
+- capítulo 4 — **¿Qué muestran los Evangelios sobre la misión de Jesús y el juicio?**;
+- capítulo 5 — **¿Es el juicio la última palabra sobre los perdidos?**;
+- capítulo 6 — **¿Qué dicen los demás escritos del Nuevo Testamento sobre el destino final?**;
+- capítulo 7 — **¿Hasta dónde llega la victoria de Cristo según Pablo?**;
+- capítulo 8 — **¿Qué muestra Apocalipsis sobre el destino final?**;
+- capítulo 9 — **¿Qué explicación del final hace justicia a todo lo que hemos visto?**;
+- epílogo — **¿Cómo se vería una victoria completa?**.
 
-## ¿Por qué están las demás epístolas antes de Pablo?
+## ¿En qué estado editorial está el manuscrito?
 
-Porque Hebreos, Santiago, Pedro, Judas y las cartas de Juan permiten probar la hipótesis universalista antes de llegar a algunos de los textos más fuertes de Pablo. Así el argumento no usa primero a Pablo como lente que controle todo lo anterior. Sólo después el capítulo 7 pregunta hasta dónde llega la victoria de Cristo según Pablo.
+El manuscrito pasó por varias rondas integrales de auditoría:
+
+- coherencia global y estructura;
+- imparcialidad entre tormento consciente sin fin, aniquilacionismo y restauración universal;
+- cobertura bíblica y fuerza de los textos difíciles;
+- claridad de términos técnicos;
+- continuidad entre capítulos;
+- control final de publicación.
+
+La fase principal de auditoría de contenido se considera **cerrada para esta edición**, salvo que aparezca un error concreto o nueva evidencia que obligue a reabrirla.
+
+La conclusión final sigue siendo deliberadamente provisional: la restauración universal humana aparece como la explicación que mejor integra el conjunto estudiado, sin quedar demostrada; la destrucción definitiva conserva una ventaja de lectura directa en numerosos textos de juicio, y el tormento consciente sin fin conserva textos especialmente fuertes de duración y sufrimiento.
+
+## ¿Por qué están Hechos y las demás epístolas antes de Pablo?
+
+Porque permiten probar la hipótesis universalista antes de llegar a algunos de los textos más amplios asociados con Pablo. El capítulo 6 funciona como una prueba independiente y exigente: puede confirmar, limitar o contradecir la expectativa restauradora antes de que el capítulo 7 examine la victoria de Cristo según Pablo.
 
 ## ¿Por qué queda Apocalipsis después de Pablo?
 
-Porque funciona como la última gran prueba bíblica. Allí aparecen algunas de las imágenes de juicio más severas del Nuevo Testamento —Babilonia, lago de fuego, segunda muerte, exclusión— y, al mismo tiempo, una nueva creación con naciones, reyes, puertas abiertas, árbol de la vida y una invitación final a venir y beber. El capítulo conserva la tensión entre esas imágenes y compara de manera adversarial las lecturas de tormento consciente sin fin, destrucción definitiva y restauración.
+Porque funciona como la última gran prueba bíblica. Allí aparecen algunas de las imágenes de juicio más severas del Nuevo Testamento —Babilonia, lago de fuego, segunda muerte, exclusión— y, al mismo tiempo, una nueva creación con naciones, reyes, puertas abiertas, árbol de la vida y una invitación final a venir y beber.
 
 ## ¿Cuál es el próximo trabajo principal?
 
-Auditar nuevamente la secuencia completa y las transiciones de los capítulos 1 al 8 ahora que el recorrido bíblico principal está redactado. Después corresponde definir y escribir la introducción **¿Por qué este libro?** y definir la pregunta del capítulo final o epílogo.
+La fase actual es **preparación editorial y publicación**.
 
-## ¿Qué debe ocurrir después de Apocalipsis?
+La edición impresa se preparará para Amazon KDP en **6 × 9 pulgadas (15,24 × 22,86 cm)**. La especificación canónica está en `proyecto/PUBLICACION_KDP.md`.
 
-1. Auditar nuevamente la secuencia completa y las transiciones entre capítulos.
-2. Definir y escribir la introducción **¿Por qué este libro?**.
-3. Definir la pregunta del capítulo final/epílogo. Ese cierre probablemente volverá a las preguntas del capítulo 1, pero ahora como auditoría final a la luz de toda la evidencia.
-4. Hacer auditorías temáticas transversales: lenguaje de duración, destrucción, libertad, justicia, víctimas, historia de la doctrina y coherencia global.
+El próximo trabajo práctico es producir una primera maqueta del interior en 6 × 9 y evaluar:
+
+1. tipografía real en página;
+2. tamaño de títulos y preguntas;
+3. densidad de texto e interlineado;
+4. comienzos de capítulo y títulos huérfanos;
+5. número aproximado de páginas;
+6. margen interior necesario según la paginación final.
+
+Después se cerrarán PDF interior, cubierta y metadatos de KDP.
 
 ## ¿Cómo se trabaja en Git?
 
@@ -44,4 +68,4 @@ Se trabaja directamente sobre `main`. No se crean branches, pull requests, GitHu
 
 ## ¿Cómo debe tratarse una mejora nueva?
 
-El proyecto permanece abierto a mejora. Si aparece una mejora razonable de estructura, claridad, documentación o consistencia, debe aplicarse y versionarse directamente cuando sea pertinente. Las conclusiones doctrinales, en cambio, sólo deben cambiar cuando la evidencia lo justifique, y el cambio debe quedar visible y argumentado.
+El proyecto permanece abierto a correcciones. Si aparece un error real de estructura, claridad, documentación o consistencia, debe corregirse y versionarse. Las conclusiones doctrinales sólo deben reabrirse cuando exista evidencia suficiente; no se harán nuevas rondas integrales de auditoría sólo por inercia editorial.
