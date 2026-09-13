@@ -6,13 +6,15 @@
 
 ## ¿Cómo deben titularse las partes principales?
 
-Siempre como preguntas. Esto incluye la introducción, los capítulos y, cuando se defina, el epílogo.
+Los capítulos argumentales se titulan como preguntas. El prólogo y el epílogo también mantienen títulos interrogativos para conservar la identidad del libro.
 
 ## ¿Cómo se nombran los archivos de capítulos?
 
 `NN_nombre_en_minusculas_separado_por_guiones_bajos.md`
 
 El número indica el orden actual. Si cambia el orden, se renombran los archivos y se actualizan `README.md`, `ESTRUCTURA_REPOSITORIO.md`, `proyecto/ESTADO_ACTUAL.md` y `proyecto/HOJA_DE_RUTA.md`.
+
+El prólogo y el epílogo usan nombres descriptivos sin numeración porque enmarcan el recorrido argumental y no forman parte de la secuencia 1–9.
 
 ## ¿Cuál es el formato Markdown canónico de los capítulos?
 
@@ -50,11 +52,39 @@ No. Los libros y artículos completos permanecen en las Fuentes/biblioteca del P
 
 ## ¿En qué orden se leen las epístolas y Pablo?
 
-Primero el capítulo sobre Hebreos, Santiago, Pedro, Judas y las cartas de Juan; después Pablo. Esto permite que esos escritos funcionen como prueba adversarial independiente antes de llegar a algunas de las afirmaciones más fuertes sobre la victoria universal de Cristo.
+Primero el capítulo sobre Hechos, Hebreos, Santiago, Pedro, Judas y las cartas de Juan; después Pablo. Esto permite que esos escritos funcionen como una prueba independiente y exigente antes de llegar a algunas de las afirmaciones más amplias sobre la victoria de Cristo.
 
 ## ¿Dónde queda Apocalipsis?
 
-Después de Pablo, como última gran prueba bíblica antes del cierre. Su interpretación no debe decidirse de antemano.
+Después de Pablo, como última gran prueba bíblica antes de la comparación final. Su interpretación no debe decidirse de antemano.
+
+## ¿Cuál es el formato físico elegido para Amazon KDP?
+
+La edición impresa se diseñará en **6 × 9 pulgadas (15,24 × 22,86 cm)**.
+
+Este tamaño reemplaza el A5 heredado de workflows anteriores para este libro.
+
+La especificación completa de maquetación y publicación está en `proyecto/PUBLICACION_KDP.md`. Ese archivo es la referencia canónica para:
+
+- tipografía;
+- márgenes;
+- sangrado;
+- paginación;
+- índice;
+- cubierta;
+- portada Kindle;
+- metadatos;
+- variables que sólo pueden cerrarse después de conocer el número final de páginas.
+
+## ¿Qué tipografía se usará?
+
+La familia canónica es **EB Garamond**.
+
+El cuerpo parte de 11 pt. Los tamaños heredados para títulos y preguntas se conservarán como punto de partida, pero deben validarse visualmente en una maqueta real de 6 × 9 antes de considerarlos definitivos.
+
+## ¿El interior llevará sangrado?
+
+Por defecto, no. El libro es esencialmente textual. Sólo se activará sangrado si se incorpora contenido que deba llegar realmente hasta el borde de la página.
 
 ## ¿Hay que pedir confirmación para cada mejora?
 
