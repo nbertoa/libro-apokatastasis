@@ -8,7 +8,7 @@ Porque no da lo mismo.
 
 Una parte importante de mi vida de fe ha sido pedir que el Espíritu Santo quite de mí las mentiras que haya aprendido acerca de Dios y las reemplace por verdad. No porque yo suponga que ya sé cuáles son todas esas mentiras, sino precisamente porque no lo sé.
 
-Si lo que creo acerca de Dios es verdadero, conocerlo mejor puede transformarme. Pero si algunas de las cosas que creo acerca de él son falsas, esas ideas también pueden transformarme. Puedo llamar carácter de Dios a algo que nunca vino de él. Puedo vivir con miedo por una imagen equivocada. Puedo sentir culpa donde no debería sentirla. Puedo endurecerme creyendo que estoy imitando a Dios. Incluso puedo alejarme de alguien a quien nunca llegué a conocer realmente, porque lo que rechacé fue la imagen que había construido de él.
+Si lo que creo acerca de Dios es verdadero, conocerlo mejor puede transformarme. Pero si algunas de las cosas que creo acerca de él son falsas, esas ideas también pueden hacerlo. Puedo llamar carácter de Dios a algo que nunca vino de él. Puedo vivir con miedo por una imagen equivocada. Puedo sentir culpa donde no debería sentirla. Puedo endurecerme creyendo que estoy imitando a Dios. Incluso puedo alejarme de alguien a quien nunca llegué a conocer realmente, porque lo que rechacé fue la imagen que había construido de él.
 
 No digo esto para afirmar que toda persona que se aleja de Dios lo hace por una mala experiencia religiosa. La vida humana es mucho más compleja que eso. Pero sí creo que existe una pregunta que merece ser tomada en serio: **¿cuántas cosas creemos acerca de Dios simplemente porque las aprendimos antes de haberlas examinado?**
 
@@ -50,7 +50,7 @@ Quise intentar algo más incómodo: hacer preguntas que pudieran llevarme a conc
 
 Eso significa que mis propias intuiciones también tenían que quedar bajo examen.
 
-Si una idea me parecía hermosa, eso no bastaba para hacerla verdadera. Si una doctrina me parecía difícil, eso tampoco bastaba para hacerla falsa. Si la mayoría de los cristianos había creído algo, no podía descartarlo simplemente porque fuera mayoritario. Pero tampoco quería creerlo solamente porque era mayoritario.
+Si una idea me parecía hermosa, eso no bastaba para hacerla verdadera. Si una doctrina me parecía difícil, eso tampoco bastaba para hacerla falsa. Si la mayoría de los cristianos había creído algo, no quería descartarlo ni aceptarlo simplemente porque lo creyera la mayoría.
 
 Quería asumir la responsabilidad de examinar aquello que creo.
 
@@ -191,8 +191,6 @@ Y porque sigo creyendo que conocer mejor el carácter de Dios importa.
 Si aquello que contemplamos nos transforma, entonces vale la pena mirar con cuidado.
 
 Vale la pena limpiar la imagen todo lo que podamos.
-
-Vale la pena permitir que las mentiras caigan, incluso cuando llevamos mucho tiempo llamándolas verdad.
 
 Y vale la pena conservar la humildad suficiente para aceptar que algunas de las cosas que hoy llamamos certezas quizá todavía necesiten ser examinadas.
 
