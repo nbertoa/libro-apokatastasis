@@ -1,8 +1,38 @@
 # ¿Cómo se preparará este libro para Amazon KDP?
 
-Este archivo reúne las decisiones canónicas de maquetación y publicación para **Apokatastasis**. Sustituye como referencia operativa a valores heredados de otros libros cuando entren en conflicto con las decisiones tomadas específicamente para este proyecto.
+Este archivo reúne las decisiones canónicas de maquetación y publicación para **¿Restaurará Dios a todos?**, de Nicolás Bertoa.
+
+`Apokatastasis` es el nombre interno del proyecto y del repositorio. No debe aparecer como título del libro en portada, cubierta, metadatos de KDP, ISBN ni materiales comerciales.
 
 Los requisitos técnicos de Amazon KDP pueden cambiar. Las cifras de KDP recogidas aquí fueron verificadas el **12 de septiembre de 2026** en la documentación oficial de KDP y deben volver a comprobarse antes de la subida final.
+
+## ¿Cuál es el título editorial exacto?
+
+El título es:
+
+**¿Restaurará Dios a todos?**
+
+Debe conservarse exactamente, incluidos los signos de interrogación y la tilde de «Restaurará», en:
+
+- portada interior;
+- cubierta impresa;
+- portada Kindle;
+- ficha de Amazon KDP;
+- ISBN y metadatos bibliográficos cuando corresponda.
+
+En la cubierta puede componerse tipográficamente en mayúsculas —**¿RESTAURARÁ DIOS A TODOS?**— sin que eso cambie el título registrado.
+
+No hay subtítulo definido.
+
+## ¿Qué edición es esta?
+
+La edición actualmente en preparación es la **Primera edición**.
+
+La página legal o de derechos del interior debe indicar **«Primera edición»**.
+
+No colocar «Primera edición» en la tapa ni en la portada interior principal salvo decisión posterior explícita.
+
+En Amazon KDP, el campo **Edition number** debe cargarse con **1**. Antes de la publicación final, volver a verificar el comportamiento vigente de ese campo, porque modificar el número de edición después de publicar puede requerir una nueva edición.
 
 ## ¿Cuál es el tamaño físico elegido?
 
@@ -54,11 +84,19 @@ No mezclar EB Garamond con Calibri, Arial, Times New Roman u otras fuentes salvo
 
 La primera página debe contener, centrados y en este orden:
 
-1. título del libro;
-2. **Nicolás Bertoa**;
-3. **jesusyyo.com**.
+1. **¿Restaurará Dios a todos?**
+2. **Nicolás Bertoa**
+3. **jesusyyo.com**
 
-No agregar subtítulo, epígrafe, créditos de inteligencia artificial, descripción de fuentes ni otros elementos salvo decisión explícita posterior.
+No agregar subtítulo, epígrafe, indicación de edición, créditos de inteligencia artificial, descripción de fuentes ni otros elementos salvo decisión explícita posterior.
+
+## ¿Cómo será la página legal o de derechos?
+
+Debe incluir, como mínimo, la indicación **«Primera edición»**.
+
+Los demás elementos —copyright, año, ISBN, editorial/imprint y cualquier aviso legal— se cerrarán cuando se defina la estrategia final de ISBN y publicación.
+
+La página legal no debe inventar derechos, editoriales o identificadores todavía no asignados.
 
 ## ¿Cómo se alineará el cuerpo?
 
@@ -145,7 +183,7 @@ El diseño de referencia es minimalista:
 - contratapa a la izquierda;
 - lomo al centro;
 - tapa a la derecha;
-- título en mayúsculas en el tercio superior de la tapa;
+- título **¿RESTAURARÁ DIOS A TODOS?** en el tercio superior de la tapa;
 - `Nicolás Bertoa` cerca del pie de la tapa;
 - reseña contemplativa de aproximadamente 80–100 palabras en la contratapa;
 - `Nicolás Bertoa — jesusyyo.com` al pie de la contratapa.
@@ -180,13 +218,16 @@ No deformar el diseño de la tapa impresa para obtener otra relación de aspecto
 
 ## ¿Qué metadatos están ya definidos?
 
+- título: **¿Restaurará Dios a todos?**;
 - autor: **Nicolás Bertoa**;
+- edición: **1 / Primera edición**;
 - editorial/imprint opcional: **jesusyyo.com**;
-- título: debe coincidir exactamente con la portada y la ficha de KDP;
-- subtítulo: sólo si realmente se decide uno;
+- subtítulo: **ninguno definido**;
 - descripción: debe basarse en el contenido real del libro;
 - categorías y palabras clave: se elegirán con las opciones vigentes de KDP en el momento de publicación;
 - derechos: declarar únicamente derechos que el autor realmente posea o pueda publicar.
+
+El título debe coincidir exactamente entre portada, cubierta, ficha de KDP e identificadores bibliográficos.
 
 No activar KDP Select automáticamente si el mismo contenido se distribuye de una manera incompatible con la exclusividad vigente.
 
