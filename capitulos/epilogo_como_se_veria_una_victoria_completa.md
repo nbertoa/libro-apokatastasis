@@ -124,7 +124,7 @@ El Nuevo Testamento no habla solamente de individuos.
 
 Habla de pueblos separados.
 
-Pablo describe la obra de Cristo como aquello que derriba un muro de hostilidad y crea paz entre judíos y gentiles (Efesios 2:11-18). Isaías había imaginado a Israel junto a Egipto y Asiria. Apocalipsis termina hablando de naciones que caminan a la luz de la ciudad y de reyes que llevan allí su gloria, mientras las hojas del árbol de la vida son para la sanación de las naciones (Isaías 19:23-25; Apocalipsis 21:24-26; 22:2).
+Efesios describe la obra de Cristo como aquello que derriba un muro de hostilidad y crea paz entre judíos y gentiles (Efesios 2:11-18). Isaías había imaginado a Israel junto a Egipto y Asiria. Apocalipsis termina hablando de naciones que caminan a la luz de la ciudad y de reyes que llevan allí su gloria, mientras las hojas del árbol de la vida son para la sanación de las naciones (Isaías 19:23-25; Apocalipsis 21:24-26; 22:2).
 
 Durante Apocalipsis, las naciones y los reyes aparecen también engañados, hostiles y aliados con poderes enemigos. El libro no dice que todos los reyes del final sean exactamente los mismos individuos que antes combatieron contra Dios. No debemos afirmar eso.
 
@@ -202,7 +202,7 @@ Eso no demuestra que Dios vaya a hacerlo.
 
 Pero Jesús mismo nos enseñó alguna vez a razonar desde la bondad imperfecta de los padres humanos hacia una bondad mayor del Padre: si nosotros, siendo malos, sabemos dar cosas buenas a nuestros hijos, cuánto más Dios (Mateo 7:11; Lucas 11:13).
 
-Pablo habla del amor de Cristo como algo cuya anchura, longitud, altura y profundidad superan nuestro conocimiento, y enseguida habla de Dios como aquel que puede hacer muchísimo más de todo lo que pedimos o imaginamos (Efesios 3:18-20).
+Efesios habla del amor de Cristo como algo cuya anchura, longitud, altura y profundidad superan nuestro conocimiento, y enseguida habla de Dios como aquel que puede hacer muchísimo más de todo lo que pedimos o imaginamos (Efesios 3:18-20).
 
 Entonces queda una última pregunta.
 
