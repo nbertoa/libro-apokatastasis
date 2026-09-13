@@ -6,7 +6,7 @@ No es una prueba de la restauración universal. Una idea no se vuelve verdadera 
 
 Pero después de preguntar durante tantos capítulos qué puede afirmar la evidencia, podemos permitirnos una última pregunta:
 
-**Si Dios llegara realmente a restaurar todas las cosas, ¿cómo se vería una victoria así?**
+**Si Dios llegara realmente a restaurar a todos los seres humanos, ¿cómo se vería una victoria así?**
 
 ## ¿No nos dio ya la Biblia pequeñas imágenes de reconciliación?
 
@@ -206,7 +206,7 @@ Efesios habla del amor de Cristo como algo cuya anchura, longitud, altura y prof
 
 Entonces queda una última pregunta.
 
-**Si yo, con un amor pequeño, puedo imaginar una reconciliación así, ¿debo esperar que el amor de Dios sea menos capaz que mi imaginación?**
+**Si yo, con un amor pequeño, puedo imaginar una reconciliación así, ¿hasta dónde puede llegar una bondad divina que sé que no comprendo por completo?**
 
 Tal vez la respuesta no sea que Dios hará exactamente aquello que yo imagino.
 
