@@ -2,7 +2,7 @@
 
 ## 1. ¿Cómo debemos leer Apocalipsis antes de usar sus imágenes para decidir el destino final?
 
-Con cuidado, porque Apocalipsis comunica gran parte de su mensaje mediante visiones y símbolos. El mismo libro explica que algunos elementos vistos representan otras realidades: los candelabros son iglesias, el dragón es Satanás y las aguas son pueblos y naciones (Apocalipsis 1:20; 12:9; 17:15). Eso no vuelve irreales el juicio o la salvación, pero sí impide tratar cada imagen como una descripción literal.
+Con cuidado, porque Apocalipsis comunica gran parte de su mensaje mediante visiones y símbolos. El mismo libro explica que algunos elementos vistos representan otras realidades: los candelabros son iglesias, el dragón es Satanás y las aguas son pueblos y naciones (Apocalipsis 1:20; 12:9; 17:15). También presenta repetidamente a Jesús como **el Cordero**, una imagen que une su muerte con su victoria y su reinado. Eso no vuelve irreales el juicio o la salvación, pero sí impide tratar cada imagen como una descripción literal.
 
 ## 2. ¿Cómo podemos saber qué quiere decir una imagen?
 
@@ -10,7 +10,7 @@ Por el propio contexto y por las Escrituras que Apocalipsis retoma. Muchas de su
 
 ## 3. ¿Qué importancia tiene el Antiguo Testamento para entender Apocalipsis?
 
-Muchísima. Apocalipsis rara vez cita al Antiguo Testamento de manera directa, pero reutiliza constantemente sus imágenes, palabras y escenas: el éxodo, Babilonia, las bestias de Daniel, Gog y Magog, la nueva creación, Jerusalén y el río de vida, entre muchas otras. Por eso una imagen puede entenderse mal si ignoramos de dónde viene. Pero Juan tampoco se limita a repetir textos anteriores: los combina y los transforma alrededor de Cristo y del Cordero, de modo que el Antiguo Testamento orienta la lectura sin decidirla automáticamente.
+Muchísima. Apocalipsis rara vez cita al Antiguo Testamento de manera directa, pero reutiliza constantemente sus imágenes, palabras y escenas: el éxodo, Babilonia, las bestias de Daniel, la nueva creación, Jerusalén y el río de vida, entre muchas otras. Por eso una imagen puede entenderse mal si ignoramos de dónde viene. Pero Juan tampoco se limita a repetir textos anteriores: los combina y los transforma alrededor de Cristo, presentado en el libro como el Cordero, de modo que el Antiguo Testamento orienta la lectura sin decidirla automáticamente.
 
 ## 4. ¿El orden de las visiones es necesariamente el orden de los acontecimientos?
 
@@ -82,7 +82,7 @@ Es el juicio que sigue a la resurrección y al juicio ante el gran trono blanco,
 
 ## 21. ¿Enseña Apocalipsis 14:9-11 que seres humanos sufrirán conscientemente para siempre?
 
-Es uno de los textos más fuertes para esa interpretación. Quienes adoran a la bestia son descritos sufriendo tormento, «el humo de su tormento» sube «por los siglos de los siglos» y «no tienen descanso ni de día ni de noche» (Apocalipsis 14:9-11). El lenguaje puede sugerir con mucha fuerza un sufrimiento consciente sin fin, especialmente porque Apocalipsis usa normalmente «por los siglos de los siglos» para realidades permanentes y porque la falta de descanso se refiere a quienes sufren. Sin embargo, el mismo libro dice que el humo de Babilonia sube «por los siglos de los siglos» cuando la ciudad ya ha sido destruida, usando el humo como señal de una ruina irreversible, y esa imagen también recuerda la destrucción de Edom (Isaías 34:9-10; Apocalipsis 19:3). **Por eso Apocalipsis 14:9-11 es una evidencia muy seria a favor del tormento consciente sin fin, pero la imagen del humo no demuestra por sí sola que las personas continúen sufriendo eternamente.**
+Es uno de los textos más fuertes para esa interpretación. Quienes adoran a la bestia son descritos sufriendo tormento «delante de los santos ángeles y delante del Cordero»; «el humo de su tormento» sube «por los siglos de los siglos» y «no tienen descanso ni de día ni de noche» (Apocalipsis 14:9-11). Ese primer detalle también importa: **esta escena no describe simplemente un lugar donde Cristo está ausente**, porque el Cordero aparece presente como testigo del juicio. El lenguaje puede sugerir con mucha fuerza un sufrimiento consciente sin fin, especialmente porque Apocalipsis usa normalmente «por los siglos de los siglos» para realidades permanentes y porque la falta de descanso se refiere a quienes sufren. Sin embargo, el mismo libro dice que el humo de Babilonia sube «por los siglos de los siglos» cuando la ciudad ya ha sido destruida, usando el humo como señal de una ruina irreversible, y esa imagen también recuerda la destrucción de Edom (Isaías 34:9-10; Apocalipsis 19:3). **Por eso Apocalipsis 14:9-11 es una evidencia muy seria a favor del tormento consciente sin fin, pero la imagen del humo no demuestra por sí sola que las personas continúen sufriendo eternamente.**
 
 ## 22. ¿Apocalipsis 20:10 dice que todos los condenados serán atormentados para siempre?
 
