@@ -69,14 +69,16 @@ El papel blanco es la preferencia heredada del workflow del autor. Si una prueba
 
 La familia tipográfica canónica es **EB Garamond** en todo el libro.
 
-Valores de referencia heredados y actualmente vigentes:
+La jerarquía tipográfica aprobada para esta edición, después de comparar páginas reales en 6 × 9, es:
 
 - cuerpo: **EB Garamond 11 pt**;
-- título de capítulo: **EB Garamond 32 pt, negrita, centrado**;
-- preguntas/subtítulos: **EB Garamond 24 pt, negrita cursiva, centrado**;
+- título de capítulo: **EB Garamond 26 pt, negrita, centrado**;
+- preguntas/subtítulos: **EB Garamond 15 pt, negrita cursiva, centrados**;
 - número de página: **EB Garamond 11 pt, centrado**.
 
-Estos tamaños deben validarse visualmente en una muestra real de 6 × 9 pulgadas antes de generar el interior definitivo. En especial, los 24 pt de las preguntas pueden resultar demasiado grandes en un libro construido con muchas preguntas consecutivas. Si la prueba muestra una densidad deficiente, el tamaño podrá reducirse sin cambiar la familia tipográfica ni la jerarquía conceptual.
+Esta configuración corresponde a la **prueba E** aprobada el 12 de septiembre de 2026. Sustituye como decisión para este libro los tamaños heredados de 32 pt para título de capítulo y 24 pt para subtítulos del interior A5 de referencia.
+
+La reducción no cambia la jerarquía conceptual: responde al formato 6 × 9 y a la frecuencia mucho mayor de preguntas en este manuscrito. No reabrir estos tamaños por rutina; hacerlo sólo si la maquetación completa revela un problema concreto de legibilidad o paginación.
 
 No mezclar EB Garamond con Calibri, Arial, Times New Roman u otras fuentes salvo una necesidad editorial explícita.
 
@@ -102,12 +104,14 @@ La página legal no debe inventar derechos, editoriales o identificadores todav�
 
 El cuerpo se compondrá **justificado**.
 
-La referencia heredada usa:
+La configuración aprobada en la prueba E usa como referencia visual:
 
-- espaciado posterior de párrafo: `200` en unidades DOCX;
-- interlineado: `340` en unidades DOCX.
+- cuerpo: **11 pt**;
+- interlineado aproximado: **1,32**;
+- espacio posterior de párrafo: **7 pt**;
+- separación entre respuesta y siguiente pregunta resuelta mediante estilos, sin líneas vacías manuales.
 
-Esos valores técnicos se consideran punto de partida, no una obligación visual independiente del resultado. La prueba de 6 × 9 debe confirmar que el ritmo de lectura es cómodo y que no aparecen ríos de blanco, líneas demasiado abiertas ni páginas excesivamente aireadas.
+El objetivo es conservar aire suficiente sin producir la densidad fragmentada de una jerarquía demasiado grande. Si el motor DOCX requiere una equivalencia técnica distinta para reproducir visualmente este ritmo, prevalece el resultado visual aprobado sobre una unidad interna concreta.
 
 ## ¿Qué márgenes se usarán?
 
@@ -235,34 +239,36 @@ No cambiar DRM, título u otros campos potencialmente difíciles de revertir sin
 
 ## ¿Qué decisiones todavía faltan?
 
-Antes de generar archivos finales hay que cerrar:
+La jerarquía tipográfica y el ritmo básico de página ya están cerrados con la prueba E.
 
-1. tamaño final de H1 y H2 después de ver una muestra real de 6 × 9;
-2. papel blanco o crema;
-3. número final de páginas;
-4. margen interior definitivo según ese número de páginas;
-5. inclusión o no de encabezados corridos;
-6. forma final de la página de derechos y de fuentes;
-7. ISBN: propio o asignado por KDP, según la estrategia de publicación;
-8. texto definitivo de contratapa;
-9. metadatos comerciales: descripción, categorías y palabras clave;
-10. dimensiones exactas de la cubierta completa, calculadas al final.
+Antes de generar archivos finales todavía hay que cerrar:
+
+1. papel blanco o crema;
+2. número final de páginas;
+3. margen interior definitivo según ese número de páginas;
+4. inclusión o no de encabezados corridos;
+5. forma final de la página de derechos y de fuentes;
+6. ISBN: propio o asignado por KDP, según la estrategia de publicación;
+7. texto definitivo de contratapa;
+8. metadatos comerciales: descripción, categorías y palabras clave;
+9. dimensiones exactas de la cubierta completa, calculadas al final.
 
 ## ¿Cuál es el orden de trabajo para producir la edición impresa?
 
 1. Congelar una versión editorial del manuscrito.
 2. Generar una primera maqueta DOCX en 6 × 9.
 3. Revisar visualmente tipografía, jerarquías, espaciado, densidad y comienzos de capítulo.
-4. Ajustar sólo lo que la prueba física/visual justifique.
-5. Determinar el número final de páginas.
-6. Fijar el margen interior definitivo y volver a paginar si corresponde.
-7. Generar el PDF interior final sin marcas de corte, comentarios ni elementos invisibles.
-8. Revisar página por página: blancos accidentales, títulos huérfanos, numeración e índice.
-9. Con el número de páginas definitivo, generar la plantilla de cubierta de KDP.
-10. Preparar la cubierta completa sobre esa plantilla.
-11. Subir interior y cubierta a KDP y revisar el Print Previewer.
-12. Corregir cualquier advertencia real del previsualizador antes de aprobar.
-13. Pedir una prueba física antes de considerar cerrada la edición, cuando sea posible.
+4. **Jerarquía aprobada:** prueba E — H1 26 pt, preguntas 15 pt, cuerpo 11 pt, interlineado aproximado 1,32 y espacio posterior de cuerpo 7 pt.
+5. Generar el interior completo con esa jerarquía.
+6. Determinar el número final de páginas.
+7. Fijar el margen interior definitivo y volver a paginar si corresponde.
+8. Generar el PDF interior final sin marcas de corte, comentarios ni elementos invisibles.
+9. Revisar página por página: blancos accidentales, títulos huérfanos, numeración e índice.
+10. Con el número de páginas definitivo, generar la plantilla de cubierta de KDP.
+11. Preparar la cubierta completa sobre esa plantilla.
+12. Subir interior y cubierta a KDP y revisar el Print Previewer.
+13. Corregir cualquier advertencia real del previsualizador antes de aprobar.
+14. Pedir una prueba física antes de considerar cerrada la edición, cuando sea posible.
 
 ## ¿Qué fuentes definen esta especificación?
 
