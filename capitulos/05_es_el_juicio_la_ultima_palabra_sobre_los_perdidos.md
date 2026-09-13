@@ -42,7 +42,7 @@ Es una de las formulaciones más fuertes contra una restauración universal senc
 
 ## 11. ¿Muestra la historia del rico y Lázaro sufrimiento después de la muerte?
 
-Dentro de la historia, sí. El rico muere, está consciente en el Hades y sufre, mientras Lázaro recibe consuelo junto a Abraham (Lucas 16:19-31). Esto impide decir que Jesús nunca usa una imagen de sufrimiento consciente después de morir. Pero todavía debemos preguntar qué lugar ocupa esa escena dentro del conjunto del juicio futuro.
+Dentro de la historia, sí. El rico muere, está consciente en el Hades —el ámbito de los muertos— y sufre, mientras Lázaro recibe consuelo junto a Abraham (Lucas 16:19-31). Esto impide decir que Jesús nunca usa una imagen de sufrimiento consciente después de morir. Pero todavía debemos preguntar qué lugar ocupa esa escena dentro del conjunto del juicio futuro.
 
 ## 12. ¿Por qué importa que el rico esté en Hades y no en Gehena?
 
@@ -70,7 +70,7 @@ No formula una regla general con esas palabras. Sus parábolas insisten en respo
 
 ## 18. ¿Qué muestra el ladrón que cambia junto a Jesús en la cruz?
 
-Uno de los criminales crucificados reconoce su culpa, defiende la inocencia de Jesús y le pide ser recordado; Jesús le responde con una promesa de estar con él en el paraíso (Lucas 23:39-43). El cambio ocurre antes de morir, no después. La escena muestra que la misericordia puede alcanzar a una persona muy tarde en su vida, pero no demuestra arrepentimiento post mortem.
+Uno de los criminales crucificados reconoce su culpa, defiende la inocencia de Jesús y le pide ser recordado; Jesús le responde con una promesa de estar con él en el paraíso (Lucas 23:39-43). El cambio ocurre antes de morir, no después. La escena muestra que la misericordia puede alcanzar a una persona muy tarde en su vida, pero no demuestra arrepentimiento después de la muerte.
 
 ## 19. ¿Demuestra «mejor le habría sido no nacer» que Judas estará perdido para siempre?
 
@@ -130,7 +130,7 @@ No ofrece esa conclusión. Las obras tienen un lugar decisivo en la escena, pero
 
 ## 33. ¿Qué significa que la verdadera luz ilumine a todos?
 
-Juan presenta al Logos como la verdadera luz que ilumina a todo ser humano que viene al mundo (Juan 1:4-9). La afirmación da un alcance universal a su acción. Sin embargo, el mismo prólogo dice que el mundo no lo reconoció y que los suyos no lo recibieron (Juan 1:10-11). Ser alcanzado por la luz no equivale automáticamente a responder bien a ella.
+Juan presenta a Jesús como la Palabra, la verdadera luz que ilumina a todo ser humano que viene al mundo (Juan 1:4-9). La afirmación da un alcance universal a su acción. Sin embargo, el mismo prólogo dice que el mundo no lo reconoció y que los suyos no lo recibieron (Juan 1:10-11). Ser alcanzado por la luz no equivale automáticamente a responder bien a ella.
 
 ## 34. ¿Qué significa que Jesús sea el Cordero que quita el pecado del mundo?
 
@@ -146,7 +146,7 @@ Juan afirma que Dios envió al Hijo para que el mundo fuera salvado por medio de
 
 ## 37. ¿Qué significa «el mundo» que Jesús vino a salvar?
 
-En Juan, «el mundo» no significa sólo quienes ya creen. Es el mundo creado por medio del Logos, el mundo que no lo reconoce, el mundo que puede amar las tinieblas y oponerse a Jesús (Juan 1:10; 3:19; 7:7). Precisamente ese mundo es objeto del amor y de la misión salvadora de Dios (Juan 3:16-17; 12:47). Esto da a la misión un alcance enorme, pero «mundo» como conjunto todavía no equivale automáticamente a cada individuo.
+En Juan, «el mundo» no significa sólo quienes ya creen. Es el mundo creado por medio de la Palabra, el mundo que no lo reconoce, el mundo que puede amar las tinieblas y oponerse a Jesús (Juan 1:10; 3:19; 7:7). Precisamente ese mundo es objeto del amor y de la misión salvadora de Dios (Juan 3:16-17; 12:47). Esto da a la misión un alcance enorme, pero «mundo» como conjunto todavía no equivale automáticamente a cada individuo.
 
 ## 38. ¿Qué significa que Jesús «atraerá a todos» hacia sí?
 
@@ -208,7 +208,7 @@ Jesús compara a quien no permanece en él con una rama que es arrojada fuera, s
 
 No de manera explícita. Juan reúne algunas de las afirmaciones más amplias del Nuevo Testamento sobre el mundo, la luz, la vida y la atracción de todos hacia Cristo. Pero también habla de rechazo, ira, muerte en los pecados, resurrección para juicio y ramas quemadas (Juan 1:9, 29; 3:16-21, 36; 5:28-29; 6:33, 51; 8:24; 12:31-33; 15:6). Su Evangelio da razones importantes para una esperanza amplia, pero no narra que todos los juzgados sean finalmente restaurados.
 
-## 53. ¿Por quién dicen los Sinópticos que Jesús entrega su vida?
+## 53. ¿Por quién dicen Mateo y Marcos que Jesús entrega su vida?
 
 Jesús dice que el Hijo del Hombre vino a servir y a dar su vida como precio de liberación «por muchos» (Mateo 20:28; Marcos 10:45). En la cena habla también de su sangre derramada «por muchos» para el perdón de los pecados (Mateo 26:28; Marcos 14:24). La expresión muestra una obra que alcanza a una gran multitud. Por sí sola, «muchos» no nos dice si otros quedan necesariamente excluidos.
 
