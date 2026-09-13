@@ -1,5 +1,13 @@
 # ¿Cuál es el estado actual del proyecto?
 
+## ¿Cómo se llama el libro?
+
+El título editorial y comercial es **¿Restaurará Dios a todos?**
+
+`Apokatastasis` sigue siendo el nombre interno del proyecto y del repositorio, no el título del libro.
+
+La edición actualmente en preparación es la **Primera edición**.
+
 ## ¿Qué es canónico?
 
 El repositorio registra el estado vigente del manuscrito, las decisiones editoriales y el contexto de trabajo. Los chats pueden borrarse sin perder el proyecto. Cuando exista una discrepancia entre un chat antiguo y el repositorio, debe prevalecer la versión más reciente del repositorio, salvo indicación expresa del usuario.
@@ -49,7 +57,7 @@ Porque funciona como la última gran prueba bíblica. Allí aparecen algunas de 
 
 La fase actual es **preparación editorial y publicación**.
 
-La edición impresa se preparará para Amazon KDP en **6 × 9 pulgadas (15,24 × 22,86 cm)**. La especificación canónica está en `proyecto/PUBLICACION_KDP.md`.
+La **Primera edición** de **¿Restaurará Dios a todos?** se preparará para Amazon KDP en **6 × 9 pulgadas (15,24 × 22,86 cm)**. La especificación canónica está en `proyecto/PUBLICACION_KDP.md`.
 
 El próximo trabajo práctico es producir una primera maqueta del interior en 6 × 9 y evaluar:
 
