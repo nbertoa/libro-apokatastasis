@@ -32,6 +32,8 @@ Dentro del cristianismo han existido, de forma simplificada, tres grandes manera
 
 Tormento consciente sin fin. Destrucción definitiva. Restauración universal.
 
+El título de este libro usa una palabra griega: *apokatástasis*. Significa **restauración** o **restablecimiento** y aparece en Hechos 3:21, donde Pedro habla de la «restauración de todas las cosas». Elegí esa palabra porque nombra con precisión la pregunta central del libro, no porque ese versículo resuelva por sí solo el debate. Cuando lleguemos a Hechos tendremos que examinar qué restaura Dios, hasta dónde llega esa expresión y qué no permite concluir.
+
 Este libro intenta averiguar qué puede decirse realmente a favor y en contra de cada una.
 
 ## ¿Cómo quise hacerlo?
