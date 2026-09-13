@@ -5,7 +5,7 @@
 3. Leer `proyecto/HOJA_DE_RUTA.md`.
 4. Si la tarea modifica el manuscrito, leer `skills/escritura-pregunta-respuesta/SKILL.md`.
 5. Si el trabajo cambia orden, nombres o estructura, leer `ESTRUCTURA_REPOSITORIO.md` y `proyecto/DECISIONES_EDITORIALES.md`.
-6. Si la tarea afecta maquetación, DOCX, PDF de imprenta, cubierta, Kindle o Amazon KDP, leer **antes de hacer cambios** `proyecto/PUBLICACION_KDP.md`.
+6. Si la tarea afecta maquetación, DOCX, PDF de imprenta, cubierta, Kindle o Amazon KDP, leer **antes de hacer cambios** `proyecto/PUBLICACION_KDP.md` y `proyecto/REFERENCIA_VISUAL.md`.
 7. Para editar un capítulo, leer primero el capítulo completo y sus transiciones con el anterior y el siguiente.
 8. Consultar `proyecto/PREGUNTAS_Y_REFLEXIONES_PERSONALES.md` por si existe una inquietud del usuario relevante para el tema.
 
@@ -15,11 +15,21 @@ Precisión antes que defensa de una conclusión. El proyecto construye el caso m
 
 La fase principal de auditoría del manuscrito está cerrada para la edición actualmente en preparación. No iniciar nuevas auditorías integrales por rutina. Reabrir contenido sólo ante un error concreto, una contradicción real o nueva evidencia suficientemente importante.
 
+# ¿Cómo se llama el libro?
+
+El título editorial y comercial es **¿Restaurará Dios a todos?**
+
+`Apokatastasis` es únicamente el nombre interno del proyecto/repositorio. No usarlo como título en portada, cubierta, KDP, ISBN o materiales comerciales.
+
+La edición en preparación es la **Primera edición**.
+
 # ¿Cuál es el formato de publicación vigente?
 
 La edición impresa se prepara para Amazon KDP en **6 × 9 pulgadas (15,24 × 22,86 cm)**.
 
-`proyecto/PUBLICACION_KDP.md` es la referencia canónica para tipografía, márgenes, sangrado, cubierta, portada Kindle, metadatos y secuencia de producción. No reutilizar automáticamente el A5 ni plantillas de cubierta de libros anteriores.
+`proyecto/PUBLICACION_KDP.md` es la referencia canónica para tipografía, márgenes, sangrado, cubierta, portada Kindle, metadatos y secuencia de producción. `proyecto/REFERENCIA_VISUAL.md` documenta la familia visual aprobada y cómo adaptar **El arte perdido de preguntar** al nuevo libro.
+
+No reutilizar automáticamente el A5 ni plantillas de cubierta de libros anteriores.
 
 # ¿Cómo se trabaja con Git?
 
@@ -35,6 +45,7 @@ La edición impresa se prepara para Amazon KDP en **6 × 9 pulgadas (15,24 × 22
 - Cambios de orden, progreso o próxima tarea: `proyecto/ESTADO_ACTUAL.md` y, si corresponde, `proyecto/HOJA_DE_RUTA.md`.
 - Decisiones permanentes de método o edición: `proyecto/DECISIONES_EDITORIALES.md`.
 - Cambios de maquetación o publicación: `proyecto/PUBLICACION_KDP.md`.
+- Cambios en la referencia visual o su adaptación: `proyecto/REFERENCIA_VISUAL.md`.
 - Preguntas personales nuevas: `proyecto/PREGUNTAS_Y_REFLEXIONES_PERSONALES.md`.
 
 # ¿Qué carpeta contiene el manuscrito?
