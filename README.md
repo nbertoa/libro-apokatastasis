@@ -1,8 +1,10 @@
-# Libro Apokatastasis
+# Proyecto LIBRO APOKATASTASIS
 
-Libro cristiano sobre la restauración universal.
+Proyecto editorial del libro **¿Restaurará Dios a todos?**, de Nicolás Bertoa.
 
 El proyecto evalúa, paso a paso, el caso bíblico, filosófico y teológico a favor de la restauración universal, sin asumir de antemano que restauración universal, tormento consciente sin fin o aniquilacionismo sean verdaderos.
+
+**Apokatastasis** es el nombre interno del proyecto y del repositorio; no es el título comercial del libro.
 
 ## ¿Cómo está construido el libro?
 
@@ -24,7 +26,7 @@ El contenido pasó por varias rondas integrales de auditoría de coherencia, est
 
 En **preparación editorial y publicación**.
 
-La edición impresa se prepara para Amazon KDP en **6 × 9 pulgadas (15,24 × 22,86 cm)**. La especificación canónica de tipografía, márgenes, interior, cubierta y workflow está en `proyecto/PUBLICACION_KDP.md`.
+La **Primera edición** se prepara para Amazon KDP en **6 × 9 pulgadas (15,24 × 22,86 cm)**. La especificación canónica de tipografía, márgenes, interior, cubierta y workflow está en `proyecto/PUBLICACION_KDP.md`.
 
 ## ¿Dónde está cada cosa?
 
