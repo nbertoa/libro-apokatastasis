@@ -46,7 +46,7 @@ Aquí «justificación» significa, en términos sencillos, que Dios pone a una 
 
 ## 12. ¿Limita «los que reciben la gracia» el alcance de ese «todos»?
 
-Sí, en un sentido importante. Pablo no dice que alguien tenga vida sin recibir la gracia de Dios: en Romanos 5:17 quienes «reciben la abundancia de la gracia y el don de la justicia» son quienes reinan en vida. Pero el versículo no dice cuántas personas llegarán finalmente a recibirla. Establece que la gracia debe ser recibida; no afirma que una parte de la humanidad nunca la recibirá. Por eso Romanos 5:17 impide hablar de una salvación automática sin respuesta humana, pero **no basta por sí solo para demostrar que el «todos» de Romanos 5:18 terminará siendo un grupo menor que la humanidad entera.**
+No por sí solo. Romanos 5:17 dice que quienes «reciben la abundancia de la gracia y el don de la justicia» reinarán en vida. El versículo describe el resultado de quienes reciben ese don, pero no dice cuántas personas llegarán finalmente a recibirlo ni que algunas nunca lo harán. Tampoco conviene hacer depender del verbo «recibir», por sí solo, la idea de una aceptación activa mediante la fe: Pablo puede usar ese verbo simplemente para describir a alguien como receptor de algo. Pablo vincula claramente la justificación con la fe en otros lugares, de modo que la respuesta humana no desaparece de su teología. Pero Romanos 5:17 no basta para reducir el «todos» de Romanos 5:18 a un grupo menor que la humanidad entera. **Y tampoco demuestra por sí solo que finalmente todos recibirán la gracia.**
 
 ## 13. ¿Por qué Pablo pasa de «todos» a «los muchos» en el versículo siguiente?
 
