@@ -76,6 +76,14 @@ La especificación completa de maquetación y publicación está en `proyecto/PU
 - metadatos;
 - variables que sólo pueden cerrarse después de conocer el número final de páginas.
 
+## ¿Qué edición es esta?
+
+La edición que se está preparando es la **Primera edición** de *Apokatastasis*.
+
+En la edición impresa, la página legal o de derechos debe indicar **«Primera edición»**. No colocar esa indicación en la tapa ni en la portada interior principal salvo una decisión posterior explícita.
+
+En Amazon KDP, el campo **Edition number** debe cargarse con el número **1**. Antes de publicar, verificar nuevamente este dato porque KDP no permite modificar el número de edición de un libro ya publicado sin crear una nueva edición.
+
 ## ¿Qué tipografía se usará?
 
 La familia canónica es **EB Garamond**.
