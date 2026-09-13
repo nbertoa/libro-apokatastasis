@@ -28,6 +28,7 @@ libro-apokatastasis/
 │   ├── HOJA_DE_RUTA.md
 │   ├── DECISIONES_EDITORIALES.md
 │   ├── PUBLICACION_KDP.md
+│   ├── REFERENCIA_VISUAL.md
 │   └── PREGUNTAS_Y_REFLEXIONES_PERSONALES.md
 ├── skills/
 │   └── escritura-pregunta-respuesta/
@@ -55,6 +56,7 @@ El prólogo y el epílogo no llevan número porque enmarcan el recorrido argumen
 
 Incluye:
 
+- título editorial y número de edición;
 - tamaño 6 × 9 pulgadas;
 - tipografía;
 - márgenes y sangrado;
@@ -66,6 +68,8 @@ Incluye:
 - pasos de producción;
 - decisiones pendientes que dependen del número final de páginas.
 
+`proyecto/REFERENCIA_VISUAL.md` documenta la referencia visual aprobada por el autor —**El arte perdido de preguntar**— y distingue qué rasgos de esa familia editorial deben conservarse y cuáles necesitan adaptación para **¿Restaurará Dios a todos?**.
+
 ## ¿Qué documentos deben actualizarse cuando cambia la estructura?
 
 Según corresponda, en el mismo cambio deben revisarse:
@@ -75,7 +79,8 @@ Según corresponda, en el mismo cambio deben revisarse:
 - `proyecto/ESTADO_ACTUAL.md`;
 - `proyecto/HOJA_DE_RUTA.md`;
 - `proyecto/DECISIONES_EDITORIALES.md` si el cambio establece una regla nueva;
-- `proyecto/PUBLICACION_KDP.md` si cambia una decisión de maquetación o publicación.
+- `proyecto/PUBLICACION_KDP.md` si cambia una decisión de maquetación o publicación;
+- `proyecto/REFERENCIA_VISUAL.md` si cambia la referencia visual o la forma de trasladarla al nuevo libro.
 
 ## ¿Dónde se guardan las fuentes de investigación?
 
