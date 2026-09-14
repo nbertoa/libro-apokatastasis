@@ -60,9 +60,11 @@ Jesús manda amar a los enemigos y fundamenta ese mandato en la manera de actuar
 
 No. Amar a alguien no significa aprobar su mal ni dejar sin respuesta el daño que causa. Jesús mismo habla de juicio mientras enseña a amar a los enemigos. Por eso estos textos no demuestran restauración universal. Lo que sí impiden es imaginar el juicio como si Dios se volviera indiferente al bien de sus enemigos sin que exista una razón bíblica para afirmarlo.
 
-## 16. ¿Hasta dónde manda Jesús extender el perdón?
+## 16. ¿Qué hace Jesús con la lógica de llevar cuentas en el perdón y la generosidad?
 
-Cuando Pedro pregunta cuántas veces debe perdonar, Jesús rechaza la idea de llevar una cuenta pequeña y limitada (Mateo 18:21-22). La enseñanza forma a sus discípulos en una disposición amplia al perdón. Esto no significa que la reconciliación ocurra sin arrepentimiento ni que todo castigo desaparezca, pero sí importa para entender qué clase de Padre deben imitar quienes siguen a Jesús.
+Cuando Pedro pregunta cuántas veces debe perdonar, Jesús rechaza la idea de llevar una cuenta pequeña y limitada (Mateo 18:21-22). Su respuesta de «setenta veces siete» o «setenta y siete», según cómo se entienda la expresión, probablemente evoca Génesis 4:24, donde Lamec multiplica la venganza. Jesús invierte esa lógica: en vez de multiplicar la represalia, multiplica el perdón. Esto no significa que la reconciliación ocurra sin arrepentimiento ni que todo castigo desaparezca, pero sí importa para entender qué clase de Padre deben imitar quienes siguen a Jesús.
+
+Mateo presenta una inversión parecida en la parábola de los trabajadores de la viña. Quienes llegaron primero se indignan porque el dueño da a los últimos la misma paga y él responde: «¿es malo tu ojo porque yo soy bueno?» (Mateo 20:1-16). La imagen del «ojo malo» expresa una mirada envidiosa ante la generosidad: nadie recibió menos de lo acordado, pero la bondad hacia el último parece injusta a quien piensa en términos de mérito y comparación. **La parábola no enseña que todos recibirán finalmente el mismo destino, pero sí muestra que la generosidad de Dios puede resultar ofensiva precisamente cuando alcanza a quien consideramos menos merecedor.**
 
 ## 17. ¿Presenta Jesús el pecado sólo como una elección libre?
 
