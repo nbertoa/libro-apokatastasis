@@ -20,6 +20,8 @@ La palabra «salvar» puede usarse para distintos rescates: una curación, una l
 
 Jesús se acerca especialmente a quienes eran vistos como pecadores y alejados de Dios. Come con recaudadores de impuestos y pecadores, y se compara con un médico que viene por los enfermos (Marcos 2:15-17; Lucas 5:29-32). Luego resume su misión diciendo que «el Hijo del Hombre vino a buscar y salvar lo que se había perdido» (Lucas 19:10). Estar perdido, entonces, no pone a una persona fuera de su interés; precisamente la convierte en objeto de su búsqueda.
 
+Marcos ofrece una escena concreta de esa disposición. Un hombre con una enfermedad de la piel se acerca a Jesús y le dice: «Si quieres, puedes limpiarme». La pregunta no pone en duda su capacidad; pone en duda si quiere actuar a favor de él. Jesús responde «Quiero; sé limpio» y lo limpia (Marcos 1:40-42). El episodio muestra juntas voluntad y poder en un caso concreto. No demuestra que Jesús vaya a restaurar finalmente a cada persona, pero sí muestra que su poder salvador no aparece separado de una disposición real hacia quien llega a él.
+
 ## 6. ¿Qué significa que una persona esté «perdida»?
 
 En Lucas 15, una oveja está perdida y después es encontrada, y un padre dice de su hijo que estaba perdido y fue encontrado (Lucas 15:4-7, 24). En estos pasajes, «perdido» describe a alguien que necesita ser recuperado, no a alguien que ya está fuera de toda posibilidad de rescate. Esto es importante, aunque el sentido de una palabra siempre debe decidirse por su contexto y no trasladarse automáticamente a todos los textos donde aparece.
@@ -77,6 +79,8 @@ Sí. Jesús añade que, si el Hijo libera a una persona, esa persona será verda
 ## 19. ¿Pueden las personas rechazar la vida que Jesús les ofrece?
 
 Sí. Jesús dice a algunos de sus oyentes: «no quieren venir a mí para tener vida» (Juan 5:39-40). El rechazo humano es real y tiene responsabilidad. Los Evangelios no presentan al ser humano como una pieza pasiva que responde siempre de la manera que Dios desea.
+
+Eso tampoco significa que la respuesta humana sea siempre un sí o un no psicológicamente puro. El padre de Marcos 9 puede decir en una misma frase: «Creo; ayuda mi incredulidad» (Marcos 9:24). Jesús no trata esa mezcla como una contradicción que deba resolverse antes de poder ayudarlo. El hombre pide precisamente ayuda en aquello que todavía le falta. La escena no demuestra que Dios venza toda resistencia, pero sí muestra que una respuesta humana incompleta y la acción de Dios pueden coexistir.
 
 ## 20. ¿Puede alguien venir a Jesús sin una acción previa de Dios?
 
