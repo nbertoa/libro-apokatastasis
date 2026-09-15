@@ -20,6 +20,8 @@ No porque lo antiguo sea falso por ser antiguo. Tampoco porque lo nuevo sea verd
 
 De esa curiosidad nació este libro.
 
+También hubo una pregunta mucho más personal. Como padre, hubo momentos en que pensé en la salvación de mi hijo y descubrí que no podía tratar el tema como una discusión abstracta. Si yo, con un amor limitado y lleno de errores, quiero profundamente su bien y no podría ser indiferente a su pérdida, ¿qué significa decir que Dios lo ama mejor que yo? Esa pregunta no demuestra que Dios vaya a salvar finalmente a todos. Una intuición de padre no puede decidir una doctrina. Pero sí me obligó a examinar con más cuidado qué afirmaba realmente acerca del amor de Dios, de su poder y de la libertad humana.
+
 No comenzó con una respuesta. Comenzó con preguntas.
 
 ¿Qué significa realmente decir que Dios es amor? ¿Cómo se relaciona ese amor con su justicia? ¿Qué busca Dios cuando juzga? ¿Qué significa salvar? ¿Qué significa destruir? ¿Hasta dónde llega la misericordia? ¿Puede una criatura rechazar a Dios para siempre? ¿Qué significa que Cristo venza al mal? ¿Qué hace Dios finalmente con aquello que creó?
