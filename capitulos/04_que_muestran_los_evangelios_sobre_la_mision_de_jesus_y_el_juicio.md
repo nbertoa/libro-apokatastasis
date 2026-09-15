@@ -36,7 +36,7 @@ La mujer que pierde una moneda enciende una lámpara, barre la casa y busca con 
 
 ## 9. ¿Qué cambia cuando Jesús habla del hijo perdido?
 
-El hijo puede decidir. Reconoce su situación, se levanta y vuelve a su padre (Lucas 15:11-24). El padre no lo obliga a regresar, pero tampoco lo rechaza: corre a recibirlo y celebra su vuelta. Aquí la restauración incluye dos cosas a la vez: el deseo del padre de recuperar al hijo y un cambio real del hijo. No es reconciliación sin arrepentimiento ni reconciliación impuesta por la fuerza.
+El hijo puede decidir. En la región lejana «vuelve en sí», reconoce su situación, prepara lo que dirá y se levanta para volver (Lucas 15:17-20). La respuesta humana es real: el padre no lo obliga a regresar. Pero el orden del encuentro también importa. Cuando todavía está lejos, el padre lo ve, se compadece, corre, lo abraza y lo besa antes de escuchar su confesión. Después el hijo reconoce su pecado, y entonces el padre manda traer la mejor túnica, el anillo y las sandalias y celebra su regreso (Lucas 15:20-24). No hace falta inventar un arrepentimiento ausente ni una restauración impuesta: el hijo realmente vuelve. Pero tampoco aparece un período de prueba para comprobar primero si merece ser recibido. La parábola mantiene juntas la respuesta del hijo y la iniciativa generosa del padre.
 
 ## 10. ¿Qué ocurre con el hermano mayor?
 
