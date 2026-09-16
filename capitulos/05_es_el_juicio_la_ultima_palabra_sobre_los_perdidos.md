@@ -34,11 +34,17 @@ Antes de hablar del pecado contra el Espíritu, Jesús hace una afirmación muy 
 
 ## 9. ¿Qué excepción pone Jesús cuando habla del Espíritu Santo?
 
-Jesús dice que la blasfemia contra el Espíritu Santo no será perdonada (Mateo 12:31-32; Marcos 3:28-30; Lucas 12:10). En el contexto, algunos ven una obra hecha por el Espíritu de Dios y la atribuyen al poder del mal. La advertencia apunta a una resistencia extrema a la verdad que Dios está mostrando.
+Jesús dice que la blasfemia contra el Espíritu Santo no será perdonada (Mateo 12:31-32; Marcos 3:28-30; Lucas 12:10). En Marcos, la explicación inmediata es especialmente concreta: añade «porque decían: Tiene un espíritu impuro» (Marcos 3:30). En esa escena, los escribas ven la obra liberadora de Jesús y la atribuyen al poder demoníaco. Por tanto, antes de definir este pecado como una condición psicológica general, debemos conservar la definición que el propio relato ofrece: llamar impura o satánica a la obra que está actuando en Jesús.
+
+Esto puede expresar una resistencia extrema a la verdad de Dios, pero ésa ya es una inferencia teológica sobre el estado de quienes hablan. Marcos no dice que la blasfemia consista simplemente en haber perdido toda sensibilidad espiritual, ni explica aquí el proceso interior por el que una persona llega a ese punto. El texto describe primero una inversión moral concreta: interpretar como obra del mal aquello que Jesús presenta como liberación del mal.
 
 ## 10. ¿Qué significa que ese pecado no sea perdonado «ni en esta era ni en la venidera»?
 
-Es una de las formulaciones más fuertes contra una restauración universal sencilla (Mateo 12:32). Jesús niega el perdón de ese pecado incluso en la era futura. No debemos inventar otra era sólo para escapar de la frase. Al mismo tiempo, el texto no explica si «no ser perdonado» significa tormento consciente sin fin, destrucción final u otra consecuencia; esa cuestión necesita más evidencia.
+Es una de las formulaciones más fuertes contra una restauración universal sencilla (Mateo 12:32). Marcos usa una formulación igualmente severa al decir que quien blasfema contra el Espíritu «no tiene perdón» y queda ligado a un pecado *aiōnios* (Marcos 3:29). No debemos rebajar estas expresiones a una disciplina temporal sólo porque después encontremos textos más amplios sobre restauración.
+
+Una explicación posible de su gravedad es que quien identifica como demoníaca precisamente la acción mediante la cual Dios lo confronta y libera está rechazando el propio medio por el que podría reconocer su error. Pero los Evangelios no presentan esa explicación como una definición explícita del mecanismo psicológico del pecado. Lo que sí afirman con fuerza es la negativa de perdón.
+
+Al mismo tiempo, «no ser perdonado» no nos dice por sí solo en qué consiste toda la condición final del culpable: tormento consciente sin fin, destrucción final u otra consecuencia. Tampoco autoriza a inventar una restauración posterior que estos versículos no narran. Si la restauración universal es verdadera, tendrá que explicar seriamente esta advertencia a partir de una enseñanza bíblica más amplia, no neutralizarla mediante una definición más débil del pecado.
 
 ## 11. ¿Muestra la historia del rico y Lázaro sufrimiento después de la muerte?
 
