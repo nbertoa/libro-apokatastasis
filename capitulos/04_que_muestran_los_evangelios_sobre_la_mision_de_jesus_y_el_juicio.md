@@ -76,11 +76,15 @@ No. Jesús responsabiliza a las personas por lo que hacen, pero también puede d
 
 Sí. Jesús añade que, si el Hijo libera a una persona, esa persona será verdaderamente libre (Juan 8:35-36). Esto conecta la salvación con una transformación de la libertad, no sólo con una decisión externa. Pero el texto no dice todavía que el Hijo vaya a liberar finalmente a cada esclavo del pecado.
 
-## 19. ¿Pueden las personas rechazar la vida que Jesús les ofrece?
+## 19. ¿Es la respuesta humana siempre un «sí» o un «no» completo?
 
-Sí. Jesús dice a algunos de sus oyentes: «no quieren venir a mí para tener vida» (Juan 5:39-40). El rechazo humano es real y tiene responsabilidad. Los Evangelios no presentan al ser humano como una pieza pasiva que responde siempre de la manera que Dios desea.
+No. Jesús dice a algunos de sus oyentes: «no quieren venir a mí para tener vida» (Juan 5:39-40). El rechazo humano es real y tiene responsabilidad. Pero los Evangelios también muestran respuestas mezcladas y comprensiones incompletas. El padre de Marcos 9 puede decir en una misma frase: «Creo; ayuda mi incredulidad» (Marcos 9:24). Jesús no exige que esa mezcla desaparezca antes de ayudarlo.
 
-Eso tampoco significa que la respuesta humana sea siempre un sí o un no psicológicamente puro. El padre de Marcos 9 puede decir en una misma frase: «Creo; ayuda mi incredulidad» (Marcos 9:24). Jesús no trata esa mezcla como una contradicción que deba resolverse antes de poder ayudarlo. El hombre pide precisamente ayuda en aquello que todavía le falta. La escena no demuestra que Dios venza toda resistencia, pero sí muestra que una respuesta humana incompleta y la acción de Dios pueden coexistir.
+Marcos desarrolla además el tema de ver y no comprender. En las parábolas aparece un aspecto real de juicio: algunos ven sin percibir y oyen sin entender (Marcos 4:10-12). Pero los propios discípulos tampoco entienden la parábola del sembrador y necesitan que Jesús se la explique; más adelante Marcos dice que Jesús enseñaba a la gente «según podían oír» (Marcos 4:13, 33-34). La escena no divide simplemente a la humanidad entre quienes pueden comprender y quienes serán incapaces para siempre. Muestra grados reales de comprensión y una enseñanza que continúa.
+
+Ese patrón se vuelve especialmente visible en Marcos 8. Después de preguntar a los discípulos «¿teniendo ojos no ven?» y reprocharles que todavía no comprendan (Marcos 8:17-21), Jesús sana a un ciego en dos etapas: primero ve de manera borrosa y después con claridad (Marcos 8:22-26). Inmediatamente después, Pedro reconoce correctamente que Jesús es el Mesías, pero rechaza la idea de que deba sufrir (Marcos 8:27-33). La ubicación de la curación hace plausible verla también como una imagen narrativa de los discípulos: han empezado a ver, pero todavía ven de manera incompleta. No necesitamos convertir el milagro en una alegoría para reconocer el patrón.
+
+Nada de esto demuestra que toda persona terminará comprendiendo o creyendo. Sí muestra que una respuesta presente, incluso una comprensión seriamente defectuosa, no tiene que describir necesariamente el estado final de una persona.
 
 ## 20. ¿Puede alguien venir a Jesús sin una acción previa de Dios?
 
@@ -156,7 +160,11 @@ Un fuego que nadie puede apagar es un fuego cuyo trabajo nadie puede detener (Ma
 
 ## 38. ¿Anuncia Jesús también un juicio histórico sobre Jerusalén?
 
-Sí. Jesús dice que el templo será destruido, anuncia días de desolación para Jerusalén y habla de una generación que enfrentará juicio (Mateo 23:36-24:2; Lucas 19:41-44; 21:20-24). Esto recuerda lo que vimos en los profetas: el lenguaje de juicio puede referirse a catástrofes históricas reales. Por eso no debemos convertir automáticamente cada advertencia de Jesús en una descripción del destino después de la muerte.
+Sí. En Marcos 13 el discurso comienza cuando Jesús anuncia que el templo será destruido y los discípulos preguntan cuándo ocurrirá y qué señal anunciará su cumplimiento (Marcos 13:1-4). Más adelante Jesús afirma que «esta generación» no pasará hasta que ocurran «todas estas cosas» (Marcos 13:30). El punto de partida más natural es, por tanto, que una parte importante del discurso se refiere al juicio que alcanzó a Jerusalén y al templo en el siglo I.
+
+Esto no obliga a tomar literalmente cada imagen cósmica. Los profetas del Antiguo Testamento podían hablar del sol oscurecido, de estrellas que caen o de conmoción de los cielos al describir el juicio histórico de Dios sobre reinos y naciones. Ese trasfondo hace posible que parte del lenguaje de Marcos 13 funcione de la misma manera. Sin embargo, existe una discusión real sobre si las palabras acerca del Hijo del Hombre y la reunión de los elegidos (Marcos 13:24-27) se refieren todavía a ese juicio histórico, a la venida final de Cristo o unen ambos horizontes. Por eso no debemos reducir todo Marcos 13 al año 70.
+
+La conclusión más segura es más limitada: Jesús sí usa lenguaje profético y apocalíptico para hablar de un juicio histórico real sobre Jerusalén. Por eso no debemos convertir automáticamente cada advertencia o imagen cósmica de los Evangelios en una descripción del destino después de la muerte; primero hay que preguntar qué horizonte tiene cada texto.
 
 ## 39. ¿Significa eso que Gehena y todas las advertencias de fuego hablan sólo de la destrucción de Jerusalén?
 
