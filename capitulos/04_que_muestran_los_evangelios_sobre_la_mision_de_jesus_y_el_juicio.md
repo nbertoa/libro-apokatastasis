@@ -84,6 +84,8 @@ Marcos desarrolla además el tema de ver y no comprender. En las parábolas apar
 
 Ese patrón se vuelve especialmente visible en Marcos 8. Después de preguntar a los discípulos «¿teniendo ojos no ven?» y reprocharles que todavía no comprendan (Marcos 8:17-21), Jesús sana a un ciego en dos etapas: primero ve de manera borrosa y después con claridad (Marcos 8:22-26). Inmediatamente después, Pedro reconoce correctamente que Jesús es el Mesías, pero rechaza la idea de que deba sufrir (Marcos 8:27-33). La ubicación de la curación hace plausible verla también como una imagen narrativa de los discípulos: han empezado a ver, pero todavía ven de manera incompleta. No necesitamos convertir el milagro en una alegoría para reconocer el patrón.
 
+Juan ofrece otro ejemplo desde otra dirección. En Betesda, Jesús sana a un hombre que después todavía no sabe quién lo ha sanado (Juan 5:1-13). La iniciativa de Jesús precede a una comprensión plena de su identidad: la ayuda no espera una confesión doctrinal completa. Esto no equivale a salvación escatológica ni muestra que la fe sea irrelevante, pero sí muestra que la acción vivificadora de Jesús puede comenzar antes de que una persona comprenda plenamente quién es él.
+
 Nada de esto demuestra que toda persona terminará comprendiendo o creyendo. Sí muestra que una respuesta presente, incluso una comprensión seriamente defectuosa, no tiene que describir necesariamente el estado final de una persona.
 
 ## 20. ¿Puede alguien venir a Jesús sin una acción previa de Dios?
