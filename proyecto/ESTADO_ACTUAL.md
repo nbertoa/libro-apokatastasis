@@ -43,7 +43,7 @@ El manuscrito pasó por varias rondas integrales de auditoría:
 
 La fase principal de auditoría de contenido se considera **cerrada para esta edición**, salvo que aparezca un error concreto o nueva evidencia que obligue a reabrirla.
 
-El **18 de septiembre de 2026** se hizo una reapertura puntual por nueva evidencia académica: se precisó la compatibilidad entre libertad y conversión cierta en el capítulo 1; se reforzaron y limitaron varios argumentos paulinos en el capítulo 7; y se restituyó en el capítulo 9 un control histórico breve sobre la antigüedad de la apocatástasis y las condenas anti-origenistas del siglo VI. Esta intervención no reabre la auditoría integral.
+El **18 de septiembre de 2026** se hizo una reapertura puntual por nueva evidencia académica: se precisó la compatibilidad entre libertad y conversión cierta y la dificultad de explicar un rechazo eternamente irreversible en el capítulo 1; se reforzaron y limitaron varios argumentos paulinos en el capítulo 7; se añadió al capítulo 8 un paralelo apocalíptico de 1 Enoc 90 que ayuda a evaluar la reaparición de las naciones después del juicio; y se restituyó en el capítulo 9 un control histórico breve sobre la antigüedad de la apocatástasis, el testimonio adversarial de Agustín y las condenas anti-origenistas del siglo VI. Esta intervención no reabre la auditoría integral.
 
 La conclusión final sigue siendo deliberadamente provisional: la restauración universal humana aparece como la explicación que mejor integra el conjunto estudiado, sin quedar demostrada; la destrucción definitiva conserva una ventaja de lectura directa en numerosos textos de juicio, y el tormento consciente sin fin conserva textos especialmente fuertes de duración y sufrimiento.
 

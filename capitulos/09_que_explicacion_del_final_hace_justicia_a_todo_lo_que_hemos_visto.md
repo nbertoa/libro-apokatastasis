@@ -152,7 +152,9 @@ La Biblia no desarrolla una teoría completa que explique por qué una caída an
 
 No. Mucho antes de los debates modernos hubo cristianos que defendieron formas explícitas de restauración universal. Clemente de Alejandría, Orígenes y Gregorio de Nisa desarrollaron argumentos de este tipo en los primeros siglos del cristianismo. Siglos después, Isaac de Nínive también sostuvo una esperanza universal y entendió la Gehena como limitada, no interminable.
 
-Eso no demuestra que tuvieran razón, y tampoco significa que todos formularan exactamente la misma doctrina. La antigüedad de una idea no decide su verdad. Pero sí establece un hecho histórico importante: **la esperanza de una restauración final de todos no nació en la época moderna ni apareció solamente como reacción al concepto occidental posterior del infierno**.
+Hay además un testimonio especialmente útil porque viene de un adversario de esa esperanza. Agustín defendía expresamente que el castigo final no terminaría; sin embargo, al discutir el tema reconoce que en su tiempo eran «muchísimos» quienes no creían que el castigo y el sufrimiento de los perdidos fueran perpetuos. Esto no permite decir que fueran mayoría ni que todos sostuvieran una restauración universal: negar tormentos interminables admite más de una explicación. Pero sí confirma que **rechazar un castigo consciente sin fin no era una rareza inventada por cristianos modernos**.
+
+Eso no demuestra que quienes esperaban otra salida tuvieran razón, y tampoco significa que todos formularan exactamente la misma doctrina. La antigüedad o difusión de una idea no decide su verdad. Pero sí establece un hecho histórico importante: **la esperanza de una restauración final de todos no nació en la época moderna ni apareció solamente como reacción al concepto occidental posterior del infierno**.
 
 ## 36. ¿Esa esperanza antigua nació simplemente de la filosofía griega?
 

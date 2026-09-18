@@ -118,7 +118,11 @@ No bastaría con que hubiera dicho muchas veces que no. Para considerar definiti
 
 ## 30. ¿Puede una persona rechazar libremente a Dios para siempre?
 
-Es posible imaginarlo, pero todavía no está demostrado. Quien defiende esa posibilidad puede decir que una persona forma libremente un carácter que prefiere mantenerse cerrado a Dios y puede sostener esa preferencia indefinidamente. Quien lo niega responde que una resistencia eterna tendría que depender de algún engaño, deseo desordenado o incapacidad, y pregunta si una voluntad completamente sana elegiría sin fin aquello que reconoce como su propia ruina. Ninguna de las dos posiciones debe quedar decidida por nuestra definición de libertad.
+Es posible imaginarlo, pero todavía no está demostrado. Quien defiende esa posibilidad puede decir que una persona forma libremente un carácter que prefiere mantenerse cerrado a Dios y puede sostener esa preferencia indefinidamente. Quien lo niega responde que una resistencia eterna tendría que depender de algún engaño, deseo desordenado o incapacidad, y pregunta si una voluntad completamente sana elegiría sin fin aquello que reconoce como su propia ruina.
+
+Hay además una dificultad para explicar la eternidad del rechazo diciendo simplemente que el propio pecador endureció su carácter hasta quedar incapaz de arrepentirse. Aun si una persona llegara a no ver ninguna razón para cambiar, todavía habría que explicar por qué Dios no podría modificar sus circunstancias, mostrarle una verdad que no percibía o debilitar una esclavitud moral de manera que volviera a existir una posibilidad real de arrepentimiento sin decidir por ella. Si esa posibilidad pudiera reaparecer una y otra vez, afirmar que jamás responderá requeriría una razón adicional. **Esto no demuestra que todos terminarán arrepintiéndose; muestra que «se endureció libremente» no basta por sí solo para demostrar una resistencia interminable.**
+
+Ninguna de las dos posiciones debe quedar decidida por nuestra definición de libertad.
 
 ## 31. ¿Puede Dios transformar nuestra voluntad sin destruir nuestra libertad?
 

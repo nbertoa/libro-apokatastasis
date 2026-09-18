@@ -97,3 +97,103 @@ No usar la **oración por los muertos** como argumento ni recomendarla en el man
 - No se incorporará la práctica de **orar por los muertos** ni se la usará como evidencia doctrinal.
 - No se añadirán autores al cuerpo del manuscrito cuando su función sea sólo respaldar internamente una exégesis; los nombres aparecen únicamente cuando el autor o personaje es él mismo objeto histórico.
 - No se convertirá ninguna de estas fuentes en autoridad final. Cada aporte queda subordinado al texto bíblico, al contexto y a las objeciones rivales.
+
+
+## Segunda ronda de rastreo amplio — 18 de septiembre de 2026
+
+Esta ronda buscó especialmente trabajos recientes (2023–2026), controles adversariales y paralelos apocalípticos que no estuvieran ya cubiertos por la primera búsqueda.
+
+### Robert J. Hartman — por qué el vicio no explica por sí solo la finalidad del infierno
+
+- “Free will and the moral vice explanation of hell's finality”, *Religious Studies* 59 (2023), 714–728.
+- DOI: https://doi.org/10.1017/S0034412522000695
+- Aporte: concede, para discutirla desde dentro, la explicación según la cual una persona puede formar libremente un carácter tan vicioso que ya no perciba razones para arrepentirse. Su argumento es que esto no explica por qué ese estado tendría que ser irreversible: Dios podría alterar circunstancias o aspectos del carácter de manera que reaparezcan razones para arrepentirse sin producir el arrepentimiento por fuerza. Con una cantidad potencialmente indefinida de oportunidades, la finalidad del rechazo necesita una premisa adicional.
+- Límite: el artículo formula una conclusión condicional sobre una familia de teorías del infierno; no demuestra por sí solo la restauración universal.
+- Efecto: capítulo 1, pregunta 30.
+
+### Matthew J. Korpman — 1 Enoc 90 y Apocalipsis 19–22
+
+- “How Are the Gentiles Changed? The Influence of Micah on the Animal Apocalypse and Revelation 21–22”, *Journal of Theological Studies* 76 (2025), 138–155.
+- DOI: https://doi.org/10.1093/jts/flaf003
+- Aporte: compara la secuencia final del *Animal Apocalypse* (1 Enoc 90) con Miqueas 4, Isaías 19 y Apocalipsis 19–22. En 1 Enoc los pueblos gentiles son descritos con lenguaje universal de destrucción y, sin embargo, después del juicio reaparecen, entran en la casa escatológica y son transformados. El artículo muestra una secuencia y un conjunto de imágenes paralelos en Apocalipsis: naciones y reyes son derrotados y después aparecen en la Nueva Jerusalén, donde el árbol de la vida sirve para la sanación de las naciones.
+- Límite: 1 Enoc no es Escritura cristiana y el paralelo no demuestra que Juan salve a los mismos individuos juzgados. Sirve para mostrar cómo puede funcionar el lenguaje apocalíptico y para impedir que “destruidos” resuelva automáticamente la identidad de los grupos posteriores.
+- Efecto: capítulo 8, pregunta 33.
+
+### Dave Mathewson — control no universalista de la tensión en Apocalipsis
+
+- “The Destiny of the Nations in Revelation 21:1–22:5: A Reconsideration”, *Tyndale Bulletin* 53 (2002), 121–142.
+- DOI: https://doi.org/10.53751/001c.30245
+- Aporte: reconoce como problema exegético real que las naciones sean juzgadas y destruidas en Apocalipsis 19–20 y estén incluidas en la salvación escatológica de 21–22. Propone una resolución no universalista.
+- Efecto: funciona como control adversarial del cambio en el capítulo 8: la tensión es real aun para intérpretes que no concluyen restauración universal.
+
+### Agustín — testimonio adversarial sobre la extensión de la objeción al castigo interminable
+
+- *Enchiridion*, 112.
+- Aporte: mientras defiende el castigo interminable, Agustín describe como «muchísimos» a quienes no creían que el castigo y sufrimiento de los perdidos fueran perpetuos.
+- Límite: no afirma que fueran mayoría ni que todos fueran universalistas; algunos podían sostener otras formas de mitigación o terminación del castigo.
+- Efecto: capítulo 9, pregunta 35. Se usa sólo para demostrar que la negación de un castigo interminable tenía una presencia significativa en el cristianismo antiguo.
+
+### Joshua Reginald Sijuwade — libertad libertaria y salvación necesaria
+
+- “On the Free Will Objection Against Universalism”, *Sophia* (2025).
+- DOI: https://doi.org/10.1007/s11841-025-01103-8
+- Aporte: ofrece otra construcción filosófica en la que una salvación necesaria puede ser compatible con libertad libertaria, apelando a teorías de acciones formadoras del yo y responsabilidad por acciones posteriores determinadas por el carácter.
+- Efecto: confirma de forma independiente la dirección incorporada ya con McAllister; no se añadió otro argumento al manuscrito para evitar repetición.
+
+### Scott Hill / James Dominic Rooney — debate reciente sobre teísmo clásico
+
+- Scott Hill, “Classical theism and universalism”, *International Journal for Philosophy of Religion* 98 (2025), 173–186. DOI: https://doi.org/10.1007/s11153-025-09966-0.
+- James Dominic Rooney, “Defending damnation: a response to Hill”, *International Journal for Philosophy of Religion* 99 (2026). DOI: https://doi.org/10.1007/s11153-025-09983-z.
+- Aporte: muestra que sigue abierto un debate técnico sobre si simplicidad, inmutabilidad, gratuidad de la creación y visión beatífica son compatibles con universalismo necesario.
+- Efecto: no se trasladó al manuscrito. El libro no necesita decidir todo el sistema metafísico del teísmo clásico para evaluar la evidencia bíblica y moral principal.
+
+### Paul K. Moser — control adversarial sobre el grado de certeza
+
+- “Hoping against hope for universal salvation”, *Theology* 128 (2025), 275–281.
+- DOI: https://doi.org/10.1177/0040571X251354950
+- Aporte: argumenta que las vías propuestas para vencer la resistencia humana no bastan para convertir la restauración universal en una predicción bien confirmada.
+- Efecto: refuerza la decisión editorial de mantener la conclusión final como razonada y provisional, no como demostración.
+
+### Scott Hill — objeción de que la vida terrenal sería inútil
+
+- “Earthly life is not pointless for universalists”, *Religious Studies*, publicado en línea en 2025.
+- Aporte: responde a la objeción de que, si todos terminarán salvados, habría sido mejor crear a todos directamente en el cielo. Sus dos respuestas principales apelan a que una vida terrenal no resta bienes de una vida celestial sin fin y a que nuestra historia causal puede ser constitutiva de nuestra identidad.
+- Efecto: no se añadió al manuscrito porque esta objeción no es central en la arquitectura actual y abrirla exigiría una digresión filosófica nueva.
+
+### Matthew Fairhurst — Isaac de Nínive, control de investigación reciente
+
+- *Isaac of Nineveh's Doctrine of Universal Salvation*, tesis doctoral, University of Cambridge, 2026.
+- DOI: https://doi.org/10.17863/CAM.132448
+- Aporte: investigación reciente dedicada específicamente a la defensa de Isaac de que todos los seres humanos serán salvados, conectándola con simplicidad e inmutabilidad divinas, oración y exégesis.
+- Límite: el texto completo está embargado hasta 2027; por ahora sólo puede usarse su resumen institucional como confirmación secundaria.
+- Efecto: confirma la caracterización de Isaac ya incorporada en el capítulo 9; no exige ampliar el manuscrito.
+
+### Colosenses 1:20 y reconciliación cósmica
+
+- La bibliografía académica general sobre Colosenses reconoce que 1:15–20 presenta a Cristo como agente de creación y como quien reconcilia «todas las cosas», incluidas las potencias hostiles.
+- Efecto: confirma la lectura ya desarrollada en el capítulo 7. No se añadió material porque el manuscrito ya distingue correctamente entre alcance cósmico de la reconciliación y demostración de salvación individual universal.
+
+### Léxico de *aiōnios*, *aidios* y *kolasis*
+
+- La investigación filológica confirma que *aiōnios* tiene un campo semántico más amplio que una equivalencia mecánica con “interminable”, mientras *aidios* puede expresar eternidad de manera más rígida.
+- Pero esto no autoriza a traducir automáticamente *aiōnios* como “temporal”, y Mateo 25:46 sigue siendo una objeción fuerte.
+- También se revisó la objeción de que *kolasis* no significa necesariamente un castigo correctivo en cada uso judeocristiano.
+- Efecto: no se cambió el manuscrito porque su formulación actual ya es suficientemente cauta.
+
+### Padres y tradición siríaca: qué no debe exagerarse
+
+- Gregorio de Nisa e Isaac de Nínive siguen siendo testigos sólidos y explícitos.
+- Orígenes ofrece textos fuertes sobre la eliminación final del mal y Dios «todo en todos», aunque su sistema exige distinguir etapas y formulaciones.
+- Didimo el Ciego ofrece evidencia importante de continuidad origenista, pero no se añadió a la lista breve de testigos del manuscrito porque no mejora la demostración histórica lo suficiente.
+- Las atribuciones de universalismo a Diodoro de Tarso, Teodoro de Mopsuestia, Gregorio Nacianceno y otros requieren mayor cautela y, en varios casos, dependen de fragmentos, reconstrucciones o textos discutidos.
+- Efecto: se mantiene una lista histórica conservadora en el capítulo 9 en lugar de inflarla con nombres inciertos.
+
+### ¿Qué conclusión dejó esta segunda ronda?
+
+La mayor parte de la bibliografía encontrada **confirma líneas ya presentes** en el manuscrito. Los tres aportes que realmente justificaron cambios fueron:
+
+1. la dificultad filosófica de explicar la **irreversibilidad** del rechazo mediante un carácter vicioso libremente formado;
+2. el paralelo apocalíptico de **1 Enoc 90 con Apocalipsis 19–22**, que vuelve menos segura una lectura automáticamente literal e irreversible de la destrucción colectiva;
+3. el testimonio adversarial de **Agustín** de que eran “muchísimos” quienes rechazaban la perpetuidad del castigo.
+
+No apareció una nueva “prueba decisiva” de restauración universal. Sí apareció evidencia que hace más difícil sostener tres afirmaciones fuertes: que la libertad explica por sí sola un rechazo eterno, que las naciones destruidas en Apocalipsis necesariamente desaparecen del relato, y que negar castigo interminable fue una rareza cristiana moderna.
