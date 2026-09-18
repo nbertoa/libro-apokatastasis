@@ -64,6 +64,12 @@ Primero el capítulo sobre Hechos, Hebreos, Santiago, Pedro, Judas y las cartas 
 
 Después de Pablo, como última gran prueba bíblica antes de la comparación final. Su interpretación no debe decidirse de antemano.
 
+## ¿Se usará la oración por los muertos como argumento?
+
+No. El manuscrito no presentará ni recomendará la **oración por los muertos**, ni la utilizará como evidencia a favor de la restauración universal.
+
+Esto no impide estudiar por separado los textos bíblicos que puedan plantear una acción de Dios después de la muerte. La posibilidad de salvación o arrepentimiento post mortem y la práctica de orar por los muertos son cuestiones distintas y no deben confundirse.
+
 ## ¿Cuál es el formato físico elegido para Amazon KDP?
 
 La edición impresa se diseñará en **6 × 9 pulgadas (15,24 × 22,86 cm)**.

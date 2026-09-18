@@ -148,27 +148,47 @@ Tiene que reconocer que su conclusión más fuerte no aparece narrada de manera 
 
 La Biblia no desarrolla una teoría completa que explique por qué una caída angélica sería, por su propia naturaleza, irreversible. Judas habla de ángeles que abandonaron su propia posición y están guardados para juicio, y otros textos hablan también de ángeles que pecaron (Judas 6; 2 Pedro 2:4). La idea de que los ángeles eligieron con una claridad mucho mayor que los seres humanos y por eso su decisión quedó fijada puede ser una explicación teológica, pero no está expuesta de esa manera en esos textos. Al mismo tiempo, el diablo constituye el caso más difícil para una restauración absolutamente universal: Apocalipsis 20:10 usa para él el lenguaje más fuerte de duración y nunca anuncia su restauración. Por eso el caso bíblico para esperar la restauración de todos los seres humanos es más fuerte que el caso para afirmar con la misma seguridad la restauración de todo ser espiritual.
 
-## 35. ¿Cómo debemos decidir qué explicación hace mejor justicia al conjunto?
+## 35. ¿Es la restauración universal una idea cristiana moderna?
+
+No. Mucho antes de los debates modernos hubo cristianos que defendieron formas explícitas de restauración universal. Clemente de Alejandría, Orígenes y Gregorio de Nisa desarrollaron argumentos de este tipo en los primeros siglos del cristianismo. Siglos después, Isaac de Nínive también sostuvo una esperanza universal y entendió la Gehena como limitada, no interminable.
+
+Eso no demuestra que tuvieran razón, y tampoco significa que todos formularan exactamente la misma doctrina. La antigüedad de una idea no decide su verdad. Pero sí establece un hecho histórico importante: **la esperanza de una restauración final de todos no nació en la época moderna ni apareció solamente como reacción al concepto occidental posterior del infierno**.
+
+## 36. ¿Esa esperanza antigua nació simplemente de la filosofía griega?
+
+No basta con explicarla de esa manera. Clemente, Orígenes y Gregorio conocían y utilizaban conceptos del mundo intelectual griego, como casi todos los autores cristianos educados de su tiempo. Pero sus argumentos restauradores también nacen de cómo leían las Escrituras: creación, caída, juicio, obra de Cristo, sometimiento de todas las cosas y consumación final.
+
+Esto no prueba que su interpretación bíblica fuera correcta. Una lectura puede apoyarse sinceramente en la Biblia y aun así equivocarse. Pero impide descartar la apocatástasis patrística simplemente como una idea pagana introducida desde afuera. **Históricamente fue también una propuesta de exégesis cristiana de la historia bíblica.**
+
+## 37. ¿Fue condenada simplemente «la salvación de todos» en Constantinopla en 553?
+
+La historia es más complicada. En las controversias anti-origenistas del siglo VI hubo condenas reales de ciertas formas de apocatástasis, especialmente cuando estaban unidas a otras ideas como la preexistencia de las almas y, en algunos textos, la restauración de demonios y seres impíos. Sería incorrecto decir que la Iglesia de ese período no condenó ninguna doctrina universalista.
+
+Pero también sería demasiado simple afirmar que el Segundo Concilio de Constantinopla definió sin más que toda forma posible de restauración universal humana fuera herética. Los famosos quince anatemas anti-origenistas asociados habitualmente con el año 553 no aparecen dentro de las sesiones conservadas del concilio; las ediciones críticas modernas los tratan aparte y su relación exacta con el concilio ha sido discutida. Además, esos anatemas atacan un sistema de afirmaciones mucho más específico que la sola frase «todos los seres humanos serán finalmente salvados».
+
+Por eso la conclusión histórica debe ser limitada: **existieron condenas anti-origenistas reales que alcanzaron formas de apocatástasis, pero no debemos convertirlas sin más en una definición simple contra toda versión imaginable de restauración universal humana**. Y, en cualquier caso, una condena histórica no sustituye la pregunta principal de este libro: qué enseña mejor el conjunto de la evidencia bíblica.
+
+## 38. ¿Cómo debemos decidir qué explicación hace mejor justicia al conjunto?
 
 No basta con contar versículos favorables a cada posición. Una explicación es mejor si toma en serio los textos más directos, integra también las grandes líneas de la historia bíblica, explica los pasajes que parecen ir en su contra y evita añadir más supuestos de los necesarios. Ninguna posición gana sólo porque tenga algunos textos que suenen naturalmente a su favor. La cuestión es cuál puede conservar más evidencia sin debilitarla, neutralizarla o dejar partes importantes del relato sin explicación. Con ese criterio podemos preguntar si seguimos realmente ante un empate.
 
-## 36. ¿Seguimos entonces ante un empate simple entre las tres posiciones?
+## 39. ¿Seguimos entonces ante un empate simple entre las tres posiciones?
 
 No, porque sus fortalezas y dificultades no son del mismo tipo. El tormento consciente sin fin tiene textos fuertes de tormento, exclusión y duración, pero debe explicar cómo esa condición encaja con la derrota total del mal y con el carácter de la nueva creación. La destrucción definitiva tiene una ventaja de lectura directa en muchos textos de muerte y destrucción, puede apoyarse además en el lenguaje de inmortalidad recibida y no necesita suponer una restauración posterior al juicio que ningún texto narra expresamente. La restauración tiene una posible ventaja de coherencia global: reúne con mayor facilidad la voluntad salvadora de Dios, la búsqueda de lo perdido, la libertad sanada, la derrota de la muerte, la reconciliación y el movimiento final hacia vida y sanación. Pero esa ventaja existe sólo si puede explicar seriamente los textos de juicio y la ausencia de una narración explícita de restauración posterior. El resultado no es un empate simple, sino una comparación entre tipos distintos de evidencia.
 
-## 37. ¿Qué tendría que demostrar la restauración universal para ser la mejor explicación?
+## 40. ¿Qué tendría que demostrar la restauración universal para ser la mejor explicación?
 
 Tendría que mostrar que las grandes promesas de alcance universal pueden integrarse con los textos severos de juicio sin convertir automáticamente cada fuego, muerte o destrucción en una metáfora de purificación. También tendría que mostrar que Dios puede llevar finalmente a cada persona a un arrepentimiento real sin fabricar una respuesta falsa y que la justicia no exige una pérdida definitiva cuando una persona puede ser verdaderamente transformada. Además, debe decir con claridad **qué evidencia la obligaría a abandonar su conclusión**: por ejemplo, una enseñanza bíblica clara de que la exclusión humana después del juicio es necesariamente irreversible, o una razón sólida para concluir que una conversión finalmente garantizada destruiría una libertad que Dios necesariamente quiere preservar. No podemos proteger la restauración haciendo que toda evidencia posible termine confirmándola.
 
-## 38. ¿Qué tendría que demostrar el tormento consciente sin fin para ser la mejor explicación?
+## 41. ¿Qué tendría que demostrar el tormento consciente sin fin para ser la mejor explicación?
 
 Tendría que mostrar que la lectura conjunta de sus textos más fuertes —por ejemplo Mateo 25:46, Apocalipsis 14:9-11 y 20:10-15— hace más probable un castigo humano consciente sin fin que una destrucción definitiva u otra lectura. No basta con mostrar que esa interpretación es posible, pero tampoco sería justo exigir una formulación no simbólica a un libro como Apocalipsis. Después tendría que explicar cómo ese destino encaja con las imágenes de muerte y destrucción y con las grandes afirmaciones sobre la derrota del mal y la nueva creación. El tormento consciente sin fin ya cuenta con evidencia seria de castigo, duración y sufrimiento consciente; su carga es mostrar que, tomada en conjunto, esa evidencia describe mejor el destino humano final que las alternativas.
 
-## 39. ¿Qué tendría que demostrar la destrucción definitiva para ser la mejor explicación?
+## 42. ¿Qué tendría que demostrar la destrucción definitiva para ser la mejor explicación?
 
 Tendría que mostrar que el lenguaje de muerte, destrucción, perecer y segunda muerte, junto con los textos que presentan la inmortalidad como algo recibido, describe más naturalmente una pérdida humana definitiva e irreversible que una ruina consciente o un juicio seguido de restauración. Si los textos finales establecen realmente esa irreversibilidad, no necesita demostrar además una teoría independiente sobre por qué Dios dejaría de mostrar misericordia; su carga principal es mostrar que ésa es la lectura más natural de los textos. Después debe explicar cómo ese desenlace se relaciona con la resurrección de los injustos, la confesión universal, la amplitud de la victoria paulina y las imágenes finales de vida y sanación. El aniquilacionismo ya cuenta con una ventaja de lectura directa en muchos textos de juicio; para convertirse en la mejor explicación, necesita mostrar que esa lectura integra también las grandes promesas de victoria y reconciliación mejor que sus rivales.
 
-## 40. ¿Qué explicación del final hace entonces mejor justicia a todo lo que hemos visto?
+## 43. ¿Qué explicación del final hace entonces mejor justicia a todo lo que hemos visto?
 
 Todavía no podemos hablar de una demostración que elimine toda alternativa. El tormento consciente sin fin conserva textos fuertes de castigo consciente y duración, pero carga con la dificultad de explicar cómo ese destino encaja con la derrota del mal y con las imágenes finales de una creación liberada de muerte y dolor. La destrucción definitiva sigue siendo el rival más fuerte de la restauración: tiene una ventaja de lectura directa en muchas escenas de muerte y destrucción, recibe apoyo adicional del lenguaje de inmortalidad como don y no necesita suponer un cambio posterior al juicio que la Biblia nunca narra expresamente.
 
