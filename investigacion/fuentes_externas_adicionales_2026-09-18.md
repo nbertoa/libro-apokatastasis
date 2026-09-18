@@ -197,3 +197,35 @@ La mayor parte de la bibliografía encontrada **confirma líneas ya presentes** 
 3. el testimonio adversarial de **Agustín** de que eran “muchísimos” quienes rechazaban la perpetuidad del castigo.
 
 No apareció una nueva “prueba decisiva” de restauración universal. Sí apareció evidencia que hace más difícil sostener tres afirmaciones fuertes: que la libertad explica por sí sola un rechazo eterno, que las naciones destruidas en Apocalipsis necesariamente desaparecen del relato, y que negar castigo interminable fue una rareza cristiana moderna.
+
+
+## Análisis ampliado de 1 Enoc — 18 de septiembre de 2026
+
+### 1 Enoc 50:2–5 — arrepentimiento y salvación en el escenario escatológico
+
+- El texto distingue a los justos, a pecadores que se arrepienten y a pecadores que no se arrepienten.
+- Los “otros” contemplan la vindicación de los justos “para que se arrepientan” y abandonen sus obras; son salvados por el nombre del Señor y reciben compasión. Los impenitentes perecen.
+- Un estudio de Durham concluye que esta salvación se sitúa en el Día del Juicio o como resultado inmediato de la vindicación escatológica, aunque el grupo salvado no recibe el mismo honor que los justos.
+- Gabriele Boccaccini interpreta a esos “otros” como un subgrupo de pecadores que reciben una última oportunidad de arrepentimiento y son justificados por misericordia.
+- Límite: el texto no enseña que todos se arrepientan ni que exista una oportunidad después de una condenación final ya ejecutada.
+- Efecto: capítulo 8, pregunta 33, como precedente judío de arrepentimiento dentro del juicio escatológico.
+
+### 1 Enoc 91:14 — desaparición de las obras malas y orientación de toda la humanidad hacia la justicia
+
+- El *Apocalipsis de las Semanas* anuncia juicio justo sobre el mundo, desaparición de las obras impías y después que “toda la humanidad” mirará hacia el camino de la rectitud.
+- Loren Stuckenbruck observa que el texto habla de destrucción de las “obras” de injusticia, no necesariamente de las personas, y que esa distinción puede explicar la afirmación siguiente sobre toda la humanidad orientándose hacia la justicia.
+- El pasaje posee importancia especial porque esta sección de 1 Enoc está atestiguada en arameo entre los manuscritos de Qumrán y pertenece a una tradición precristiana.
+- Límite: no describe individualmente la restauración de cada pecador ni elimina otros textos de 1 Enoc que presentan castigo irreversible.
+- Efecto: capítulo 8, pregunta 33.
+
+### 1 Enoc 48:5 y 62–63 — control sobre confesión y postración universal
+
+- 1 Enoc 48:5 espera que todos los habitantes de la tierra se postren ante el Hijo del Hombre y participen en alabanza al Señor de los Espíritus.
+- La escena de juicio de 1 Enoc 62–63 muestra a reyes y poderosos postrándose, bendiciendo y reconociendo la justicia divina sin que eso produzca su liberación.
+- Estos pasajes no prueban que sean exactamente las mismas personas ni constituyen un paralelo lexical directo con Filipenses 2.
+- Pero ofrecen un control histórico importante: en el judaísmo apocalíptico, postración, reconocimiento e incluso alabanza no garantizan por sí solos reconciliación salvadora.
+- Efecto: capítulo 7, pregunta 34, para impedir que Filipenses 2:10–11 funcione como prueba autónoma del universalismo.
+
+### Balance de 1 Enoc como conjunto
+
+1 Enoc no enseña una doctrina uniforme de restauración universal. Algunas secciones presentan castigos muy duros y aparentemente irreversibles, especialmente para los Vigilantes y determinados pecadores. Al mismo tiempo, varias tradiciones Enoquianas contienen movimientos de juicio hacia arrepentimiento o transformación: 10:20–22; 50:2–5; 90:30–38; 91:14. La conclusión útil para el manuscrito no es “1 Enoc era universalista”, sino algo más limitado: **el lenguaje apocalíptico judío podía combinar imágenes de destrucción extrema con arrepentimiento, reaparición de pueblos y transformación posterior, y también podía presentar postración/confesión sin salvación**. Ambas observaciones ayudan a leer Apocalipsis y Filipenses 2 con mayor disciplina.
