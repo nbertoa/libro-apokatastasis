@@ -30,7 +30,7 @@ Y, de manera inevitable, apareció una de las preguntas más incómodas de todas
 
 Durante mucho tiempo, para muchos cristianos la palabra *infierno* parece responder por sí sola a esa pregunta. Pero en realidad esa palabra suele esconder varias preguntas distintas y varias respuestas diferentes.
 
-Dentro del cristianismo han existido, de forma simplificada, tres grandes maneras de entender el destino final de quienes permanecen bajo juicio. Una sostiene que continuarán conscientemente bajo castigo sin fin. Otra sostiene que finalmente serán destruidos y dejarán de existir. Y otra sostiene que el juicio de Dios terminará finalmente en restauración.
+Dentro del cristianismo han existido, de forma simplificada, tres grandes maneras de entender el destino final de quienes permanecen bajo juicio. Una sostiene que continuarán conscientemente bajo castigo sin fin. Otra sostiene que finalmente serán destruidos y que su vida terminará de manera definitiva. Y otra sostiene que el juicio de Dios terminará finalmente en restauración.
 
 Tormento consciente sin fin. Destrucción definitiva. Restauración universal.
 
@@ -184,7 +184,7 @@ Si hacen caer una lágrima de alegría, o simplemente sacan una sonrisa, habrá 
 
 Si alguien encuentra aquí una sola respuesta útil a una pregunta que llevaba mucho tiempo cargando, para mí será más que suficiente.
 
-Y si al terminar alguien no acepta mi conclusión, pero entiende mejor por qué existen cristianos que llegan a cada una de estas tres respuestas, también consideraré que el libro cumplió una parte importante de su propósito.
+Y si al terminar alguien no comparte la conclusión a la que llegue el argumento, pero entiende mejor por qué existen cristianos que llegan a cada una de estas tres respuestas, también consideraré que el libro cumplió una parte importante de su propósito.
 
 No escribí estas páginas para entregarte una lista de creencias obligatorias.
 
