@@ -2,9 +2,167 @@
 
 Llegamos al final del argumento. Todo lo que sigue debe leerse de otra manera.
 
-El recorrido terminó con una conclusión que no coincide del todo con mi esperanza: la destrucción definitiva quedó ligeramente mejor apoyada, aunque con baja confianza. La restauración universal, en cambio, quedó como una esperanza razonada y bíblicamente seria, mantenida especialmente por Romanos 5, pero sin evidencia suficiente para considerarla la explicación más probable. Lo que sigue no pretende cambiar ese resultado. Es simplemente la pregunta que todavía me queda como persona:
+El recorrido terminó con una conclusión que no coincide del todo con mi esperanza: la destrucción definitiva quedó ligeramente mejor apoyada, aunque con baja confianza. La restauración universal, en cambio, quedó muy cerca como una esperanza razonada y bíblicamente seria, sostenida especialmente por Romanos 5, pero sin evidencia suficiente para considerarla la explicación más probable.
 
-**Si la restauración de todos fuera posible y justa, ¿cómo se vería una victoria así?**
+No quiero usar este epílogo para corregir ese resultado por la puerta de atrás. Si después de pedir durante todo el libro que cada posición soporte sus mejores objeciones terminara escondiendo las que incomodan a mi propia esperanza, habría traicionado el método.
+
+Pero tampoco quiero terminar fingiendo que el análisis respondió todas las preguntas que me trajeron hasta aquí.
+
+Las preguntas que siguen no son acusaciones contra Dios. Son preguntas dirigidas a ciertas imágenes de Dios y a ciertas explicaciones de su juicio. Tal vez tengan respuestas que todavía no veo. Si las encuentro, quiero escucharlas. Pero mientras no las tenga, prefiero preguntar antes que atribuirle a Dios algo que todavía no logro reconciliar con su bondad.
+
+## ¿Qué significa respetar nuestra libertad si ninguno de nosotros eligió empezar a existir?
+
+Se habla con razón de la responsabilidad de nuestras decisiones. Pero hay una decisión anterior a todas ellas que ninguno de nosotros tomó: existir.
+
+No digo esto como si una persona pudiera haber dado permiso antes de existir. Eso sería imposible. La pregunta es otra. Si Dios decide libremente dar existencia a una persona, conoce su historia y sabe que esa historia puede terminar en una pérdida irreversible, ¿qué responsabilidad asume al crearla?
+
+La libertad de la criatura puede explicar por qué una persona es responsable de lo que hace. No responde por sí sola por qué el Creador decidió darle existencia sabiendo cuál podía ser el final.
+
+Y si Dios sabe con certeza que una persona terminará destruida, la pregunta se vuelve todavía más difícil para mí:
+
+**¿por qué crearla?**
+
+¿Fue finalmente un regalo para esa misma persona haber existido? ¿O su historia completa terminó siendo una tragedia que ella nunca eligió comenzar?
+
+## ¿Qué haría un buen padre con un hijo que rechaza la cura que necesita?
+
+Ésta es una de las preguntas que más me cuesta abandonar porque soy padre.
+
+Un niño puede no querer una vacuna, un remedio, una operación o un tratamiento. Puede llorar, resistirse y creer sinceramente que su padre le está haciendo daño. Sin embargo, un padre que sabe que ese tratamiento puede salvarle la vida no suele pensar que respetar su libertad significa dejarlo morir.
+
+La comparación tiene límites. Un adulto no es un niño. Un ser humano puede equivocarse sobre lo que necesita su hijo. Y el amor a Dios no puede reducirse a un tratamiento impuesto desde afuera.
+
+Pero la pregunta permanece.
+
+Si yo, siendo un padre limitado, puedo dar mi vida por mi hijo, buscar su bien cuando él no lo entiende y a veces tomar una decisión que él no quiere porque sé que dejarlo librado a su voluntad momentánea sería abandonarlo a un daño mucho mayor, **¿puede Dios ser menos bueno que nosotros?**
+
+Si Dios conoce perfectamente nuestra enfermedad, entiende mejor que nosotros aquello que nos destruye y dispone de una manera de sanarnos sin borrar quiénes somos, ¿qué sería más amoroso: permitir que una voluntad enferma termine destruyéndonos definitivamente, o conducirnos —incluso mediante una corrección que al principio no queremos— hasta una voluntad capaz de reconocer y elegir el bien?
+
+**¿En qué momento respetar una voluntad enferma deja de ser respeto por la persona y se convierte en abandono de la persona a su enfermedad?**
+
+## ¿Respeta Dios nuestra libertad dejando simplemente que hagamos lo que queremos?
+
+La Biblia no presenta a Dios como un espectador que nunca interrumpe un camino humano.
+
+En Babel, Dios frustra un proyecto colectivo y confunde las lenguas (Génesis 11:1-9). En el diluvio interviene de manera radical ante la violencia humana (Génesis 6–9). En Egipto, las plagas irrumpen una y otra vez en el proyecto del faraón y de su reino (Éxodo 7–12). Jonás decide huir hacia otro lado y Dios altera profundamente su camino hasta volver a poner delante de él la misión a Nínive (Jonás 1–3). Elías, agotado y deseando morir, no queda abandonado a ese deseo: recibe descanso, alimento y una nueva dirección (1 Reyes 19:1-18).
+
+Nada de eso demuestra que Dios pueda fabricar amor, fe o arrepentimiento por la fuerza. Cambiar las circunstancias de una persona no es lo mismo que producir desde afuera una relación verdadera con Dios.
+
+Pero sí me deja una pregunta:
+
+**si Dios puede frenar nuestros proyectos, cambiar nuestras circunstancias, confrontarnos, disciplinarnos y conducirnos por caminos que inicialmente no elegimos, ¿por qué habría que pensar que respetar nuestra libertad exige dejar de intervenir precisamente cuando está en juego nuestra pérdida definitiva?**
+
+Si Dios interviene para salvar una ciudad, liberar esclavos, detener violencia o cambiar el rumbo de un profeta, ¿por qué no podría intervenir con toda la paciencia y sabiduría necesarias cuando lo que está en juego es sanar aquello que puede destruir para siempre a una persona?
+
+## ¿Una libertad perfecta necesita conservar para siempre la posibilidad de elegir el mal?
+
+Si la respuesta a la pérdida definitiva es que Dios debe respetar eternamente nuestra capacidad de rechazarlo, aparece otra dificultad.
+
+Los cristianos esperamos una creación en la que el pecado no vuelva a destruirlo todo. Esperamos personas verdaderamente libres y, al mismo tiempo, una historia en la que ya no haya otra caída interminable.
+
+Entonces, ¿qué habrá cambiado?
+
+Si los redimidos siguen siendo libres pero ya no pecan, quizá una libertad perfecta no consista en mantener eternamente abierta la posibilidad real de elegir el mal. Tal vez conocer a Dios con claridad, ser sanado de lo que esclaviza la voluntad y amar el bien sin engaño no destruya la libertad, sino que la complete.
+
+Si eso fuera verdad, la pregunta sería inevitable:
+
+**¿por qué esa libertad sanada podría existir para quienes fueron salvados, pero no podría llegar finalmente también a quienes todavía están esclavizados por el pecado?**
+
+¿Y si una persona nunca fue completamente libre mientras estaba dominada por miedo, ignorancia, mentira, trauma, orgullo, adicción o deseos deformados? ¿No podría ocurrir que conocer finalmente la verdad de Dios no destruya su libertad, sino que por primera vez la haga plenamente libre?
+
+## ¿Qué sentido tendría resucitar a alguien para juzgarlo y después devolverlo a la muerte?
+
+La destrucción definitiva tiene una respuesta seria: la resurrección para juicio puede servir para rendición de cuentas, vindicación de las víctimas, exposición de la verdad y justicia pública. No necesito caricaturizar esa respuesta.
+
+Pero todavía me queda la pregunta.
+
+Si una persona ya murió y su destino final será dejar de vivir definitivamente, **¿qué bien exige devolverla a la existencia consciente, hacerla enfrentar toda la verdad de su historia y después quitarle nuevamente la vida?**
+
+Y la pregunta se vuelve todavía más difícil si durante ese juicio llega a comprender con una claridad que nunca tuvo antes quién es Dios, qué hizo, qué daño causó y por qué el juicio es justo.
+
+Si esa nueva comprensión no cambia nada en ella, ¿qué significa realmente haber comprendido?
+
+Y si sí produce arrepentimiento, ¿por qué esa verdad puede llegar a tiempo para justificar la sentencia pero demasiado tarde para transformar a la persona?
+
+No sé la respuesta. Pero no quiero saltarme la pregunta.
+
+## ¿Cómo puede no haber más lágrimas si alguien amado se pierde para siempre?
+
+Apocalipsis promete una creación en la que Dios enjuga toda lágrima y ya no hay muerte, duelo, llanto ni dolor (Apocalipsis 21:4).
+
+¿Cómo vive allí una madre que recuerda a un hijo perdido? ¿Un esposo que recuerda a su esposa? ¿Un hermano que sabe que alguien a quien amó terminó destruido? Comprender que el juicio de Dios fue justo puede cambiar profundamente la manera de mirar una pérdida. Pero me sigue costando entender cómo el amor perfecto deja de dolerse por una persona simplemente porque ahora comprende por qué se perdió.
+
+A veces se responde que Dios transformará nuestra comprensión. Puede ser. Otros imaginan que ciertos recuerdos dejarán de doler. También puede ser.
+
+Pero borrar la memoria no resolvería fácilmente el problema. Nuestra historia forma parte de quiénes somos. Y aun si algo fuera olvidado, nada impediría que pudiéramos preguntar qué ocurrió.
+
+Por eso mi pregunta no es cómo Dios podría hacernos ignorantes de la pérdida.
+
+Es ésta:
+
+**¿cómo pueden convivir una memoria verdadera, un amor perfectamente sano y la ausencia completa de dolor si algunas personas amadas quedaron perdidas de manera irreversible?**
+
+## ¿Por qué la imagen final todavía habla de sanidad y de puertas que nunca se cierran?
+
+El capítulo sobre Apocalipsis ya llegó a una conclusión que quiero conservar: las hojas para la sanidad de las naciones y las puertas abiertas de la Nueva Jerusalén **no demuestran** que los condenados salgan del lago de fuego. El libro no narra esa secuencia y no quiero inventarla ahora.
+
+Pero las imágenes siguen llamándome la atención.
+
+En la ciudad final, las hojas del árbol son para la sanidad de las naciones y sus puertas nunca se cierran (Apocalipsis 21:25; 22:2).
+
+Si todo proceso de incorporación y sanación hubiera terminado por completo, ¿por qué la visión final conserva precisamente esas imágenes?
+
+Tal vez las hojas expresen simplemente la plenitud de una humanidad ya sanada. Tal vez las puertas abiertas simbolicen seguridad absoluta y acceso sin amenaza. Ésas son respuestas posibles.
+
+Pero como imagen final siguen dejándome una pregunta que no quiero convertir en prueba y tampoco quiero dejar de hacer.
+
+## ¿Por qué tantas historias bíblicas muestran a Dios venciendo enemigos al transformarlos?
+
+Egipto y Asiria pueden aparecer como enemigos terribles de Israel y, sin embargo, Isaías llega a imaginar a Egipto como «mi pueblo» y a Asiria como «obra de mis manos», bendecidos junto con Israel (Isaías 19:23-25).
+
+Cuando un ejército arameo queda indefenso delante de Eliseo, el rey de Israel pregunta si debe matarlo. Eliseo responde que no. Los enemigos reciben comida y agua, participan de un gran banquete y son enviados a su tierra (2 Reyes 6:18-23).
+
+Nínive merece juicio, pero Dios se alegra de su arrepentimiento más que Jonás de su destrucción (Jonás 3–4).
+
+Y Saulo, enemigo de la Iglesia, no termina simplemente eliminado. Termina transformado en Pablo.
+
+Ninguna de estas historias demuestra que Dios vaya a restaurar finalmente a cada persona. Un patrón no es una conclusión universal.
+
+Pero sí forman mi imaginación acerca de qué clase de victoria puede buscar Dios.
+
+**Si tantas veces la victoria de Dios consiste en que quien era enemigo deje de serlo, ¿por qué debería asumir que en el final habrá necesariamente un punto en el que Dios ya no transforme al enemigo y sólo pueda eliminarlo?**
+
+## ¿Dónde me deja todo esto?
+
+Después de todo este recorrido, **no me considero convencido de que la restauración universal haya quedado demostrada**.
+
+La conclusión del libro fue más estrecha: **la destrucción definitiva quedó ligeramente mejor apoyada, con baja confianza**. No es una diferencia enorme. No creo que la cuestión haya quedado cerrada ni que la restauración universal haya sido refutada. Romanos 5 y otros textos mantienen una esperanza real y seria. Pero si quiero ser fiel al mismo criterio que utilicé durante todo el libro, no puedo fingir que la balanza terminó exactamente empatada ni inclinarla hacia donde personalmente me gustaría.
+
+Y, sin embargo, **sí me considero esperanzado en la restauración universal**.
+
+No porque crea haber probado que Dios restaurará finalmente a todos, sino porque todavía tengo preguntas que las otras explicaciones no consiguen cerrar para mí.
+
+Tal vez existan respuestas mejores que las que hoy conozco. Si las encuentro, quiero escucharlas. Este libro debería haber dejado suficientemente claro que no quiero proteger mi esperanza contra la evidencia.
+
+Pero tampoco quiero proteger una doctrina contra mis preguntas.
+
+Prefiero seguir preguntando cuando algo no me cierra antes que llamar humildad a dejar de pensar. Prefiero reconocer mi incomodidad antes que agachar la cabeza y decir: «Las cosas son así; aceptalas y aprendé a vivir con lo que no entendés».
+
+Para mí, la fe no exige dejar de preguntar. Si Dios es verdad, mis preguntas no pueden hacerle daño. Y si alguna de mis ideas acerca de él es falsa, quiero que esas preguntas ayuden a romperla.
+
+Por eso mi esperanza permanece.
+
+No digo: **sé que Dios restaurará a todos**.
+
+Digo algo más pequeño:
+
+**espero que lo haga.**
+
+Y después de todo lo que he visto, todavía encuentro razones para seguir esperándolo.
+
+Entonces queda una última pregunta, ya no como adjudicación del argumento, sino como imaginación de aquello que espero:
+
+**si la restauración de todos fuera finalmente posible y justa, ¿cómo se vería una victoria así?**
 
 ## ¿No nos dio ya la Biblia pequeñas imágenes de reconciliación?
 
