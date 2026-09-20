@@ -140,7 +140,7 @@ A veces una respuesta quedará abierta porque la evidencia no alcanza para decir
 
 Preferí eso antes que fabricar una certeza.
 
-No quiero pedirte que llegues a mi conclusión. Ni siquiera quiero pedirte que confíes en que hice todo bien.
+No quiero pedirte que llegues a una conclusión determinada. Ni siquiera quiero pedirte que confíes en que hice todo bien.
 
 Quiero invitarte a mirar las preguntas conmigo.
 
