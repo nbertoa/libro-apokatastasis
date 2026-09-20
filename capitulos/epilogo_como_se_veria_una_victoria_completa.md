@@ -178,7 +178,7 @@ En uno desaparece el enemigo.
 
 En el otro desaparece aquello que lo hacía enemigo.
 
-Este libro no ha demostrado que Dios vaya a hacer lo segundo con cada ser humano. Los textos difíciles siguen existiendo. El juicio sigue siendo real. Apocalipsis nunca narra de manera directa la salida de un ser humano del lago de fuego. Y el caso del diablo quedó todavía más abierto y difícil que el caso humano.
+Este libro no ha demostrado que Dios vaya a hacer lo segundo con cada ser humano. Los textos difíciles siguen existiendo. El juicio sigue siendo real. Apocalipsis nunca narra de manera directa la salida de un ser humano del lago de fuego. Y, en el caso del diablo, Apocalipsis dejó una objeción todavía más fuerte que en el caso humano.
 
 Por eso estas imágenes no pueden convertirse en una nueva prueba después de que el argumento ya terminó.
 
