@@ -46,11 +46,11 @@ La vida fuera del jardín queda marcada por dificultad y dolor. La tierra ya no 
 
 ## 12. ¿Qué significa perder el acceso al árbol de la vida?
 
-Después de la desobediencia, Dios expulsa al ser humano del jardín e impide que tome también del árbol de la vida y viva para siempre (Génesis 3:22-24). Esto muestra que la vida sin fin no aparece como una posesión natural e independiente del ser humano, sino como algo ligado al acceso que Dios concede. Al mismo tiempo, Génesis 3 no desarrolla todavía una doctrina completa sobre la muerte ni explica si ésta será alguna vez vencida. Lo que sí establece es que, fuera del jardín, la existencia humana queda sometida a la muerte.
+Después de la desobediencia, Dios expulsa al ser humano del jardín e impide que tome también del árbol de la vida y viva para siempre (Génesis 3:22-24). Esto muestra que la vida sin fin no aparece como una posesión natural e independiente del ser humano, sino como algo ligado al acceso que Dios concede. El relato no aclara si el ser humano fue creado mortal pero con acceso a una vida indefinida, o si la desobediencia produjo un cambio que lo volvió mortal. Resolver esa cuestión exigiría más de lo que Génesis dice. Lo que sí establece es que, fuera del jardín y sin acceso al árbol de la vida, la existencia humana queda sometida a la muerte.
 
 ## 13. ¿Cómo describe Génesis la muerte que ahora marca la vida humana?
 
-Dios había advertido que comer del árbol prohibido llevaría a la muerte, y después de la desobediencia dice al hombre que volverá al polvo del que fue tomado: “polvo eres y al polvo volverás” (Génesis 2:16-17; 3:19). Más adelante, Génesis 5 repite una y otra vez el mismo final para distintas generaciones: “y murió”. El relato no dice que el ser humano poseyera una inmortalidad propia que luego perdió. Lo que sí queda claro es que la muerte pasa a marcar la existencia humana fuera del jardín.
+Dios había advertido que, al comer del árbol prohibido, el ser humano “ciertamente” moriría (Génesis 2:16-17). La expresión hebrea refuerza la certeza de la advertencia; por sí sola no precisa que la muerte física deba ocurrir en ese mismo día ni describe dos clases distintas de muerte. Después de la desobediencia, Dios dice al hombre que volverá al polvo del que fue tomado, y Génesis 5 repite una y otra vez el mismo final para distintas generaciones: “y murió” (Génesis 3:19; 5:5, 8, 11). El relato relaciona así la desobediencia, la pérdida del acceso al árbol de la vida y el regreso al polvo, pero no ofrece todavía una antropología completa de la muerte.
 
 ## 14. ¿Ha dejado el ser humano de ser imagen de Dios después del pecado?
 
@@ -72,162 +72,178 @@ No. Lamec declara haber matado a un hombre y contrapone la venganza siete veces 
 
 Génesis dice que Dios ve que la maldad humana se ha multiplicado y que la inclinación de los pensamientos del corazón es continuamente mala (Génesis 6:5). También describe la tierra como corrompida y llena de violencia (Génesis 6:11-12). El problema ya no aparece como un solo asesinato ni como la violencia de una familia: el relato presenta una corrupción extendida. Lo que sigue no se describe como una reacción arbitraria ante faltas menores, sino como juicio sobre esa situación.
 
-## 19. ¿Qué juicio decide traer Dios?
+## 19. ¿Qué significa que Dios lamente haber hecho al ser humano?
+
+Génesis dice que Dios lamentó haber hecho al ser humano y que su corazón se llenó de dolor (Génesis 6:6-7). Dentro del relato, estas palabras muestran que la violencia humana no le resulta indiferente: el juicio surge en una escena de profundo pesar ante la corrupción de la creación. El pasaje describe la respuesta de Dios en términos humanos comprensibles, pero no explica cómo se relaciona ese lamento con todo lo que Dios conoce ni pretende resolver si él puede cambiar. No conviene usar esta frase aislada para decidir esas cuestiones.
+
+## 20. ¿Qué juicio decide traer Dios?
 
 Dios decide traer el diluvio sobre la tierra. Génesis dice que, ante la corrupción y la violencia que ve, Dios anuncia que pondrá fin a aquella humanidad mediante las aguas del diluvio (Génesis 6:6-7, 11-13, 17). Es un juicio devastador: el relato no intenta suavizar la destrucción que produce. Quienes mueren en el diluvio mueren bajo un juicio histórico narrado por Génesis; el pasaje no explica aquí cuál es su destino después de la muerte.
 
-## 20. ¿Acaba el diluvio por completo con la vida que Dios había creado?
+## 21. ¿Acaba el diluvio por completo con la vida que Dios había creado?
 
-No. Aunque el diluvio destruye a aquella humanidad y a gran parte de los seres vivos, Dios preserva a Noé, a su familia y a representantes de los animales para que la vida continúe después del juicio (Génesis 6:18-22; 7:1-3, 23). El relato mantiene juntas dos cosas que no debemos separar: el juicio es real y devastador, pero Dios no acaba por completo con la vida que había creado. La historia continúa por medio de lo que preserva.
+No. Aunque el diluvio destruye a casi toda aquella humanidad y a gran parte de los seres vivos, Noé halla favor ante Dios y es presentado como justo en su generación; Dios lo preserva junto con su familia y representantes de los animales para que la vida continúe después del juicio (Génesis 6:8-9, 18-22; 7:1-3, 23). Noé funciona así como el sobreviviente por medio del cual comienza de nuevo la historia humana, no como prueba de que quienes murieron fueron restaurados. El juicio es real y devastador, pero Dios no acaba por completo con la vida que había creado.
 
-## 21. ¿Resuelve el diluvio el problema del pecado humano?
+## 22. ¿Resuelve el diluvio el problema del pecado humano?
 
-No. Después del diluvio, Dios vuelve a decir que la inclinación del corazón humano es mala desde su juventud, una descripción que recuerda lo dicho antes del juicio (Génesis 6:5; 8:21). El diluvio elimina aquella sociedad violenta y permite un nuevo comienzo, pero no transforma por sí mismo el corazón humano. Esto nos obliga a distinguir dos cosas: un juicio puede detener y castigar el mal sin curar aquello que lo produce. El diluvio cambia radicalmente la situación, pero no elimina la raíz del problema humano.
+No. Después del diluvio, Dios vuelve a decir que la inclinación del corazón humano es mala desde su juventud, una descripción que recuerda lo dicho antes del juicio (Génesis 6:5; 8:21). El diluvio elimina aquella sociedad violenta y permite un nuevo comienzo, pero no transforma por sí mismo el corazón humano. Esto nos obliga a distinguir dos cosas: un juicio puede detener y castigar el mal sin curar aquello que lo produce. El contraste no demuestra que todo juicio destructivo sea inútil ni que ninguno pueda ser final; demuestra solamente que, en este relato, la destrucción de los violentos no elimina la raíz moral presente en la humanidad que sobrevive.
 
-## 22. ¿Qué hace Dios con una humanidad que sigue siendo capaz de pecar?
+## 23. ¿Qué hace Dios con una humanidad que sigue siendo capaz de pecar?
 
 Dios establece un pacto con Noé, con sus descendientes y también con los demás seres vivos, y promete que nunca más un diluvio destruirá de esa manera a toda la vida sobre la tierra (Génesis 8:21-22; 9:8-17). La promesa resulta especialmente llamativa porque Dios acaba de reconocer que la inclinación del corazón humano sigue siendo mala desde su juventud (Génesis 8:21). El pacto no significa que Dios dejará de juzgar el mal. Sí muestra que, aun sabiendo que el pecado continuará, se compromete con la continuidad del mundo que creó.
 
-## 23. ¿Qué ocurre en Babel?
+## 24. ¿Qué ocurre en Babel?
 
 Génesis cuenta que los seres humanos se reúnen para construir una ciudad y una torre, hacerse un nombre y evitar ser dispersados por toda la tierra (Génesis 11:1-4). Dios interviene, confunde sus lenguas y los dispersa (Génesis 11:5-9). El relato no explica con detalle todos los motivos por los que Dios considera necesario intervenir, así que no conviene introducirlos como si fueran explícitos. Lo que sí queda claro es que Dios limita aquel proyecto y que la humanidad termina dispersada en pueblos y lenguas.
 
-## 24. ¿Qué hace Dios después de la dispersión de Babel?
+## 25. ¿Qué hace Dios después de la dispersión de Babel?
 
 Después de Babel, Génesis deja de seguir a la humanidad principalmente como un conjunto y concentra el relato en un hombre: Abram. Dios lo llama a dejar su tierra y promete hacer de él una gran nación, bendecirlo y engrandecer su nombre (Génesis 12:1-2). El texto no dice expresamente que el llamado de Abram sea una respuesta directa a Babel, así que no debemos afirmarlo como si lo dijera. Lo que sí podemos observar es la secuencia: después de la dispersión de los pueblos, la historia se concentra en una familia llamada por Dios.
 
-## 25. ¿Significa la elección de Abram que las demás familias de la tierra quedan fuera?
+## 26. ¿Significa la elección de Abram que las demás familias de la tierra quedan fuera?
 
 No. En el mismo llamado en que Dios promete hacer de Abram una gran nación, el texto vincula con él la bendición de “todas las familias de la tierra” (Génesis 12:2-3). La forma exacta en que debe entenderse esa frase y el alcance de la bendición necesitarán un estudio posterior. Por ahora podemos afirmar algo más limitado: una familia es elegida de manera particular, pero las demás familias no desaparecen del horizonte de la promesa.
 
-## 26. ¿Cómo se convierte la familia de Abraham en un pueblo?
+## 27. ¿Cómo se convierte la familia de Abraham en un pueblo?
 
 La promesa continúa por medio de Isaac y después de Jacob, a quien Dios da también el nombre de Israel (Génesis 26:2-4; 28:13-14; 35:9-12). Los hijos de Jacob dan origen a las tribus de Israel. Cuando una hambruna lleva a la familia a Egipto, todavía son un grupo relativamente pequeño, pero allí sus descendientes crecen y se multiplican hasta convertirse en un pueblo numeroso (Génesis 46:1-7, 26-27; Éxodo 1:1-7). Así, la familia escogida en Génesis empieza a convertirse en la nación prometida a Abraham.
 
-## 27. ¿Qué ocurre con Israel en Egipto?
+## 28. ¿Qué ocurre con Israel en Egipto?
 
 Israel pasa de ser una familia protegida en Egipto a convertirse en un pueblo oprimido. Un nuevo faraón teme su crecimiento, lo somete a trabajos forzados y finalmente ordena matar a los niños varones hebreos (Éxodo 1:8-22). Ahora aparece con claridad otra forma del mal: un poder humano que esclaviza y busca destruir a un pueblo. Dios oye el clamor de los israelitas, recuerda su pacto con Abraham, Isaac y Jacob, ve su sufrimiento y anuncia que actuará para liberarlos (Éxodo 2:23-25; 3:7-10).
 
-## 28. ¿Cómo responde Dios a la esclavitud de Israel?
+## 29. ¿Cómo responde Dios a la esclavitud de Israel?
 
 Dios libera a Israel de Egipto. Por medio de Moisés exige repetidamente al faraón que deje salir al pueblo, y ante su resistencia Egipto recibe una serie de juicios que culminan en la muerte de los primogénitos y la salida de Israel (Éxodo 3:7-10; 5:1-2; 7–12). El éxodo muestra que el juicio de Dios puede dirigirse contra un poder que oprime y destruye a otros: la liberación de las víctimas y el juicio del opresor aparecen unidos. El relato también dice que mediante estos actos los egipcios conocerán que él es YHWH y que su nombre será dado a conocer en la tierra (Éxodo 7:5; 9:16). Ese reconocimiento no equivale por sí solo a salvación; aquí muestra que el juicio y la liberación también revelan quién es Dios. El propio relato, sin embargo, describe la resistencia del faraón de una manera más compleja de lo que parecería si sólo observáramos sus negativas.
 
-## 29. ¿Atribuye Éxodo la dureza del faraón solamente al faraón?
+## 30. ¿Atribuye Éxodo la dureza del faraón solamente al faraón?
 
 No. Antes de que las plagas se desarrollen, Dios ya anuncia que endurecerá el corazón del faraón (Éxodo 4:21; 7:3). Después, en algunos momentos el relato dice que el faraón endurece su corazón o vuelve a pecar endureciéndolo (Éxodo 8:15, 32; 9:34); en otros dice que su corazón permanece endurecido, y en otros afirma que Dios endurece su corazón (Éxodo 7:13; 9:12; 10:20, 27). Éxodo mantiene juntas la responsabilidad del faraón y la acción de Dios sin explicar aquí toda la relación entre ambas. No necesitamos resolver ahora ese problema para seguir el relato. Lo que sí queda claro es que Dios vence la resistencia de Egipto y saca a Israel de la esclavitud.
 
-## 30. ¿Para qué libera Dios a Israel?
+## 31. ¿Para qué libera Dios a Israel?
 
 Dios no libera a Israel solamente para sacarlo de Egipto. En el Sinaí le recuerda que él mismo lo llevó hasta allí y le presenta los términos de una relación de pacto: si escucha su voz y guarda su pacto, será su posesión especial entre todos los pueblos, porque toda la tierra pertenece a Dios; además, será un “reino de sacerdotes” y una nación santa (Éxodo 19:3-6). Israel ya había sido llamado pueblo de Dios antes del Sinaí (Éxodo 3:7, 10; 4:22). La liberación conduce así a una nueva responsabilidad bajo el gobierno de Dios.
 
-## 31. ¿Qué clase de vida le pide Dios a Israel?
+## 32. ¿Qué clase de vida le pide Dios a Israel?
 
 Dios le da a Israel mandamientos que abarcan su relación con él y también la manera de tratar a otras personas. Israel debe adorar solamente a Dios, rechazar la idolatría, respetar la vida, la familia y la propiedad, actuar con justicia y proteger especialmente a personas vulnerables como el extranjero, la viuda y el huérfano (Éxodo 20:1-17; 22:21-27; Deuteronomio 10:17-19; 24:17-22). Pertenecer al pueblo de Dios no consiste solamente en haber sido liberado de Egipto: esa liberación debía producir una forma distinta de vivir.
 
-## 32. ¿Debía la vida de Israel decir algo también a las demás naciones?
+## 33. ¿Debía la vida de Israel decir algo también a las demás naciones?
 
 Sí, aunque conviene expresarlo con cuidado. Deuteronomio dice que, si Israel vive conforme a los mandamientos recibidos, los demás pueblos verán su sabiduría y entendimiento (Deuteronomio 4:5-6). Inmediatamente después, Moisés destaca como rasgos singulares de Israel la cercanía de su Dios y la justicia de sus leyes (Deuteronomio 4:7-8). Esto no significa que cada israelita haya recibido una misión directa de convertir a las naciones, ni que la expresión “reino de sacerdotes” por sí sola demuestre una misión universal. Sí muestra que la vida de Israel debía ser visible más allá de Israel.
 
-## 33. ¿Vive Israel conforme al pacto que recibió?
+## 34. ¿Vive Israel conforme al pacto que recibió?
 
 No de manera constante. Desde muy temprano, el relato muestra a Israel desconfiando de Dios, quejándose en el desierto y cayendo en idolatría, incluso poco después de haber sido liberado de Egipto (Éxodo 16:2-3; 17:1-7; 32:1-6). Más adelante, la historia de Israel repite ese problema de distintas formas: el pueblo abandona a Dios, adopta prácticas de otras naciones y desobedece los mandamientos que había recibido (Jueces 2:11-19; 2 Reyes 17:7-17). Esto no significa que todos los israelitas actúen siempre de la misma manera, pero sí que el pueblo como conjunto no cumple fielmente la vocación recibida.
 
-## 34. ¿Qué ocurre cuando la generación salida de Egipto se niega a entrar en la tierra?
+## 35. ¿Qué ocurre cuando la generación salida de Egipto se niega a entrar en la tierra?
 
 Cuando los exploradores regresan de Canaán, gran parte del pueblo teme a sus habitantes, desconfía de la promesa de Dios y se niega a entrar (Números 13:25-33; 14:1-4). Dios responde anunciando que los adultos de aquella generación que persistieron en su rebelión morirán en el desierto y no verán la tierra, con excepciones como Caleb y Josué; sus hijos, en cambio, sí entrarán en ella (Números 14:20-35). El propósito de Dios para Israel continúa, pero eso no significa que cada miembro del pueblo participe de la misma manera en cada promesa. La continuidad del pueblo y el juicio sobre individuos concretos pueden aparecer juntos.
 
-## 35. ¿La elección de Dios protege a Israel del juicio?
+## 36. ¿La elección de Dios protege a Israel del juicio?
 
 No. La relación especial de Israel con Dios no elimina su responsabilidad. La ley ya advertía que, si el pueblo abandonaba a Dios y persistía en la desobediencia, sufriría consecuencias graves, incluida la derrota, la pérdida de la tierra y el exilio entre otras naciones (Deuteronomio 28:15-68). Amós llega a unir elección y juicio de manera directa: precisamente porque Dios ha conocido de manera especial a Israel, le pedirá cuentas por sus maldades (Amós 3:2). Haber sido escogido no significa quedar fuera del juicio.
 
-## 36. ¿Qué busca Dios cuando advierte a Israel que será juzgado?
+## 37. ¿Qué busca Dios cuando advierte a Israel que será juzgado?
 
 Muchas advertencias no se presentan solamente como anuncios de una pena inevitable, sino como llamados a cambiar antes de que el juicio llegue. Isaías llama al pueblo a dejar el mal y aprender a hacer el bien, y Jeremías dice que si una nación abandona su maldad, Dios puede desistir del desastre anunciado (Isaías 1:16-20; Jeremías 18:7-11). Esto muestra que, al menos en algunos casos, la advertencia busca algo más que informar lo que ocurrirá: busca que el pecador cambie y que el desastre pueda evitarse. Pero eso no demuestra que toda pena divina tenga necesariamente una finalidad correctiva ni que toda advertencia consiga transformar a quienes la reciben.
 
-## 37. ¿Se complace Dios en la muerte del malvado?
+## 38. ¿Se complace Dios en la muerte del malvado?
 
-Ezequiel presenta a Dios llamando al pecador a abandonar su camino y vivir, y afirma que no se complace en la muerte del malvado, sino en que se vuelva de su conducta y viva (Ezequiel 18:23, 30-32; 33:11). Dentro de estos llamados dirigidos a Israel, la muerte del pecador no aparece como algo en lo que Dios se complazca frente a su arrepentimiento. Los textos expresan con claridad el llamado de Dios a volverse y vivir; por sí solos, no describen todavía qué ocurrirá finalmente con cada pecador.
+Ezequiel presenta a Dios llamando al pecador a abandonar su camino y vivir, y afirma que no se complace en la muerte del malvado, sino en que se vuelva de su conducta y viva (Ezequiel 18:23, 30-32; 33:11). El contexto inmediato discute la responsabilidad de cada persona dentro de Israel ante el juicio: nadie puede excusarse diciendo que carga sin más con la culpa de sus antepasados, y la conducta presente importa (Ezequiel 18:1-22; 33:10-20). “Morir” y “vivir” pertenecen aquí a ese llamado profético ante el juicio que amenaza al pueblo; el pasaje no desarrolla el destino después de la muerte. Por eso expresa con claridad que Dios prefiere el arrepentimiento a la muerte del malvado, pero no prueba por sí solo la salvación final de todos.
 
-## 38. ¿Responde siempre Israel a esos llamados?
+## 39. ¿Responde siempre Israel a esos llamados?
 
 No. Los profetas muestran repetidamente que Israel puede recibir advertencias, sufrir consecuencias y aun así no volver a Dios. Amós recuerda una serie de calamidades que alcanzaron al pueblo y repite después de cada una: “pero no volvieron a mí” (Amós 4:6-11). Esto impide suponer que el juicio transforma automáticamente a quien lo recibe. Algunos juicios pueden acompañar un llamado al arrepentimiento y, sin embargo, el pueblo puede persistir en su camino. La resistencia de Israel muestra que un llamado divino al arrepentimiento puede ser rechazado dentro de la historia que estos textos narran.
 
-## 39. ¿Qué ocurre cuando las advertencias se repiten y el pueblo sigue sin cambiar?
+## 40. ¿Qué ocurre cuando las advertencias se repiten y el pueblo sigue sin cambiar?
 
 Finalmente llega el juicio anunciado. El reino del norte, Israel, es derrotado por Asiria y gran parte de su población es deportada; más tarde, Judá es conquistada por Babilonia, Jerusalén es destruida, el templo es incendiado y muchos de sus habitantes son llevados al exilio (2 Reyes 17:6-23; 25:1-21). Los relatos bíblicos interpretan estas derrotas no simplemente como accidentes políticos, sino como consecuencias de una infidelidad persistente. El juicio es histórico, concreto y devastador: el pueblo pierde tierra, ciudad, templo y seguridad, y con ello gran parte de lo que había definido su vida nacional.
 
-## 40. ¿Significa este juicio que Dios ha terminado definitivamente con Israel?
+## 41. ¿Significa este juicio que Dios ha terminado definitivamente con Israel?
 
 No, al menos no con Israel como pueblo. Los mismos textos que anuncian dispersión y exilio también hablan de un regreso posterior. Deuteronomio contempla que, después de sufrir las consecuencias de su desobediencia, Israel vuelva a Dios y sea reunido otra vez (Deuteronomio 30:1-5). Jeremías anuncia que Dios restaurará a Israel y Judá después de haberlos castigado, y Ezequiel habla de reunir nuevamente al pueblo que había sido dispersado entre las naciones (Jeremías 30:1-3; 31:31-37; Ezequiel 36:16-24). El exilio, por devastador que sea, no es la última palabra de Dios sobre Israel como pueblo.
 
-## 41. ¿Cómo describen los profetas el regreso de Israel del exilio?
+## 42. ¿Cómo describen los profetas el regreso de Israel del exilio?
 
 Isaías describe esa liberación con imágenes que recuerdan la salida de Egipto. Después de mencionar al Dios que abrió camino en el mar y derrotó al poder perseguidor, anuncia que hará algo nuevo: abrirá un camino en el desierto y dará agua para su pueblo (Isaías 43:14-21). La restauración del exilio aparece así como una nueva obra de liberación de Dios, comparable al éxodo sin ser simplemente una repetición de aquel acontecimiento.
 
-## 42. ¿Qué promete devolverle Dios a Israel después del juicio?
+## 43. ¿Qué promete devolverle Dios a Israel después del juicio?
 
 La restauración incluye recuperar muchos de los bienes perdidos en el exilio. Dios promete reunir al pueblo dispersado, hacerlo volver a su tierra, reconstruir lo destruido y permitirle habitar nuevamente bajo su bendición (Deuteronomio 30:3-5; Jeremías 30:18-22; Ezequiel 36:8-12; Amós 9:14-15). Ezequiel llega a decir que la tierra antes desolada llegará a ser “como el jardín de Edén” (Ezequiel 36:35). Restaurar no significa simplemente dejar de castigar: significa revertir consecuencias reales del juicio y devolver bienes que se habían perdido.
 
-## 43. ¿Promete Dios cambiar también lo que ocurre dentro de las personas?
+## 44. ¿Quiénes regresan cuando el exilio termina históricamente?
 
-Sí. La esperanza de restauración llega hasta el problema que los juicios anteriores no habían resuelto: el corazón humano. Deuteronomio dice que Dios circuncidará el corazón de su pueblo para que lo ame (Deuteronomio 30:6). Jeremías anuncia un nuevo pacto en el que Dios pondrá su ley dentro de ellos y la escribirá en sus corazones (Jeremías 31:31-34). Ezequiel promete que Dios limpiará a su pueblo, quitará su “corazón de piedra”, le dará un “corazón de carne” y pondrá su Espíritu dentro de él para que viva conforme a sus caminos (Ezequiel 36:25-27). La restauración prometida alcanza así no sólo la situación exterior de Israel, sino también la vida interior del pueblo.
+Esdras cuenta que, después del decreto de Ciro, regresan a Jerusalén grupos de Judá y Benjamín, sacerdotes, levitas y otros miembros de la comunidad; años después terminan de reconstruir el templo (Esdras 1:1-5; 2:1, 64-70; 6:14-16). El relato no dice que regresen todos los exiliados ni narra que vuelvan a la vida quienes habían muerto durante las invasiones y el exilio. La comunidad restaurada incluye sobrevivientes y generaciones posteriores, y continúa siendo Israel, pero no por eso está compuesta exactamente por cada individuo que recibió el juicio. El cumplimiento histórico confirma la restauración del pueblo y, al mismo tiempo, impide confundir continuidad colectiva con identidad personal.
 
-## 44. ¿Qué relación hay entre el regreso de Israel y la transformación de su corazón?
+## 45. ¿Promete Dios cambiar también lo que ocurre dentro de las personas?
 
-Los textos no presentan la secuencia exactamente de la misma manera. Deuteronomio 30 habla primero de Israel volviendo a Dios y después de Dios circuncidando su corazón para que lo ame (Deuteronomio 30:1-6). Ezequiel, en cambio, concentra la atención en la iniciativa de Dios: reúne al pueblo, lo limpia, le da un corazón nuevo y pone su Espíritu dentro de él para que viva conforme a sus caminos (Ezequiel 36:22-27). No conviene construir a partir de estos pasajes una única secuencia rígida. Ambos atribuyen a Dios una acción transformadora que no se reduce al esfuerzo humano.
+Sí. La esperanza de restauración llega hasta el problema que los juicios anteriores no habían resuelto: el corazón humano. Deuteronomio dice que Dios circuncidará el corazón de su pueblo para que lo ame (Deuteronomio 30:6). Jeremías anuncia un nuevo pacto en el que Dios pondrá su ley dentro de ellos y la escribirá en sus corazones (Jeremías 31:31-34). Ezequiel promete que Dios reunirá al pueblo y le dará “un solo corazón” y “un espíritu nuevo”; más adelante dice que lo limpiará, quitará su “corazón de piedra”, le dará un “corazón de carne” y pondrá su Espíritu dentro de él para que viva conforme a sus caminos (Ezequiel 11:17-20; 36:25-27). La restauración prometida alcanza así no sólo la situación exterior de Israel, sino también la vida interior del pueblo.
 
-## 45. ¿Promete Dios esta restauración porque Israel se la ha ganado?
+## 46. ¿Qué relación hay entre el regreso de Israel y la transformación de su corazón?
+
+Los textos no presentan la secuencia exactamente de la misma manera. Deuteronomio 30 habla primero de Israel volviendo a Dios y después de Dios circuncidando su corazón para que lo ame (Deuteronomio 30:1-6). Ezequiel, en cambio, concentra la atención en la iniciativa de Dios: reúne al pueblo, lo limpia, renueva su corazón y pone su Espíritu dentro de él para que viva conforme a sus caminos (Ezequiel 11:17-20; 36:22-27). No conviene construir a partir de estos pasajes una única secuencia rígida ni leer en ellos una teoría filosófica completa de la libertad. Sí atribuyen a Dios una acción eficaz sobre el corazón que no se reduce al esfuerzo humano.
+
+## 47. ¿Promete Dios esta restauración porque Israel se la ha ganado?
 
 No. En Ezequiel 36, Dios dice expresamente que no actúa por causa de Israel, sino por causa de su santo nombre, que había sido profanado entre las naciones (Ezequiel 36:22-23). A continuación promete reunir al pueblo, limpiarlo, darle un corazón nuevo y poner su Espíritu dentro de él (Ezequiel 36:24-27). Esto no vuelve irrelevante la respuesta humana, porque otros textos también llaman a Israel a volver a Dios. En este pasaje, sin embargo, la razón que Dios da para actuar no es el mérito de Israel, sino su propio nombre.
 
-## 46. ¿A quiénes se dirigen estas promesas de transformación?
+## 48. ¿A quiénes se dirigen estas promesas de transformación?
 
-Se dirigen a Israel en forma colectiva. Deuteronomio habla al pueblo y a sus descendientes; Jeremías anuncia un nuevo pacto con “la casa de Israel” y “la casa de Judá”; Ezequiel habla al pueblo que Dios reunirá de entre las naciones (Deuteronomio 30:1-6; Jeremías 31:31-34; Ezequiel 36:22-28). Eso no significa que la transformación sea impersonal, porque las promesas hablan de corazones, conocimiento de Dios y obediencia. Pero el sujeto principal de estas promesas es el pueblo restaurado. Jeremías añade una afirmación especialmente fuerte: dentro del nuevo pacto, todos conocerán a Dios.
+Se dirigen a Israel en forma colectiva. Deuteronomio habla al pueblo y a sus descendientes; Jeremías anuncia un nuevo pacto con “la casa de Israel” y “la casa de Judá”; Ezequiel habla al pueblo que Dios reunirá de entre las naciones (Deuteronomio 30:1-6; Jeremías 31:31-34; Ezequiel 11:17-20; 36:22-28). Eso no significa que la transformación sea impersonal, porque las promesas hablan de corazones, conocimiento de Dios y obediencia. Pero el sujeto principal de estas promesas es el pueblo restaurado. Jeremías añade una afirmación especialmente fuerte: dentro del nuevo pacto, todos conocerán a Dios.
 
-## 47. ¿Qué significa que en el nuevo pacto “todos” conocerán a Dios?
+## 49. ¿Qué significa que en el nuevo pacto “todos” conocerán a Dios?
 
 Jeremías dice que en el nuevo pacto ya no será necesario que unos enseñen a otros a conocer al Señor, porque “todos me conocerán, desde el más pequeño hasta el más grande” (Jeremías 31:31-34). Dentro de la escena que describe, el conocimiento de Dios caracteriza a todo el pueblo del nuevo pacto y no solamente a una parte privilegiada de él. Pero el pasaje no se detiene a explicar si esa expresión incluye a cada israelita que haya vivido en cualquier época. No basta, por tanto, con extender automáticamente la palabra “todos” más allá del grupo que el propio pasaje está describiendo.
 
-## 48. ¿Podemos afirmar que cada israelita de toda la historia será finalmente transformado?
+## 50. ¿Podemos afirmar que cada israelita de toda la historia será finalmente transformado?
 
-No podemos afirmarlo a partir de estas promesas. Deuteronomio 30, Jeremías 31 y Ezequiel 36 describen la restauración y transformación de Israel, pero no identifican expresamente a cada israelita de todas las generaciones como participante final de esa restauración. Sería tan incorrecto limitar arbitrariamente las promesas como extenderlas sin prueba a personas de las que el texto no está hablando. Otros textos de restauración introducen, además, distinciones dentro del propio Israel y nos impiden tratar al pueblo como si cada miembro participara necesariamente de la misma manera.
+No podemos afirmarlo a partir de estas promesas. Deuteronomio 30, Jeremías 31 y los capítulos 11 y 36 de Ezequiel describen la restauración y transformación de Israel, pero no identifican expresamente a cada israelita de todas las generaciones como participante final de esa restauración. Sería tan incorrecto limitar arbitrariamente las promesas como extenderlas sin prueba a personas de las que el texto no está hablando. Otros textos de restauración introducen, además, distinciones dentro del propio Israel y nos impiden tratar al pueblo como si cada miembro participara necesariamente de la misma manera.
 
-## 49. ¿Qué ocurre con los rebeldes que Ezequiel separa del pueblo restaurado?
+## 51. ¿Qué ocurre con los rebeldes que Ezequiel separa del pueblo restaurado?
 
-Ezequiel anuncia que Dios reunirá a Israel de entre los pueblos, pero también dice que apartará de entre ellos a quienes se rebelan contra él y que éstos no entrarán en la tierra de Israel (Ezequiel 20:33-38). No podemos hablar de la restauración nacional como si cada miembro del pueblo participara necesariamente de ella de la misma manera. El pasaje tampoco explica aquí el destino final de esos rebeldes después de esa exclusión. No debemos convertir su exclusión de la tierra ni en una condenación eterna que el texto no menciona ni en una restauración posterior que tampoco menciona. Ezequiel mantiene así una tensión real entre restauración del pueblo y exclusión de algunos de sus miembros.
+Ezequiel anuncia que Dios reunirá a Israel y le dará “un solo corazón” y “un espíritu nuevo”, pero distingue de inmediato a quienes siguen entregados a sus prácticas detestables y anuncia que hará recaer sobre ellos su conducta (Ezequiel 11:17-21). Más adelante dice que apartará de entre el pueblo a quienes se rebelan contra él y que éstos no entrarán en la tierra de Israel (Ezequiel 20:33-38). No podemos hablar de la restauración nacional como si cada miembro del pueblo participara necesariamente de ella de la misma manera. Estos pasajes tampoco explican el destino final de los rebeldes después de su castigo o exclusión: no debemos convertir ese silencio ni en condenación eterna ni en restauración posterior. Ezequiel mantiene una tensión real entre restauración del pueblo y juicio sobre algunos de sus miembros.
 
-## 50. ¿Llega Ezequiel a describir la restauración de Israel como una vuelta de la muerte a la vida?
+## 52. ¿Llega Ezequiel a describir la restauración de Israel como una vuelta de la muerte a la vida?
 
 Sí. En una visión, Ezequiel contempla un valle lleno de huesos secos. Dios hace que los huesos se junten, vuelvan a cubrirse de carne y reciban aliento hasta ponerse en pie como una gran multitud (Ezequiel 37:1-10). La imagen es deliberadamente extrema: aquello que parecía completamente muerto y sin esperanza vuelve a vivir por la acción de Dios. Pero el propio pasaje explica qué representan esos huesos: son “toda la casa de Israel”, que se considera perdida y sin esperanza a causa de su situación (Ezequiel 37:11). La propia explicación de la visión obliga a comenzar por su sentido para Israel como pueblo.
 
-## 51. ¿Está Ezequiel prometiendo aquí la resurrección individual de los muertos?
+## 53. ¿Está Ezequiel prometiendo aquí la resurrección individual de los muertos?
 
 No de manera directa. El propio profeta interpreta la visión diciendo que los huesos representan a “toda la casa de Israel” y relaciona su vuelta a la vida con sacar al pueblo de su situación de muerte, devolverlo a su tierra y hacerlo vivir nuevamente bajo la acción de Dios (Ezequiel 37:11-14). El sentido principal de la visión es la restauración de Israel como pueblo, no una explicación de lo que ocurre con cada persona después de morir. La imagen muestra hasta qué punto Ezequiel puede describir la recuperación del pueblo con lenguaje de muerte y vida; usarla como prueba directa de una resurrección futura iría más allá de la explicación que el propio pasaje ofrece.
 
-## 52. ¿Son necesariamente las mismas personas las que son juzgadas y después restauradas?
+## 54. ¿Son necesariamente las mismas personas las que son juzgadas y después restauradas?
 
 Los textos no permiten responder eso de manera general. Algunas promesas de regreso pueden incluir a personas que sufrieron el exilio y después volvieron, mientras que Israel como pueblo también continúa a través de generaciones posteriores (Deuteronomio 30:1-5; Jeremías 30:1-3; Ezequiel 36:16-24). Lo que estos textos no demuestran es que cada individuo que sufrió el juicio —y especialmente cada uno de los que murieron bajo él— sea después restaurado personalmente. Ezequiel 37 tampoco resuelve esa cuestión, porque el propio profeta identifica los huesos con “toda la casa de Israel” y explica la visión como restauración del pueblo. Para afirmar más necesitaríamos evidencia más directa.
 
-## 53. ¿Qué podemos afirmar realmente sobre la fidelidad de Dios hacia Israel?
+## 55. ¿Qué podemos afirmar realmente sobre la fidelidad de Dios hacia Israel?
 
 El Antiguo Testamento presenta la relación de Dios con Israel como una relación que puede incluir disciplina, derrota y exilio sin que eso signifique el abandono definitivo del pueblo. Jeremías compara la permanencia de Israel ante Dios con el orden del sol, la luna y las estrellas y afirma que sólo si ese orden dejara de existir Israel dejaría de ser una nación delante de él (Jeremías 31:35-37). El texto afirma así una continuidad del propósito de Dios para Israel como pueblo incluso después de juicios muy severos.
 
-## 54. ¿Incluye la restauración futura de Israel un gobierno renovado?
+## 56. ¿Dicen los profetas que Dios no conserva para siempre su ira?
+
+Sí, pero lo dicen dentro de contextos concretos de juicio y restauración. Lamentaciones, desde la ruina de Judá, afirma que el Señor no rechaza para siempre y que, aunque cause dolor, vuelve a compadecerse (Lamentaciones 3:31-33). Isaías dice que Dios no contenderá ni estará airado para siempre y promete sanar y consolar, pero el mismo pasaje termina declarando que no hay paz para los malvados (Isaías 57:16-21). Miqueas celebra que Dios no retiene para siempre su ira, perdona al remanente de su heredad y mantiene su fidelidad a Jacob y Abraham (Miqueas 7:18-20). Estos textos refuerzan un patrón de misericordia que puede seguir al juicio sobre el pueblo del pacto; no identifican a cada persona juzgada con quienes reciben después esa misericordia ni hablan por sí solos de restauración después de la muerte.
+
+## 57. ¿Incluye la restauración futura de Israel un gobierno renovado?
 
 Sí. Los profetas no imaginan solamente un pueblo reunido y una tierra recuperada, sino también un gobierno fiel. Jeremías anuncia que Dios levantará para David un descendiente justo que reinará con justicia (Jeremías 23:5-6; 33:14-17), y Ezequiel dice que, cuando Israel vuelva a ser un solo pueblo, “mi siervo David” será su rey y pastor (Ezequiel 37:22-25). El lenguaje no obliga por sí solo a entender que el propio David volverá literalmente a gobernar; puede referirse a un futuro rey de su línea. Para nuestro recorrido basta con una conclusión más sencilla: la restauración prometida incluye también un gobierno renovado bajo Dios.
 
-## 55. ¿Qué nos enseña entonces la restauración de Israel sobre el juicio de Dios?
+## 58. ¿Qué nos enseña entonces la restauración de Israel sobre el juicio de Dios?
 
 Nos enseña que un juicio histórico severo sobre un pueblo no tiene que significar el final del propósito de Dios para ese pueblo. Israel puede perder la tierra, sufrir derrota, ver destruida Jerusalén y ser llevado al exilio, y aun así Dios puede prometer reunirlo, devolverle bienes perdidos y transformar su relación con él (Deuteronomio 30:1-6; Jeremías 30:1-3; 31:31-37; Ezequiel 36:16-27). La severidad de un juicio no basta por sí sola para demostrar que, en el caso de Israel, todo propósito posterior de Dios ha terminado. Ésa es una conclusión real, pero limitada al patrón que acabamos de estudiar.
 
-## 56. ¿Podemos convertir lo ocurrido con Israel en una regla para todos los juicios de Dios?
+## 59. ¿Podemos convertir lo ocurrido con Israel en una regla para todos los juicios de Dios?
 
 No. Que un juicio concreto haya sido seguido por restauración no demuestra que todos los juicios de Dios tengan necesariamente ese resultado. El caso de Israel nos obliga a no inferir irreversibilidad solamente de la severidad del juicio, pero tampoco permite convertir un patrón particular en una regla universal. Cada juicio tendrá que ser estudiado en su propio contexto y por lo que sus textos realmente afirman.
 
-## 57. ¿Han desaparecido las demás naciones del horizonte mientras la historia se concentra en Israel?
+## 60. ¿Puede alguien rechazar la restauración universal y aceptar todo este recorrido?
+
+Sí. Un aniquilacionista puede afirmar que Dios preserva un remanente, restaura a un pueblo y cumple su propósito mediante sobrevivientes y descendientes, mientras sostiene que algunos individuos rebeldes mueren definitivamente. Quien defiende el tormento consciente sin fin también puede aceptar la misericordia histórica y la restauración nacional, pero distinguirlas del destino final de ciertos individuos. Este capítulo todavía no ha examinado los textos sobre el juicio final y, por tanto, no refuta ninguna de esas posiciones. Su conclusión más modesta es que la severidad de un juicio histórico no demuestra por sí sola que el propósito de Dios hacia el pueblo juzgado haya terminado.
+
+## 61. ¿Han desaparecido las demás naciones del horizonte mientras la historia se concentra en Israel?
 
 No. Desde el llamado de Abraham, las demás familias de la tierra aparecen vinculadas con la bendición prometida (Génesis 12:1-3). Más adelante, Deuteronomio afirma que la obediencia de Israel podía hacer visible su sabiduría ante otros pueblos, y Moisés relaciona esa singularidad con la cercanía de Dios y la justicia de sus leyes (Deuteronomio 4:5-8). Esto todavía no nos dice hasta dónde llegará esa bendición, cuántas personas abarcará ni qué ocurrirá finalmente con las naciones que se vuelven enemigas de Israel. Sólo establece que las naciones no desaparecen del horizonte bíblico.
 
-## 58. ¿Qué podemos afirmar al terminar este recorrido?
+## 62. ¿Qué podemos afirmar al terminar este recorrido?
 
-El Antiguo Testamento comienza con una creación que Dios considera buena y muestra después cómo el pecado rompe relaciones, se extiende en violencia y lleva a juicios reales y devastadores. Esos juicios no producen automáticamente arrepentimiento. En la historia de Israel, el exilio tampoco significa el fin del propósito de Dios para el pueblo: Dios promete reunirlo, devolverle bienes perdidos y actuar sobre su corazón (Deuteronomio 30:1-6; Jeremías 31:31-37; Ezequiel 36:22-27). Esto demuestra que un juicio histórico severo puede ser seguido por la restauración del pueblo y que esa restauración puede incluir una acción transformadora de Dios sobre quienes participan de ella. No demuestra que cada persona juzgada sea después restaurada, que cada israelita sea finalmente transformado ni que todo juicio termine del mismo modo. Las demás naciones, sin embargo, siguen dentro del horizonte abierto por la promesa a Abraham. Su alcance será la cuestión del siguiente capítulo.
+El Antiguo Testamento comienza con una creación que Dios considera buena y muestra después cómo el pecado rompe relaciones, se extiende en violencia y lleva a juicios reales y devastadores. A lo largo del recorrido, Dios también preserva vida, vuelve a llamar, establece y renueva pactos, restaura a un pueblo y promete actuar sobre su corazón. En este recorrido bíblico, queda establecido que Dios puede juzgar a un pueblo y después restaurarlo; teológicamente, eso significa que el juicio no siempre es su última acción hacia el mismo pueblo como realidad colectiva. Este patrón permite preguntar si otros juicios también podrían ser penúltimos y hace peligroso confundir severidad con finalidad antes de examinar cada texto. No permite concluir que cada persona juzgada será restaurada, que los muertos bajo juicio volverán necesariamente a Dios ni que todo juicio terminará del mismo modo. Las demás naciones siguen dentro del horizonte abierto por la promesa a Abraham, pero todavía no sabemos hasta dónde alcanza esa esperanza. Ésa será la cuestión del siguiente capítulo.
