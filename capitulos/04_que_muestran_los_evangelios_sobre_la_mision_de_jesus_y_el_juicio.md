@@ -2,7 +2,9 @@
 
 ## 1. ¿Qué anuncia Jesús cuando comienza su misión?
 
-Jesús comienza anunciando que el reino de Dios se ha acercado y llama a las personas a cambiar de corazón y creer en la buena noticia (Marcos 1:14-15; Mateo 4:17). Lucas también presenta el anuncio del reino como una parte central de la misión de Jesús (Lucas 4:43). Esto establece el punto de partida: Dios está actuando de una manera nueva y decisiva, y las personas deben responder. Todavía no sabemos qué ocurrirá finalmente con quienes acepten o rechacen ese llamado.
+Jesús comienza anunciando que el reino de Dios se ha acercado y llama a las personas a cambiar de corazón y creer en la buena noticia (Marcos 1:14-15; Mateo 4:17). Lucas presenta su misión con el lenguaje de Isaías: buena noticia para los pobres, libertad para cautivos, vista para ciegos y liberación para oprimidos; después resume que debe anunciar el reino también en otras ciudades (Lucas 4:16-21, 43). Dios está actuando de una manera nueva y decisiva, y las personas deben responder.
+
+Para no pedir a cada texto más de lo que dice, distinguiremos cuatro preguntas. Una escena puede referirse al ministerio histórico de Jesús, a un juicio histórico como la caída de Jerusalén, al juicio escatológico en el fin de la era o al destino definitivo de quien recibe ese juicio. Los Evangelios permiten avanzar mucho en las tres primeras. Este capítulo no supondrá que una llamada o un juicio histórico decide por sí solo la cuarta, pero tampoco convertirá una separación explícitamente escatológica en una simple referencia al año 70. La cuestión del destino definitivo después del juicio quedará para el capítulo siguiente.
 
 ## 2. ¿A quién dirige Jesús primero su misión?
 
@@ -64,7 +66,7 @@ No. Amar a alguien no significa aprobar su mal ni dejar sin respuesta el daño q
 
 ## 16. ¿Qué hace Jesús con la lógica de llevar cuentas en el perdón y la generosidad?
 
-Cuando Pedro pregunta cuántas veces debe perdonar, Jesús rechaza la idea de llevar una cuenta pequeña y limitada (Mateo 18:21-22). Su respuesta de «setenta veces siete» o «setenta y siete», según cómo se entienda la expresión, probablemente evoca Génesis 4:24, donde Lamec multiplica la venganza. Jesús invierte esa lógica: en vez de multiplicar la represalia, multiplica el perdón. Esto no significa que la reconciliación ocurra sin arrepentimiento ni que todo castigo desaparezca, pero sí importa para entender qué clase de Padre deben imitar quienes siguen a Jesús.
+Cuando Pedro pregunta cuántas veces debe perdonar, Jesús rechaza la idea de llevar una cuenta pequeña y limitada (Mateo 18:21-22). Su respuesta de «setenta veces siete» o «setenta y siete», según cómo se entienda la expresión, puede evocar Génesis 4:24, donde Lamec multiplica la venganza. Si la alusión es intencional, Jesús invierte esa lógica: en vez de multiplicar la represalia, multiplica el perdón. La conexión es plausible, no segura. Esto no significa que la reconciliación ocurra sin arrepentimiento ni que todo castigo desaparezca, pero sí importa para entender qué clase de Padre deben imitar quienes siguen a Jesús.
 
 Mateo presenta una inversión parecida en la parábola de los trabajadores de la viña. Quienes llegaron primero se indignan porque el dueño da a los últimos la misma paga y él responde: «¿es malo tu ojo porque yo soy bueno?» (Mateo 20:1-16). La imagen del «ojo malo» expresa una mirada envidiosa ante la generosidad: nadie recibió menos de lo acordado, pero la bondad hacia el último parece injusta a quien piensa en términos de mérito y comparación. **La parábola no enseña que todos recibirán finalmente el mismo destino, pero sí muestra que la generosidad de Dios puede resultar ofensiva precisamente cuando alcanza a quien consideramos menos merecedor.**
 
@@ -83,8 +85,6 @@ No. Jesús dice a algunos de sus oyentes: «no quieren venir a mí para tener vi
 Marcos desarrolla además el tema de ver y no comprender. En las parábolas aparece un aspecto real de juicio: algunos ven sin percibir y oyen sin entender (Marcos 4:10-12). Pero los propios discípulos tampoco entienden la parábola del sembrador y necesitan que Jesús se la explique; más adelante Marcos dice que Jesús enseñaba a la gente «según podían oír» (Marcos 4:13, 33-34). La escena no divide simplemente a la humanidad entre quienes pueden comprender y quienes serán incapaces para siempre. Muestra grados reales de comprensión y una enseñanza que continúa.
 
 Ese patrón se vuelve especialmente visible en Marcos 8. Después de preguntar a los discípulos «¿teniendo ojos no ven?» y reprocharles que todavía no comprendan (Marcos 8:17-21), Jesús sana a un ciego en dos etapas: primero ve de manera borrosa y después con claridad (Marcos 8:22-26). Inmediatamente después, Pedro reconoce correctamente que Jesús es el Mesías, pero rechaza la idea de que deba sufrir (Marcos 8:27-33). La ubicación de la curación hace plausible verla también como una imagen narrativa de los discípulos: han empezado a ver, pero todavía ven de manera incompleta. No necesitamos convertir el milagro en una alegoría para reconocer el patrón.
-
-Juan ofrece otro ejemplo desde otra dirección. En Betesda, Jesús sana a un hombre que después todavía no sabe quién lo ha sanado (Juan 5:1-13). La iniciativa de Jesús precede a una comprensión plena de su identidad: la ayuda no espera una confesión doctrinal completa. Esto no equivale a salvación escatológica ni muestra que la fe sea irrelevante, pero sí muestra que la acción vivificadora de Jesús puede comenzar antes de que una persona comprenda plenamente quién es él.
 
 Nada de esto demuestra que toda persona terminará comprendiendo o creyendo. Sí muestra que una respuesta presente, incluso una comprensión seriamente defectuosa, no tiene que describir necesariamente el estado final de una persona.
 
@@ -122,11 +122,11 @@ No. Mateo 11 muestra que otras circunstancias habrían producido otra respuesta 
 
 ## 28. ¿Puede resistirse aquello que Jesús quiere hacer?
 
-Sí, al menos durante un tiempo real. Jesús lamenta sobre Jerusalén: quiso reunir a sus hijos como un ave reúne a sus crías, pero ellos no quisieron (Mateo 23:37-39; Lucas 13:34-35). La voluntad de Jesús y la resistencia de Jerusalén aparecen juntas. Esto impide pensar que todo deseo salvador de Dios se cumple de inmediato.
+Sí, de manera real en la escena. Jesús lamenta sobre Jerusalén: quiso reunir a sus hijos como un ave reúne a sus crías, pero «ustedes no quisieron» (Mateo 23:37-39; Lucas 13:34-35). La voluntad de Jesús y una negativa humana aparecen juntas. La negativa está en plural y no debe identificarse sin argumento con cada uno de los «hijos» que Jesús quiso reunir. El pasaje impide pensar que todo deseo salvador de Dios se cumple de inmediato, pero no explica por sí solo cómo termina esa resistencia.
 
-## 29. ¿Termina el lamento sobre Jerusalén con un simple «nunca»?
+## 29. ¿Promete el «hasta que» una conversión futura de Jerusalén?
 
-No. Jesús anuncia desolación, pero añade que no lo verán «hasta» que digan: «Bendito el que viene en nombre del Señor» (Mateo 23:38-39; Lucas 13:35). Ese «hasta» deja un horizonte posterior, pero habla de Jerusalén de manera colectiva y no promete la salvación final de cada persona que lo rechazó. Es una apertura real, no una demostración universalista.
+No. Jesús se dirige a Jerusalén en singular, quiere reunir a «tus hijos» y luego dice en plural «ustedes no quisieron» (Mateo 23:37-39; Lucas 13:34-35). La ciudad personificada, sus habitantes y posiblemente sus dirigentes no deben fundirse sin más en un solo sujeto individual. La construcción griega «hasta que» (*heōs an* con subjuntivo) pone un límite futuro y condicional a «no me verán»: hasta que digan «Bendito el que viene en nombre del Señor». Puede anticipar un reconocimiento futuro de Jesús, a menudo relacionado con su venida, pero la construcción por sí sola no promete que ocurra, y reconocer al que viene no equivale necesariamente a arrepentirse ni a ser reconciliado. El texto no termina en un simple «nunca», pero tampoco promete la salvación de quienes se resistieron.
 
 ## 30. ¿Qué significa que Jesús ate al «hombre fuerte»?
 
@@ -142,7 +142,7 @@ No. Que Satanás sea vencido no demuestra por sí solo que todos los seres human
 
 ## 33. ¿Qué significa que «toda carne verá la salvación de Dios»?
 
-Lucas introduce la misión de Juan el Bautista con la promesa de Isaías de que «toda carne verá la salvación de Dios» (Lucas 3:4-6). La expresión es deliberadamente amplia y muestra que la obra de Dios no quedará encerrada en Israel. Pero «ver» la salvación no significa necesariamente que cada individuo participe finalmente de ella. El mismo capítulo pasa enseguida a hablar de arrepentimiento y juicio.
+Lucas prolonga la cita de Isaías hasta la promesa de que «toda carne verá la salvación de Dios» (Lucas 3:4-6; Isaías 40:3-5). Al incluir esa línea, sitúa la misión de Juan y de Jesús en un horizonte público que alcanza más allá de Israel. Pero «toda carne» puede designar a la humanidad en conjunto, y «ver» la salvación no significa necesariamente que cada individuo participe finalmente de ella. El mismo capítulo pasa enseguida a hablar de arrepentimiento y juicio.
 
 ## 34. ¿Qué ocurre con el árbol que no da fruto?
 
@@ -150,7 +150,7 @@ Juan el Bautista advierte que todo árbol que no produzca buen fruto será corta
 
 ## 35. ¿Qué significa que Jesús bautizará con Espíritu Santo y fuego?
 
-Juan dice que él bautiza con agua, pero que el que viene bautizará «con Espíritu Santo y fuego» (Mateo 3:11; Lucas 3:16). El Espíritu puede expresar la obra renovadora de Dios, mientras que el fuego puede expresar juicio. También es posible que ambos formen parte de una misma obra de limpieza. Marcos conserva la promesa del bautismo con Espíritu, pero no menciona el fuego en esa frase (Marcos 1:8). Por eso el contexto de Mateo y Lucas debe ayudarnos a entender qué función tiene allí el fuego.
+Juan dice que él bautiza con agua, pero que el que viene bautizará «con Espíritu Santo y fuego» (Mateo 3:11; Lucas 3:16). El Espíritu puede expresar la obra renovadora de Dios y el fuego, el juicio. Algunos entienden ambos como aspectos de una misma obra de limpieza, pero la explicación inmediata distingue trigo guardado de paja quemada. Por eso, en Mateo y Lucas, no es seguro llamar purificador al fuego que recibe la paja. Marcos conserva la promesa del bautismo con Espíritu, pero no menciona el fuego en esa frase (Marcos 1:8).
 
 ## 36. ¿Qué aclara la imagen del trigo y la paja?
 
@@ -158,15 +158,15 @@ Juan explica que el Mesías limpiará su era, recogerá el trigo en el granero y
 
 ## 37. ¿Qué significa que el fuego de la paja no pueda apagarse?
 
-Un fuego que nadie puede apagar es un fuego cuyo trabajo nadie puede detener (Mateo 3:12; Lucas 3:17). Eso no exige que el fuego siga ardiendo para siempre después de consumir aquello que quema. En esta imagen, precisamente, la paja es quemada. Por tanto, el texto favorece con naturalidad una destrucción completa, pero no demuestra por sí solo una teoría de inexistencia eterna.
+La expresión griega *pyr asbestos* significa un fuego que no puede ser apagado. En antecedentes proféticos, un fuego inextinguible puede consumir Jerusalén o un bosque sin que la imagen exija llamas que sigan ardiendo después de terminada la destrucción (Jeremías 7:20; 17:27; Ezequiel 20:47-48). En la imagen de Juan, nadie puede detener el fuego antes de que queme la paja (Mateo 3:12; Lucas 3:17). Hay que distinguir la duración del fuego de la permanencia de su resultado. El texto favorece con naturalidad una destrucción completa, pero no demuestra por sí solo una teoría de inexistencia irreversible.
 
 ## 38. ¿Anuncia Jesús también un juicio histórico sobre Jerusalén?
 
-Sí. En Marcos 13 el discurso comienza cuando Jesús anuncia que el templo será destruido y los discípulos preguntan cuándo ocurrirá y qué señal anunciará su cumplimiento (Marcos 13:1-4). Más adelante Jesús afirma que «esta generación» no pasará hasta que ocurran «todas estas cosas» (Marcos 13:30). El punto de partida más natural es, por tanto, que una parte importante del discurso se refiere al juicio que alcanzó a Jerusalén y al templo en el siglo I.
+Sí. Los tres discursos comienzan con el anuncio de la destrucción del templo (Marcos 13:1-4; Mateo 24:1-3; Lucas 21:5-7). Lucas hace especialmente visible el horizonte histórico: habla de Jerusalén rodeada por ejércitos, de habitantes muertos o llevados cautivos y de la ciudad pisoteada por las naciones (Lucas 21:20-24). Marcos y Mateo conservan señales y una huida desde Judea. Además, «esta generación» no pasará antes de que ocurran «todas estas cosas» (Marcos 13:30; Mateo 24:34; Lucas 21:32). Una parte importante de los discursos se refiere, por tanto, al juicio que alcanzó a Jerusalén y al templo en el siglo I.
 
-Esto no obliga a tomar literalmente cada imagen cósmica. Los profetas del Antiguo Testamento podían hablar del sol oscurecido, de estrellas que caen o de conmoción de los cielos al describir el juicio histórico de Dios sobre reinos y naciones. Ese trasfondo hace posible que parte del lenguaje de Marcos 13 funcione de la misma manera. Sin embargo, existe una discusión real sobre si las palabras acerca del Hijo del Hombre y la reunión de los elegidos (Marcos 13:24-27) se refieren todavía a ese juicio histórico, a la venida final de Cristo o unen ambos horizontes. Por eso no debemos reducir todo Marcos 13 al año 70.
+Los Evangelios, sin embargo, no formulan cada parte de la misma manera y no debemos armonizarlos a la fuerza. Los profetas podían describir juicios históricos con el sol oscurecido, estrellas cayendo y cielos conmovidos. Ese trasfondo permite leer parte del lenguaje cósmico como imagen profética del año 70. Pero las palabras sobre la venida del Hijo del Hombre y la reunión de los elegidos pueden entenderse como la reivindicación histórica de Jesús, como su venida final o como una superposición de ambos horizontes (Marcos 13:24-27; Mateo 24:29-31; Lucas 21:25-28). La caída del templo es segura; el alcance de esas escenas finales sigue discutido.
 
-La conclusión más segura es más limitada: Jesús sí usa lenguaje profético y apocalíptico para hablar de un juicio histórico real sobre Jerusalén. Por eso no debemos convertir automáticamente cada advertencia o imagen cósmica de los Evangelios en una descripción del destino después de la muerte; primero hay que preguntar qué horizonte tiene cada texto.
+La conclusión más rigurosa evita dos extremos: no todo es necesariamente el año 70 y no todo es una descripción del fin del mundo. Jesús usa lenguaje profético y apocalíptico para un juicio histórico real sobre Jerusalén, y algunas partes pueden mirar además a la consumación. Ninguna de las dos lecturas determina por sí sola el destino definitivo de quienes mueren en el juicio.
 
 ## 39. ¿Significa eso que Gehena y todas las advertencias de fuego hablan sólo de la destrucción de Jerusalén?
 
@@ -186,7 +186,7 @@ Después de advertir sobre perecer, Jesús cuenta una historia en la que el due�
 
 ## 43. ¿La palabra «perecer» significa siempre lo mismo?
 
-No. La palabra griega puede significar morir, ser destruido, perder algo o quedar perdido, según el contexto. En Lucas 13, el contexto inmediato es la muerte; en Lucas 15, la misma familia de palabras se usa de una oveja y un hijo que estaban perdidos y luego fueron encontrados. Juan 3:16 la usa en contraste con recibir vida. Por eso el contexto de cada pasaje, y no una sola definición, debe decidir el sentido.
+No. La palabra griega *apollymi* puede describir muerte, destrucción, pérdida o una condición de extravío, según lo que le ocurra al sujeto en cada escena. En Lucas 13, personas mueren bajo la violencia o una torre; en Lucas 15, una oveja, una moneda y un hijo están perdidos y después son recuperados. En Mateo 10:28 el verbo tiene por objeto a la persona entera, «alma y cuerpo», en Gehena. Mateo 7:13 usa el sustantivo relacionado *apōleia* en contraste con la vida. La variedad no permite suavizar todos los usos como «estar perdido» ni endurecer todos como «dejar de existir»; el contexto decide.
 
 ## 44. ¿Qué significa perder la propia vida?
 
@@ -194,35 +194,37 @@ Jesús dice que quien quiera salvar su vida la perderá, mientras que quien la p
 
 ## 45. ¿Habla Jesús de una destrucción que va más allá de la muerte física?
 
-Sí. Jesús dice que no hay que temer principalmente a quienes pueden matar el cuerpo, sino a Dios, que puede destruir «alma y cuerpo» en Gehena (Mateo 10:28). La palabra favorece una imagen real de destrucción del ser humano entero. Pero el versículo no explica si esa destrucción significa dejar de existir para siempre, una ruina total de otra clase o algo que Dios podría revertir después. Esa última posibilidad necesitaría evidencia de otros textos, no del verbo mismo.
+Sí. Jesús contrasta a quienes matan el *sōma* —el cuerpo— pero no pueden matar la *psychē* con aquel que puede destruir *psychē* y *sōma* en Gehena (Mateo 10:28). Aquí *psychē* puede designar la vida o el yo que la muerte humana no agota; el versículo no pretende demostrar por sí solo una «alma inmortal» separada del cuerpo. Su afirmación principal es más severa: Dios puede destruir al ser humano entero. Éste es uno de los textos evangélicos más fuertes para la lectura aniquilacionista, porque «destruir» no debe rebajarse a una mera pérdida recuperable. El versículo, sin embargo, no añade las palabras «inexistencia irreversible para siempre». La posibilidad de una reversión posterior tampoco aparece en la escena y tendría que probarse en otra parte.
 
 ## 46. ¿Qué era Gehena?
 
-Gehena era el nombre del valle de Hinom, junto a Jerusalén. En el Antiguo Testamento quedó ligado a idolatría, sacrificios de niños, cadáveres y juicio de Dios (2 Reyes 23:10; Jeremías 7:30-33; 19:1-13). Con el tiempo, su nombre llegó a usarse también como imagen del juicio divino. Por eso los oyentes de Jesús escuchaban una palabra cargada de muerte y condena, no simplemente nuestro concepto moderno de «infierno».
+Gehena —en griego, *geenna*— procede del valle de Hinom, junto a Jerusalén. Allí se practicaron cultos condenados, incluido el sacrificio de niños, y Josías profanó el lugar (2 Reyes 23:10). Jeremías anuncia que el valle sería llamado «valle de la Matanza» y quedaría lleno de cadáveres bajo el juicio de Dios (Jeremías 7:30-33; 19:1-13). Isaías termina con la visión de cadáveres de rebeldes consumidos por gusano y fuego (Isaías 66:24), imagen que Marcos enlaza con Gehena.
+
+No existe evidencia histórica temprana suficiente para repetir la explicación popular de que, en tiempos de Jesús, Gehena era el basurero municipal de Jerusalén mantenido continuamente en llamas. El trasfondo seguro es el valle bíblico de idolatría, matanza, cadáveres y juicio. Algunas fuentes judías desarrollan después imágenes de castigo vinculadas con Gehena, pero no todas son anteriores a Jesús ni describen una doctrina uniforme. No debemos importar sin más un esquema rabínico tardío a cada uso evangélico.
 
 ## 47. ¿La Gehena de Jesús va más allá de un lugar histórico?
 
-Sí parece ir más allá. Jesús habla de que Dios puede arrojar a una persona allí después de que otros hayan matado el cuerpo (Mateo 10:28; Lucas 12:4-5). También contrapone Gehena con entrar en la vida o en el reino (Marcos 9:43-48). Por tanto, reducir Gehena a un nombre para la destrucción de Jerusalén no explica todos los textos.
+Sí parece ir más allá. Mateo usa Gehena al advertir sobre ira, deseo, tropiezo, falsa enseñanza y condena (Mateo 5:22, 29-30; 10:28; 18:9; 23:15, 33). Marcos la contrapone con entrar en la vida o en el reino (Marcos 9:43-48), y Lucas manda temer a quien puede arrojar allí después de la muerte física (Lucas 12:4-5). Algunos dichos pueden conservar ecos del juicio histórico sobre Jerusalén, pero Mateo 10:28 y Marcos 9 no quedan explicados si Gehena se reduce al año 70. En los Evangelios funciona como imagen de un juicio divino que puede alcanzar a la persona más allá de lo que hacen sus verdugos humanos.
 
 ## 48. ¿Qué significa el gusano que no muere y el fuego que no se apaga?
 
-Jesús toma esa imagen de Isaías 66:24, donde gusanos y fuego consumen cadáveres de rebeldes (Marcos 9:43-48). Allí, lo que no se detiene son los agentes de la destrucción. Esto no demuestra por sí solo un sufrimiento consciente sin fin. Pero tampoco debemos suponer que Jesús usa la imagen exactamente igual que Isaías en cada detalle; su advertencia sigue siendo una imagen terrible de juicio.
+Jesús toma la frase de Isaías 66:24, donde gusanos y fuego actúan sobre cadáveres de rebeldes (Marcos 9:43-48). En el texto crítico, la cita aparece una vez, en el versículo 48; las repeticiones de los versículos 44 y 46 pertenecen a la tradición manuscrita posterior. El trasfondo de Isaías impide presentar la cita como una descripción directa de personas conscientes sufriendo eternamente: allí, los agentes de destrucción no son detenidos. Marcos, sin embargo, intensifica y aplica personalmente la advertencia. Contrapone ser arrojado a Gehena con entrar en la vida o en el reino y añade que el gusano no muere y el fuego no se apaga. Por eso no puede reducirse sin más a cadáveres del año 70. La escena enseña un juicio escatológico terrible; por sí sola no decide si la conciencia ni el fuego duran sin fin.
 
 ## 49. ¿Significa que «todos serán salados con fuego» que el fuego de Gehena purifica?
 
-Puede ser una pista, pero no una prueba. Marcos conecta la frase «todos serán salados con fuego» con las advertencias anteriores sobre Gehena y añade que la sal es buena (Marcos 9:49-50). La sal puede sugerir limpieza, preservación o disciplina. Sin embargo, el pasaje es difícil y no dice que una persona salga de Gehena después de ser purificada. La posibilidad queda abierta; la restauración no queda demostrada.
+No podemos sostenerlo con seguridad. El texto crítico breve dice: «todos serán salados con fuego» (Marcos 9:49). Otros manuscritos añaden una frase sobre que «todo sacrificio será salado con sal», probablemente por la relación con Levítico 2:13. Aun en la forma breve, no está claro cómo se relacionan fuego, sal, sacrificio, prueba, disciplina y purificación. El versículo siguiente —«tengan sal en ustedes y estén en paz»— se dirige a los discípulos, mientras que la cercanía de Gehena mantiene presente el juicio. Marcos no dice que quienes son arrojados a Gehena salgan después purificados. Por su dificultad textual y exegética, el versículo no puede cargar peso doctrinal a favor de la restauración universal.
 
 ## 50. ¿Qué significa la expresión «fuego eterno»?
 
-La palabra que suele traducirse «eterno» puede relacionar algo con la era futura de Dios y también puede expresar una duración sin fin. Los diccionarios griegos estándar reconocen ese sentido fuerte en muchos textos de juicio. Por eso no podemos volver temporal el fuego sólo por una definición de la palabra. El contexto debe decidir cuánto peso tiene la idea de duración (Mateo 18:8; 25:41).
+La palabra que suele traducirse «eterno» puede relacionar algo con la era futura de Dios y, según el contexto, puede expresar una duración sin fin. Por eso no podemos volver temporal el fuego mediante una sola definición, ni demostrar sólo con el adjetivo todo lo que le ocurre a quien lo recibe (Mateo 18:8; 25:41). Mateo 25:46 y el peso preciso de *aiōnios* requieren un examen conjunto que pertenece al capítulo siguiente.
 
 ## 51. ¿Qué enseña el camino ancho y el camino estrecho?
 
-Jesús dice que el camino que lleva a la destrucción es ancho y muchos van por él, mientras que el camino que lleva a la vida es estrecho y pocos lo encuentran (Mateo 7:13-14). La advertencia es fuerte y muestra que no todos están entrando en la vida ahora. Pero no dice por sí sola cuántos permanecerán perdidos para siempre ni si la situación de una persona puede cambiar después.
+Jesús dice que el camino que lleva a la *apōleia* —destrucción o ruina— es ancho y muchos entran por él, mientras que el camino que lleva a la vida es estrecho y pocos lo encuentran (Mateo 7:13-14). La exhortación se dirige a una decisión presente, pero los destinos nombrados son vida y destrucción. Dentro de la escena, el contraste es terminal y no se ofrece una etapa posterior. El texto no define el mecanismo de esa destrucción ni sirve como estadística matemática del número definitivo de salvados.
 
 ## 52. ¿Dice Mateo que finalmente sólo unos pocos serán salvados?
 
-Mateo 7 dice que pocos encuentran el camino a la vida, pero la frase está dirigida a oyentes que deben decidir cómo vivir ahora (Mateo 7:13-14). Más adelante Mateo también habla de muchos invitados, personas de otras naciones y una misión mundial. Por eso el texto no debe convertirse en una estadística exacta del número final de salvados, aunque sí advierte que el camino de la vida no es el camino que la mayoría está siguiendo.
+Mateo 7 dice que pocos encuentran el camino a la vida y muchos entran por el que lleva a destrucción (Mateo 7:13-14). Más adelante Mateo también habla de personas de todas las naciones y de una misión mundial. Esos textos impiden convertir «muchos» y «pocos» en porcentajes exactos, pero no anulan la advertencia: el camino de la vida no es el que sigue la mayoría de los oyentes en la escena.
 
 ## 53. ¿Qué responde Jesús cuando en Lucas le preguntan si son pocos los que se salvan?
 
@@ -230,7 +232,7 @@ Jesús no da una cifra. Dice que se esfuercen por entrar, advierte que habrá pe
 
 ## 54. ¿Importa que Lucas haya hablado justo antes de una semilla y de una levadura que crecen?
 
-Sí como contexto, aunque no como prueba de universalismo. Antes de la pregunta sobre los pocos, Jesús compara el reino con una semilla que crece y con levadura que actúa hasta fermentar toda la masa (Lucas 13:18-21). Estas imágenes hablan de la expansión del reino, no del destino individual de cada persona. Pero ayudan a ver que Lucas no presenta el reino como una realidad destinada a permanecer pequeña.
+Sí como contexto, aunque no como prueba de universalismo. Antes de la pregunta sobre los pocos, Jesús compara el reino con una semilla que crece y con levadura que actúa hasta fermentar toda la masa (Lucas 13:18-21). Estas imágenes hablan de la expansión del reino, no del destino individual de cada persona. Ayudan a ver que el reino no permanecerá pequeño, pero no refutan la puerta cerrada que aparece inmediatamente después.
 
 ## 55. ¿Qué significa que Jesús diga a algunos: «Nunca los conocí; apártense de mí»?
 
@@ -238,7 +240,7 @@ Jesús advierte que no basta llamarlo «Señor» ni realizar obras religiosas im
 
 ## 56. ¿Qué significa que una puerta llegue a cerrarse?
 
-En Lucas, el dueño de la casa cierra la puerta y personas que quedaron afuera piden entrar, pero no son recibidas (Lucas 13:24-30). Dentro de la historia, la puerta cerrada marca un momento real de pérdida. Jesús no presenta la escena como una amenaza vacía. Tampoco explica allí todo lo que ocurre con esas personas después.
+En Lucas, el dueño de la casa cierra la puerta y personas que quedaron afuera piden entrar, pero no son recibidas (Lucas 13:24-30). Allí lloran y rechinan los dientes mientras otros llegan de los cuatro puntos cardinales y se sientan en el reino. Dentro de la historia, la exclusión es terminal: Jesús no presenta una reapertura ni una amenaza vacía. La escena no desarrolla una doctrina completa del destino posterior, pero esa ausencia no autoriza a inventar una salida.
 
 ## 57. ¿Qué añade la puerta cerrada de las diez vírgenes?
 
@@ -246,11 +248,11 @@ Mateo repite la misma clase de advertencia: llega el novio, unas vírgenes entra
 
 ## 58. ¿Qué significa «muchos son llamados, pero pocos escogidos»?
 
-Jesús cierra la parábola del banquete de bodas con esa frase después de mostrar una invitación amplia y también una expulsión (Mateo 22:1-14). No es necesario leerla como una cifra exacta sobre toda la humanidad. Sí expresa que ser llamado no equivale automáticamente a participar finalmente de la fiesta; la respuesta y la preparación importan.
+La parábola reúne varios horizontes (Mateo 22:1-14). Los primeros invitados rechazan al rey y maltratan a sus mensajeros; el rey destruye a los asesinos y quema su ciudad, una alusión plausible al juicio histórico sobre Jerusalén. Después la invitación alcanza a personas «malas y buenas» de los caminos, pero un invitado sin vestido de boda es expulsado a las tinieblas. La historia de Israel, la ampliación de la invitación y una advertencia escatológica aparecen juntas. «Muchos son llamados, pero pocos escogidos» no ofrece una cifra sobre toda la humanidad, pero sí niega que recibir la invitación garantice participar de la fiesta.
 
 ## 59. ¿Qué añade el gran banquete de Lucas?
 
-En Lucas, los primeros invitados rechazan la cena, pero el señor manda traer a pobres, marginados y personas de los caminos porque quiere que su casa se llene (Lucas 14:15-24). La imagen tiene una amplitud notable: todavía hay lugar y el dueño quiere una casa llena. Pero también afirma que quienes rechazaron la invitación no probarán aquella cena. La expansión del banquete y la exclusión aparecen juntas.
+En Lucas, los primeros invitados rechazan la cena, pero el señor manda traer a pobres, personas con discapacidad y gente de los caminos porque quiere que su casa se llene (Lucas 14:15-24). La parábola trata ante todo de inversión, inclusión inesperada y rechazo de la invitación al reino, no de trazar un mapa completo del estado después de la muerte. Sus dos afirmaciones deben conservarse juntas: el dueño quiere una casa llena, y quienes rechazaron la invitación no probarán aquella cena.
 
 ## 60. ¿Qué son las «tinieblas exteriores»?
 
@@ -258,7 +260,7 @@ Jesús usa esta imagen para hablar de quedar fuera de la celebración del reino 
 
 ## 61. ¿Qué significa el «llanto y rechinar de dientes»?
 
-Jesús usa esta expresión para describir la reacción de quienes descubren que quedaron afuera (Mateo 8:12; 13:42, 50; Lucas 13:28). El llanto expresa dolor; el rechinar de dientes puede expresar angustia o enojo. La frase muestra sufrimiento consciente en la escena, pero no dice cuánto dura ni qué ocurre después.
+Jesús usa esta expresión para describir la reacción de quienes descubren que quedaron afuera (Mateo 8:12; 13:42, 50; 22:13; 24:51; 25:30; Lucas 13:28). El llanto expresa dolor; el rechinar de dientes puede expresar angustia o enojo. Es evidencia real de sufrimiento consciente dentro de las escenas, no una simple metáfora de inconsciencia instantánea. Pero conciencia en el juicio, duración prolongada y duración interminable son afirmaciones distintas; la fórmula no establece por sí sola las dos últimas.
 
 ## 62. ¿Qué enseña la parábola de la cizaña sobre el fin de la era?
 
@@ -270,7 +272,7 @@ Jesús repite la misma estructura con una red que recoge peces de toda clase. Al
 
 ## 64. ¿Qué enseñan las comparaciones con Noé y Lot?
 
-Jesús compara la llegada del juicio con los días de Noé y con la destrucción de Sodoma (Mateo 24:37-39; Lucas 17:26-30). La vida cotidiana continúa hasta que llega de repente una catástrofe que separa y destruye. Estas historias subrayan sorpresa, urgencia y pérdida real. No ofrecen por sí mismas una descripción completa de lo que sucede después de ese juicio.
+Jesús compara la llegada del juicio con los días de Noé y con la destrucción de Sodoma (Mateo 24:37-39; Lucas 17:26-30). La vida cotidiana continúa hasta que llega de repente una catástrofe que separa y destruye. Las comparaciones subrayan sorpresa, urgencia, destrucción y separación. Dentro de ellas, las víctimas no reaparecen restauradas. Pero Jesús no importa en la comparación una doctrina completa del destino después de la muerte de quienes perecieron.
 
 ## 65. ¿Debemos tomar literalmente cada detalle violento de las parábolas de juicio?
 
@@ -288,6 +290,14 @@ Un lugar central. El rico de Lucas 16 ignora a Lázaro en su puerta, y Mateo 25 
 
 No. Las obras importan porque muestran qué clase de respuesta ha dado una persona a Dios y al prójimo. En Mateo 25, los justos «heredan» un reino preparado para ellos; no se dice que lo compraron (Mateo 25:34). Los Evangelios no ofrecen aquí una teoría completa de gracia y obras, pero sí rechazan una fe meramente verbal que no produce una vida transformada.
 
-## 69. ¿Qué queda por saber después de establecer que el juicio de Jesús es real y no arbitrario?
+## 69. ¿Qué evidencia entrega este capítulo a las tres explicaciones del juicio final?
 
-Todavía falta una parte decisiva. Ya vimos que Jesús busca al perdido, ama a sus enemigos, llama al arrepentimiento y advierte de una exclusión y una destrucción reales. También vimos que Dios juzga según la verdad, las oportunidades y la manera en que cada uno trató a los demás. Pero todavía no sabemos qué hace ese castigo con quien lo recibe, cuánto dura ni si el juicio es la última palabra sobre esa persona. Esa es la cuestión que debemos examinar ahora.
+El mejor caso universalista no depende de una palabra aislada. Surge de una convergencia: Jesús busca lo perdido y persevera en la búsqueda; Dios toma la iniciativa, ama a enemigos y juzga según la luz recibida; el Hijo libera de la esclavitud, derrota poderes que mantienen cautivas a personas y extiende su misión a todas las naciones. Esto establece el carácter y la dirección de su misión. No predice todavía que cada individuo terminará restaurado.
+
+El mejor caso aniquilacionista también es acumulativo: árboles cortados, paja quemada, personas que perecen, camino a destrucción, alma y cuerpo destruidos en Gehena, cizaña y peces malos arrojados al horno, destrucción en los días de Noé y Lot y puertas que quedan cerradas. No hace falta que cada imagen añada la frase «inexistencia irreversible» para reconocer el peso del conjunto. Cada escena cuenta provisionalmente como terminal; el capítulo siguiente deberá preguntar si el conjunto establece además la irreversibilidad definitiva de esa destrucción.
+
+El mejor caso para tormento consciente sin fin encuentra apoyo real para juicio consciente: exclusión, llanto, rechinar de dientes, Gehena y fuego. Algunas escenas pueden implicar sufrimiento y duración severa. Pero sufrimiento consciente, duración prolongada y duración interminable no son sinónimos. Los textos examinados aquí no bastan por sí solos para demostrar que la conciencia dolorosa nunca termina; el argumento más fuerte tendrá que incorporar los pasajes sobre castigo *aiōnios* que estudiaremos a continuación.
+
+## 70. ¿Qué queda por saber después de establecer que el juicio de Jesús es real y no arbitrario?
+
+Todavía falta una parte decisiva. Ya vimos que Jesús busca, libera y salva; que su misión se extiende más allá de Israel; y que la iniciativa divina, las oportunidades y la respuesta humana importan. También vimos destrucción, Gehena, fuego, puertas cerradas y separaciones ligadas al fin de la era. Dentro de cada escena terminal, la destrucción o exclusión cuenta provisionalmente como final; ninguna imagen de amplitud, amor o victoria demuestra la restauración de cada individuo. Pero todavía no sabemos qué hace finalmente el castigo con quien lo recibe, cuánto dura ni si el juicio es la última palabra. Esa es la cuestión del capítulo siguiente.
