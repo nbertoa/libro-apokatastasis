@@ -2,11 +2,9 @@
 
 Llegamos al final del argumento. Todo lo que sigue debe leerse de otra manera.
 
-No es una prueba de la restauración universal. Una idea no se vuelve verdadera porque sea hermosa. Tampoco podemos decidir el destino final de nadie por lo que nos gustaría que ocurriera. Durante todo este libro intentamos hacer lo contrario: escuchar los textos difíciles, conservar las tensiones y no llamar demostrado a lo que sólo es posible.
+El recorrido terminó con una conclusión que no coincide del todo con mi esperanza: la destrucción definitiva quedó ligeramente mejor apoyada, aunque con baja confianza. La restauración universal, en cambio, quedó como una esperanza razonada y bíblicamente seria, mantenida especialmente por Romanos 5, pero sin evidencia suficiente para considerarla la explicación más probable. Lo que sigue no pretende cambiar ese resultado. Es simplemente la pregunta que todavía me queda como persona:
 
-Pero después de preguntar durante tantos capítulos qué puede afirmar la evidencia, podemos permitirnos una última pregunta:
-
-**Si Dios llegara realmente a restaurar a todos los seres humanos, ¿cómo se vería una victoria así?**
+**Si la restauración de todos fuera posible y justa, ¿cómo se vería una victoria así?**
 
 ## ¿No nos dio ya la Biblia pequeñas imágenes de reconciliación?
 
