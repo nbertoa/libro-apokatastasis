@@ -106,7 +106,7 @@ El texto no enseña la salvación de toda la humanidad. Su función aquí es otr
 
 Pablo dice: Dios `synekleisen`, «encerró», a `tous pantas` en desobediencia `hina tous pantas eleēsē`, «para tener misericordia de todos». Los mismos «todos» aparecen en ambos lados y la construcción con `hina` expresa el propósito de la acción divina. Además, en este contexto misericordia no es mera benevolencia: está ligada a reinjerto, aceptación y salvación.
 
-Sin embargo, Romanos 11:30-31 acaba de distribuir la historia entre gentiles y judíos: unos fueron desobedientes y recibieron misericordia; los otros ahora desobedecen para recibir también misericordia. Por eso el referente más seguro son **judíos y gentiles como totalidades históricas**, no cada individuo sin excepción. El versículo afirma que ningún pueblo queda fuera del propósito misericordioso de Dios y que la misma desobediencia colectiva queda subordinada a ese propósito. Para convertirlo en una predicción de salvación individual universal hace falta un paso que el texto no explicita.
+Sin embargo, Romanos 11:30-31 acaba de distribuir la historia entre gentiles y judíos: unos fueron desobedientes y recibieron misericordia; los otros ahora desobedecen para recibir también misericordia. Por eso el referente mínimo seguro son **judíos y gentiles como totalidades históricas**. También es posible leer el cierre de 11:32 de manera más distributiva, como una recapitulación del argumento de Romanos 1–11 en la que toda persona encerrada en desobediencia queda bajo el propósito de misericordia; la amplitud repetida de «todos» da una razón real para esa lectura. El contexto inmediato, sin embargo, no obliga por sí solo a pasar de las dos totalidades históricas a cada individuo sin excepción. El versículo afirma con gran fuerza que ningún pueblo queda fuera del propósito misericordioso de Dios; su uso como predicción de salvación individual universal requiere todavía justificar ese paso adicional.
 
 ## 19. ¿Qué afirma Romanos con mayor confianza al reunir estos pasajes?
 
@@ -168,7 +168,7 @@ Pero «en todos» no identifica por sí solo a cada individuo humano ni dice que
 
 La lectura local más probable es **resurrección salvadora de todos los que están en Cristo y le pertenecen**, no un resultado universal individual explícito. La razón decisiva no es que `zōopoieō` sea débil: es precisamente vida salvadora. La razón es que 15:18, 22-23 y 35-58 mantienen en primer plano a los creyentes muertos y nombran a «los de Cristo» como la cohorte de su venida.
 
-Por eso el pasaje ofrece evidencia universal positiva pero ambigua: la simetría Adán-Cristo, la derrota de la muerte, la sujeción de todo y «Dios todo en todos» crean una visión de victoria total; sin embargo, no muestran que otros se incorporen después de los de Cristo. Su peso universalista debe reducirse respecto de una lectura que daba por sentado que `pantes` significaba cada ser humano. Si esa restricción fuera errónea, el sentido salvífico de `zōopoieō` convertiría el texto en una de las afirmaciones universalistas más fuertes del Nuevo Testamento.
+Por eso el pasaje ofrece **evidencia fuerte de victoria cósmica y una presión universalista real, pero evidencia individual ambigua**: la simetría Adán-Cristo, la derrota de la muerte, la sujeción de todo y «Dios todo en todos» crean una visión de victoria total; sin embargo, no muestran que otros se incorporen después de los de Cristo. Su peso como prueba de salvación universal individual debe reducirse respecto de una lectura que daba por sentado que `pantes` significaba cada ser humano. Si esa restricción fuera errónea, el sentido salvífico de `zōopoieō` convertiría el texto en una de las afirmaciones universalistas más fuertes del Nuevo Testamento.
 
 ## 29. ¿Muestra 1 Corintios 3 que fuego y salvación pueden coexistir?
 
@@ -258,9 +258,9 @@ El texto no obliga a imaginar una destrucción que se ejecuta sin fin como proce
 
 ## 43. ¿Significa `apo prosōpou` «lejos de la presencia» o «procedente de la presencia»?
 
-La preposición `apo` puede marcar separación o procedencia. La expresión alude al lenguaje de Isaías sobre esconderse «del rostro» y «de la gloria» del Señor cuando se levanta para juzgar. Por eso, contextual e intertextualmente, la lectura más probable es exclusión o alejamiento de la presencia gloriosa y favorable del Señor; no una afirmación metafísica de que Dios esté ausente de algún lugar. La traducción «destrucción procedente del rostro del Señor» sigue siendo gramaticalmente posible y conserva la idea de que el juicio sale de su aparición.
+La preposición `apo` puede marcar separación o procedencia. La expresión alude al lenguaje de Isaías sobre esconderse «del rostro» y «de la gloria» del Señor cuando se levanta para juzgar. Ese trasfondo da una base real a la lectura de exclusión o alejamiento de la presencia gloriosa y favorable del Señor. Pero la construcción también puede describir una destrucción que **procede de** su presencia y de la gloria de su poder, algo que encaja con el contexto inmediato de la revelación judicial de Cristo. La gramática y la alusión profética no permiten escoger entre ambas posibilidades con alta confianza.
 
-La diferencia no decide entre los tres modelos. En ambos casos el Señor mismo causa o define la ruina. El texto es fuerte para un resultado perdurable y para exclusión; es menos específico sobre si esa ruina conserva consciencia para siempre o culmina en muerte.
+La diferencia no decide entre los tres modelos. En una lectura, la ruina incluye exclusión; en la otra, procede de la aparición poderosa del Señor. En ambas, la sentencia es grave y perdurable. El texto es menos específico sobre si esa ruina conserva consciencia para siempre o culmina en muerte.
 
 ## 44. ¿Cuál es el mejor caso paulino para sufrimiento consciente y definitivo?
 
