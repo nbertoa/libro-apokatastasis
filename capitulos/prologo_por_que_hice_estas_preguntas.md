@@ -50,6 +50,8 @@ Tampoco quería hacer eso.
 
 Quise intentar algo más incómodo: hacer preguntas que pudieran llevarme a conclusiones que no esperaba.
 
+Eso incluye la posibilidad de que la restauración universal no termine siendo la explicación mejor apoyada. Mi esperanza personal y el resultado de la investigación no tienen por qué coincidir. La meta de este libro es comparar las tres respuestas y decir cuál queda mejor apoyada por el conjunto —y con qué grado de confianza—, no demostrar una tesis elegida de antemano.
+
 Eso significa que mis propias intuiciones también tenían que quedar bajo examen.
 
 Si una idea me parecía hermosa, eso no bastaba para hacerla verdadera. Si una doctrina me parecía difícil, eso tampoco bastaba para hacerla falsa. Si la mayoría de los cristianos había creído algo, no quería descartarlo ni aceptarlo simplemente porque lo creyera la mayoría.
