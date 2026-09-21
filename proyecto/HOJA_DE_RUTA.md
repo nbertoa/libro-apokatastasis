@@ -18,7 +18,9 @@
 
 La arquitectura argumental está completa y pasó por rondas sucesivas de auditoría de coherencia, imparcialidad, cobertura bíblica, claridad y continuidad.
 
-La fase principal de auditoría queda cerrada para esta edición. El proyecto entra en **preparación editorial y publicación**.
+La fase principal de auditoría queda cerrada para esta edición. La auditoría argumentativa final del **21 de septiembre de 2026** no encontró defectos críticos, altos ni medios que justifiquen reabrir el manuscrito. El veredicto del capítulo 9 se mantiene: **la destrucción definitiva queda ligeramente mejor apoyada, con baja confianza**; la restauración universal permanece como esperanza razonada y bíblicamente seria.
+
+El proyecto entra en **preparación editorial y publicación**.
 
 ## ¿Cuál es el formato físico elegido?
 

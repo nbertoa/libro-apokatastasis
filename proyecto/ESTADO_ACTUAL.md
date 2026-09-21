@@ -45,7 +45,9 @@ La fase principal de auditoría de contenido se considera **cerrada para esta ed
 
 El **18 de septiembre de 2026** se hizo una reapertura puntual por nueva evidencia académica: se precisó la compatibilidad entre libertad y conversión cierta y la dificultad de explicar un rechazo eternamente irreversible en el capítulo 1; se reforzaron y limitaron varios argumentos paulinos en el capítulo 7, incluido un control de 1 Enoc sobre la relación entre postración y salvación; se amplió el capítulo 8 con 1 Enoc 50, 90 y 91 como trasfondo apocalíptico para juicio, arrepentimiento y transformación de las naciones; y se restituyó en el capítulo 9 un control histórico breve sobre la antigüedad de la apocatástasis, el testimonio adversarial de Agustín y las condenas anti-origenistas del siglo VI. Esta intervención no reabre la auditoría integral.
 
-La conclusión final sigue siendo deliberadamente provisional: la restauración universal humana aparece como la explicación que mejor integra el conjunto estudiado, sin quedar demostrada; la destrucción definitiva conserva una ventaja de lectura directa en numerosos textos de juicio, y el tormento consciente sin fin conserva textos especialmente fuertes de duración y sufrimiento.
+El **21 de septiembre de 2026** se realizó una auditoría argumentativa final de prólogo, capítulos 1–9 y epílogo. No se detectaron defectos críticos, altos ni medios que justifiquen reabrir el manuscrito antes de publicar. La conclusión es congelar el contenido argumentativo de la primera edición y pasar a producción editorial.
+
+El veredicto final del capítulo 9 es: **la destrucción definitiva queda ligeramente mejor apoyada, con baja confianza**. La restauración universal queda como **esperanza razonada y bíblicamente seria**, sostenida especialmente por Romanos 5, pero no como la explicación mejor apoyada actualmente. El tormento consciente sin fin conserva textos locales fuertes de conciencia y duración, pero queda detrás en la comparación global.
 
 ## ¿Por qué están Hechos y las demás epístolas antes de Pablo?
 
